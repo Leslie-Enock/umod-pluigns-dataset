@@ -1,0 +1,21 @@
+{
+  "id": "neutral-npcs",
+  "name": "NeutralNPCs",
+  "author": "0x89A",
+  "description": "NPCs only attack if they are attacked first",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11676,
+  "latest_version": "2.0.1",
+  "created_at": "2020-06-18T22:46:37",
+  "updated_at": "2025-03-21T00:34:27",
+  "versions": [
+    {
+      "version": "2.0.1",
+      "released_at": "2025-03-23T23:54:51.462261",
+      "download_url": "https://umod.org/plugins/neutral-npcs/download/latest",
+      "changelog": null
+    }
+  ]
+}

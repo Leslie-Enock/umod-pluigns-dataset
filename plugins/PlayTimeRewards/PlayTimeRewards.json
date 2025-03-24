@@ -1,0 +1,22 @@
+{
+  "id": "play-time-rewards",
+  "name": "PlayTimeRewards",
+  "author": "khan",
+  "description": "Rewards Players for being active, Includes a Leader Board",
+  "categories": [
+    "rust",
+    "hurtworld"
+  ],
+  "total_downloads": 22246,
+  "latest_version": "1.2.2",
+  "created_at": "2021-05-28T11:43:35",
+  "updated_at": "2024-10-06T05:34:18",
+  "versions": [
+    {
+      "version": "1.2.2",
+      "released_at": "2025-03-24T00:01:01.958862",
+      "download_url": "https://umod.org/plugins/play-time-rewards/download/latest",
+      "changelog": null
+    }
+  ]
+}

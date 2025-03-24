@@ -1,0 +1,21 @@
+{
+  "id": "polls",
+  "name": "Polling",
+  "author": "",
+  "description": "Polling system core with built in polls.",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 15,
+  "latest_version": "1.2.3",
+  "created_at": "2018-08-05T18:33:37",
+  "updated_at": "2024-10-06T05:34:16",
+  "versions": [
+    {
+      "version": "1.2.3",
+      "released_at": "2025-03-24T00:02:17.955012",
+      "download_url": "https://umod.org/plugins/polls/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "global-mail",
+  "name": "GlobalMail",
+  "author": "Hovmodet",
+  "description": "Spawns a mailbox next to every recycler, which allows players to mail an item",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7392,
+  "latest_version": "1.0.4",
+  "created_at": "2021-01-12T12:14:50",
+  "updated_at": "2025-03-17T15:09:45",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:41:19.527528",
+      "download_url": "https://umod.org/plugins/global-mail/download/latest",
+      "changelog": null
+    }
+  ]
+}

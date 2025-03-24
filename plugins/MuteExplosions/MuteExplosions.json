@@ -1,0 +1,21 @@
+{
+  "id": "mute-explosions",
+  "name": "MuteExplosions",
+  "author": "1AK1",
+  "description": "Mutes explosion sounds for everyone but the initiator",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5171,
+  "latest_version": "1.0.3",
+  "created_at": "2021-01-23T18:18:56",
+  "updated_at": "2025-03-14T15:50:32",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:54:11.730632",
+      "download_url": "https://umod.org/plugins/mute-explosions/download/latest",
+      "changelog": null
+    }
+  ]
+}

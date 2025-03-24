@@ -1,0 +1,21 @@
+{
+  "id": "deathmatch",
+  "name": "Deathmatch",
+  "author": "k1lly0u",
+  "description": "Arena deathmatch event for Event Manager",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13181,
+  "latest_version": "3.0.1",
+  "created_at": "2018-08-05T17:58:50",
+  "updated_at": "2025-03-23T18:30:12",
+  "versions": [
+    {
+      "version": "3.0.1",
+      "released_at": "2025-03-23T23:32:27.679190",
+      "download_url": "https://umod.org/plugins/deathmatch/download/latest",
+      "changelog": null
+    }
+  ]
+}

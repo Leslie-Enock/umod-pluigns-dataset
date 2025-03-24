@@ -1,0 +1,21 @@
+{
+  "id": "loot-protection",
+  "name": "LootProtection",
+  "author": "MrBlue",
+  "description": "Protects lootables from being looted by other players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11389,
+  "latest_version": "1.0.1",
+  "created_at": "2018-08-02T18:46:16",
+  "updated_at": "2025-03-23T17:37:13",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:49:25.799565",
+      "download_url": "https://umod.org/plugins/loot-protection/download/latest",
+      "changelog": null
+    }
+  ]
+}

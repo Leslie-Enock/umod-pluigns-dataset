@@ -1,0 +1,21 @@
+{
+  "id": "discord-connect-commands",
+  "name": "DiscordConnectCommands",
+  "author": "misticos",
+  "description": "Execute commands on Discord Connect events",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 6351,
+  "latest_version": "1.0.4",
+  "created_at": "2019-06-24T08:34:17",
+  "updated_at": "2025-03-20T21:34:41",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:33:07.979962",
+      "download_url": "https://umod.org/plugins/discord-connect-commands/download/latest",
+      "changelog": null
+    }
+  ]
+}

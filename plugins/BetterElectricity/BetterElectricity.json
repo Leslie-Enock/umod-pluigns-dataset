@@ -1,0 +1,21 @@
+{
+  "id": "better-electricity",
+  "name": "BetterElectricity",
+  "author": "Rick6",
+  "description": "Fully configurable electricity",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18207,
+  "latest_version": "1.2.4",
+  "created_at": "2019-01-20T03:40:12",
+  "updated_at": "2025-03-23T13:43:56",
+  "versions": [
+    {
+      "version": "1.2.4",
+      "released_at": "2025-03-23T23:22:27.115133",
+      "download_url": "https://umod.org/plugins/better-electricity/download/latest",
+      "changelog": null
+    }
+  ]
+}

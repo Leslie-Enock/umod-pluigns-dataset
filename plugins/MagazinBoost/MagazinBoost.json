@@ -1,0 +1,21 @@
+{
+  "id": "magazin-booster",
+  "name": "MagazinBoost",
+  "author": "",
+  "description": "Can change magazines, ammo and condition for most projectile weapons",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11104,
+  "latest_version": "1.6.2",
+  "created_at": "2018-08-05T16:52:33",
+  "updated_at": "2025-03-22T10:11:57",
+  "versions": [
+    {
+      "version": "1.6.2",
+      "released_at": "2025-03-23T23:49:39.551982",
+      "download_url": "https://umod.org/plugins/magazin-booster/download/latest",
+      "changelog": null
+    }
+  ]
+}

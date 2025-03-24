@@ -1,0 +1,21 @@
+{
+  "id": "admin-time",
+  "name": "AdminTime",
+  "author": "Rustic0",
+  "description": "Allows admins to use /day, /night, and /now to change their local time in game.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8922,
+  "latest_version": "1.1.0",
+  "created_at": "2022-12-18T01:59:15",
+  "updated_at": "2025-03-23T16:29:19",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:17:03.042266",
+      "download_url": "https://umod.org/plugins/admin-time/download/latest",
+      "changelog": null
+    }
+  ]
+}

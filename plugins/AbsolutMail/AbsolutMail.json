@@ -1,0 +1,21 @@
+{
+  "id": "absolut-mail",
+  "name": "AbsolutMail",
+  "author": "",
+  "description": "An in-game mail system where players can send messages and attach items",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3976,
+  "latest_version": "1.0.7",
+  "created_at": "2018-08-05T18:00:55",
+  "updated_at": "2024-10-06T05:38:59",
+  "versions": [
+    {
+      "version": "1.0.7",
+      "released_at": "2025-03-23T23:16:12.318669",
+      "download_url": "https://umod.org/plugins/absolut-mail/download/latest",
+      "changelog": null
+    }
+  ]
+}

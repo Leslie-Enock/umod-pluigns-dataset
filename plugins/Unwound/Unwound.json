@@ -1,0 +1,21 @@
+{
+  "id": "unwound",
+  "name": "Unwound",
+  "author": "",
+  "description": "The sky presents the newest technology in calling the MEDIC",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 31599,
+  "latest_version": "1.0.20",
+  "created_at": "2018-08-02T18:37:49",
+  "updated_at": "2025-03-20T13:40:33",
+  "versions": [
+    {
+      "version": "1.0.20",
+      "released_at": "2025-03-24T00:20:10.328508",
+      "download_url": "https://umod.org/plugins/unwound/download/latest",
+      "changelog": null
+    }
+  ]
+}

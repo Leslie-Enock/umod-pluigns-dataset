@@ -1,0 +1,21 @@
+{
+  "id": "armor-not-forever",
+  "name": "ArmorNotForever",
+  "author": "Flames",
+  "description": "This plugin allows NPC reduce the durability of equipped armor.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6291,
+  "latest_version": "1.0.10",
+  "created_at": "2022-01-21T13:17:40",
+  "updated_at": "2025-03-23T04:55:04",
+  "versions": [
+    {
+      "version": "1.0.10",
+      "released_at": "2025-03-23T23:19:00.973489",
+      "download_url": "https://umod.org/plugins/armor-not-forever/download/latest",
+      "changelog": null
+    }
+  ]
+}

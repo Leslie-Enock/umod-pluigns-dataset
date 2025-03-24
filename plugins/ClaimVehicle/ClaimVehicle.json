@@ -1,0 +1,21 @@
+{
+  "id": "claim-vehicle",
+  "name": "ClaimVehicle",
+  "author": "WhiteThunder",
+  "description": "Allows players to claim ownership of unowned vehicles",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9696,
+  "latest_version": "1.8.0",
+  "created_at": "2020-09-13T00:13:35",
+  "updated_at": "2025-03-22T17:00:09",
+  "versions": [
+    {
+      "version": "1.8.0",
+      "released_at": "2025-03-23T23:27:25.132515",
+      "download_url": "https://umod.org/plugins/claim-vehicle/download/latest",
+      "changelog": null
+    }
+  ]
+}

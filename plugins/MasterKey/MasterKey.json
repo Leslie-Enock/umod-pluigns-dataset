@@ -1,0 +1,21 @@
+{
+  "id": "master-key",
+  "name": "MasterKey",
+  "author": "FastBurst",
+  "description": "Gain access and/or authorization to any locked object with permissions.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 26040,
+  "latest_version": "0.7.8",
+  "created_at": "2018-07-24T21:35:12",
+  "updated_at": "2025-03-23T09:56:49",
+  "versions": [
+    {
+      "version": "0.7.8",
+      "released_at": "2025-03-23T23:52:27.541736",
+      "download_url": "https://umod.org/plugins/master-key/download/latest",
+      "changelog": null
+    }
+  ]
+}

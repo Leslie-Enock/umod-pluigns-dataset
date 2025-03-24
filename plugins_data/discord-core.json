@@ -1,0 +1,21 @@
+{
+  "id": "discord-core",
+  "name": "DiscordCore",
+  "author": "MJSU",
+  "description": "Creates a link between a player and a Discord server",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 50945,
+  "latest_version": "3.0.2",
+  "created_at": "2018-08-24T10:33:21",
+  "updated_at": "2025-03-23T16:47:41",
+  "versions": [
+    {
+      "version": "3.0.2",
+      "released_at": "2025-03-23T23:33:19.196488",
+      "download_url": "https://umod.org/plugins/discord-core/download/latest",
+      "changelog": null
+    }
+  ]
+}

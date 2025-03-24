@@ -1,0 +1,22 @@
+{
+  "id": "imgur-api",
+  "name": "ImgurApi",
+  "author": "MJSU",
+  "description": "Plugin API for uploading images to imgur.com",
+  "categories": [
+    "rust",
+    "7-days-to-die"
+  ],
+  "total_downloads": 10065,
+  "latest_version": "1.0.2",
+  "created_at": "2020-06-18T13:20:27",
+  "updated_at": "2025-03-23T06:23:16",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:44:34.666968",
+      "download_url": "https://umod.org/plugins/imgur-api/download/latest",
+      "changelog": null
+    }
+  ]
+}

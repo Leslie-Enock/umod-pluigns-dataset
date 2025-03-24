@@ -1,0 +1,21 @@
+{
+  "id": "nteleportation",
+  "name": "NTeleportation",
+  "author": "nivex",
+  "description": "Multiple teleportation systems for admin and players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 324907,
+  "latest_version": "1.8.9",
+  "created_at": "2018-08-05T16:56:43",
+  "updated_at": "2025-03-23T18:51:08",
+  "versions": [
+    {
+      "version": "1.8.9",
+      "released_at": "2025-03-23T23:58:35.622200",
+      "download_url": "https://umod.org/plugins/nteleportation/download/latest",
+      "changelog": null
+    }
+  ]
+}

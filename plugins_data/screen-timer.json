@@ -1,0 +1,21 @@
+{
+  "id": "screen-timer",
+  "name": "ScreenTimer",
+  "author": "",
+  "description": "Allows creation of multiple GUI timers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 191,
+  "latest_version": "2.0.1",
+  "created_at": "2018-08-05T18:27:49",
+  "updated_at": "2024-10-06T05:33:29",
+  "versions": [
+    {
+      "version": "2.0.1",
+      "released_at": "2025-03-24T00:10:20.072220",
+      "download_url": "https://umod.org/plugins/screen-timer/download/latest",
+      "changelog": null
+    }
+  ]
+}

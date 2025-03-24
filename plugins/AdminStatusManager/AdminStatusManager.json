@@ -1,0 +1,21 @@
+{
+  "id": "admin-status-manager",
+  "name": "AdminStatusManager",
+  "author": "Ryz0r",
+  "description": "Gives those with permission admin status on connect and/or on command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8358,
+  "latest_version": "1.1.1",
+  "created_at": "2020-10-22T05:14:29",
+  "updated_at": "2025-03-23T16:23:16",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-23T23:16:50.104946",
+      "download_url": "https://umod.org/plugins/admin-status-manager/download/latest",
+      "changelog": null
+    }
+  ]
+}

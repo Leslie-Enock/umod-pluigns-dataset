@@ -1,0 +1,21 @@
+{
+  "id": "no-mini",
+  "name": "NoMini",
+  "author": "Sche1sseHund",
+  "description": "Prevents players from using mini or scrap helicopters or prevent them from spawning altogether",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 1368,
+  "latest_version": "0.9",
+  "created_at": "2022-08-29T21:07:06",
+  "updated_at": "2025-03-22T23:35:33",
+  "versions": [
+    {
+      "version": "0.9",
+      "released_at": "2025-03-23T23:56:38.924938",
+      "download_url": "https://umod.org/plugins/no-mini/download/latest",
+      "changelog": null
+    }
+  ]
+}

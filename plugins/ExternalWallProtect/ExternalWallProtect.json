@@ -1,0 +1,21 @@
+{
+  "id": "external-wall-protect",
+  "name": "ExternalWallProtect",
+  "author": "redBDGR",
+  "description": "Prevents ladders from being able to be placed on external walls",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11890,
+  "latest_version": "1.0.3",
+  "created_at": "2018-07-24T21:35:07",
+  "updated_at": "2025-03-23T17:56:48",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:38:06.685101",
+      "download_url": "https://umod.org/plugins/external-wall-protect/download/latest",
+      "changelog": null
+    }
+  ]
+}

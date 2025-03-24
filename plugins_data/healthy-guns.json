@@ -1,0 +1,21 @@
+{
+  "id": "healthy-guns",
+  "name": "HealthyGuns",
+  "author": "VisEntities",
+  "description": "Restores full condition to weapons spawned in loot crates and barrels",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15235,
+  "latest_version": "4.1.0",
+  "created_at": "2018-08-02T18:36:12",
+  "updated_at": "2025-03-22T00:38:21",
+  "versions": [
+    {
+      "version": "4.1.0",
+      "released_at": "2025-03-23T23:43:04.739018",
+      "download_url": "https://umod.org/plugins/healthy-guns/download/latest",
+      "changelog": null
+    }
+  ]
+}

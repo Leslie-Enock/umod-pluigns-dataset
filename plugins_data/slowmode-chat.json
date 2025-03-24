@@ -1,0 +1,21 @@
+{
+  "id": "slowmode-chat",
+  "name": "SlowmodeChat",
+  "author": "Death",
+  "description": "Temporarily or permanently restrict players to sending one message per configured interval",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14476,
+  "latest_version": "1.0.8",
+  "created_at": "2018-12-23T03:25:58",
+  "updated_at": "2025-03-23T04:31:07",
+  "versions": [
+    {
+      "version": "1.0.8",
+      "released_at": "2025-03-24T00:12:54.387377",
+      "download_url": "https://umod.org/plugins/slowmode-chat/download/latest",
+      "changelog": null
+    }
+  ]
+}

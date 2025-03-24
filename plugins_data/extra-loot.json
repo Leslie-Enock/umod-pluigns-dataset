@@ -1,0 +1,21 @@
+{
+  "id": "extra-loot",
+  "name": "ExtraLoot",
+  "author": "shady14u",
+  "description": "Add extra items (including custom) to any loot container in the game",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18067,
+  "latest_version": "1.0.8",
+  "created_at": "2019-05-01T04:52:17",
+  "updated_at": "2025-03-23T15:01:44",
+  "versions": [
+    {
+      "version": "1.0.8",
+      "released_at": "2025-03-23T23:38:06.685486",
+      "download_url": "https://umod.org/plugins/extra-loot/download/latest",
+      "changelog": null
+    }
+  ]
+}

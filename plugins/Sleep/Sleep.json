@@ -1,0 +1,21 @@
+{
+  "id": "sleep",
+  "name": "Sleep",
+  "author": "",
+  "description": "Allows players with permission to get a well-rested sleep",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11114,
+  "latest_version": "0.2.0",
+  "created_at": "2018-08-02T18:34:33",
+  "updated_at": "2025-03-17T15:03:59",
+  "versions": [
+    {
+      "version": "0.2.0",
+      "released_at": "2025-03-24T00:12:30.498443",
+      "download_url": "https://umod.org/plugins/sleep/download/latest",
+      "changelog": null
+    }
+  ]
+}

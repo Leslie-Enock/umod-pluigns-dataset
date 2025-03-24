@@ -1,0 +1,21 @@
+{
+  "id": "shared-doors",
+  "name": "SharedDoors",
+  "author": "dbteku",
+  "description": "Sharing doors with friends via the tool cupboard.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 19391,
+  "latest_version": "2.0.1",
+  "created_at": "2018-08-05T17:13:47",
+  "updated_at": "2025-03-22T21:31:17",
+  "versions": [
+    {
+      "version": "2.0.1",
+      "released_at": "2025-03-24T00:10:46.051280",
+      "download_url": "https://umod.org/plugins/shared-doors/download/latest",
+      "changelog": null
+    }
+  ]
+}

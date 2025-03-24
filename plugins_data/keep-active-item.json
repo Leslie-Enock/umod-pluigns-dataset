@@ -1,0 +1,21 @@
+{
+  "id": "keep-active-item",
+  "name": "KeepActiveItem",
+  "author": "Ryz0r",
+  "description": "Restores a player's held item in their corpse's hotbar when they die.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8176,
+  "latest_version": "2.1.0",
+  "created_at": "2018-07-24T21:35:11",
+  "updated_at": "2025-03-23T01:31:50",
+  "versions": [
+    {
+      "version": "2.1.0",
+      "released_at": "2025-03-23T23:47:15.947668",
+      "download_url": "https://umod.org/plugins/keep-active-item/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "start-protection",
+  "name": "StartProtection",
+  "author": "",
+  "description": "Protects new players when they first connect after a server wipe",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 33914,
+  "latest_version": "2.3.2",
+  "created_at": "2018-08-05T17:01:45",
+  "updated_at": "2025-03-23T01:45:02",
+  "versions": [
+    {
+      "version": "2.3.2",
+      "released_at": "2025-03-24T00:14:02.514412",
+      "download_url": "https://umod.org/plugins/start-protection/download/latest",
+      "changelog": null
+    }
+  ]
+}

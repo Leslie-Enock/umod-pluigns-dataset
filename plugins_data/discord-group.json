@@ -1,0 +1,21 @@
+{
+  "id": "discord-group",
+  "name": "DiscordGroup",
+  "author": "MJSU",
+  "description": "Adds players to the Discord role after linking their game and Discord accounts",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 12023,
+  "latest_version": "2.1.0",
+  "created_at": "2019-11-14T09:07:22",
+  "updated_at": "2025-03-21T13:54:15",
+  "versions": [
+    {
+      "version": "2.1.0",
+      "released_at": "2025-03-23T23:33:19.197478",
+      "download_url": "https://umod.org/plugins/discord-group/download/latest",
+      "changelog": null
+    }
+  ]
+}

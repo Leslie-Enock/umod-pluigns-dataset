@@ -1,0 +1,21 @@
+{
+  "id": "layers-of-risk",
+  "name": "LayersOfRisk",
+  "author": "MikeDanielsson",
+  "description": "Play in this new game changing world where more focus is on how you choose your risks.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5074,
+  "latest_version": "1.24",
+  "created_at": "2021-05-22T18:08:01",
+  "updated_at": "2025-03-21T23:20:01",
+  "versions": [
+    {
+      "version": "1.24",
+      "released_at": "2025-03-23T23:48:08.323996",
+      "download_url": "https://umod.org/plugins/layers-of-risk/download/latest",
+      "changelog": null
+    }
+  ]
+}

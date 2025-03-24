@@ -1,0 +1,21 @@
+{
+  "id": "telegram-bot-api",
+  "name": "TelegramBotAPI",
+  "author": "NoxiousPluK",
+  "description": "Send messages using the Telegram Bot API",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2172,
+  "latest_version": "0.1.2",
+  "created_at": "2021-12-14T19:04:34",
+  "updated_at": "2025-03-14T19:35:43",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "released_at": "2025-03-24T00:16:37.722680",
+      "download_url": "https://umod.org/plugins/telegram-bot-api/download/latest",
+      "changelog": null
+    }
+  ]
+}

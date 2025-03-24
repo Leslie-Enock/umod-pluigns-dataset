@@ -1,0 +1,21 @@
+{
+  "id": "data-logging",
+  "name": "DataLogging",
+  "author": "Rustoholics",
+  "description": "Base class to record stats from the server for allowing other plugins to record data",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7541,
+  "latest_version": "0.1.1",
+  "created_at": "2021-10-15T07:11:48",
+  "updated_at": "2025-03-23T15:54:01",
+  "versions": [
+    {
+      "version": "0.1.1",
+      "released_at": "2025-03-23T23:31:51.392557",
+      "download_url": "https://umod.org/plugins/data-logging/download/latest",
+      "changelog": null
+    }
+  ]
+}

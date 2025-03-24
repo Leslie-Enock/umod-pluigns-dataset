@@ -1,0 +1,21 @@
+{
+  "id": "better-grenades",
+  "name": "BetterGrenades",
+  "author": "",
+  "description": "Adds enhanced features to grenades",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6066,
+  "latest_version": "1.0.3",
+  "created_at": "2018-07-24T21:35:03",
+  "updated_at": "2025-03-22T16:49:42",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:22:39.061318",
+      "download_url": "https://umod.org/plugins/better-grenades/download/latest",
+      "changelog": null
+    }
+  ]
+}

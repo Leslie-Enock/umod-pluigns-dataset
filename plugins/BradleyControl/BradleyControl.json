@@ -1,0 +1,21 @@
+{
+  "id": "bradley-control",
+  "name": "BradleyControl",
+  "author": "VisEntities",
+  "description": "Unlock Bradley's full potential with steroids",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18906,
+  "latest_version": "1.1.0",
+  "created_at": "2018-08-05T16:46:00",
+  "updated_at": "2025-03-23T16:02:09",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:24:14.562465",
+      "download_url": "https://umod.org/plugins/bradley-control/download/latest",
+      "changelog": null
+    }
+  ]
+}

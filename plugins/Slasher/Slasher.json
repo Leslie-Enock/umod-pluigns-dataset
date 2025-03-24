@@ -1,0 +1,21 @@
+{
+  "id": "slasher",
+  "name": "Slasher",
+  "author": "k1lly0u",
+  "description": "GTA 5 Slasher event arena game mode",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12447,
+  "latest_version": "0.3.2",
+  "created_at": "2018-08-02T21:41:07",
+  "updated_at": "2025-03-21T19:17:50",
+  "versions": [
+    {
+      "version": "0.3.2",
+      "released_at": "2025-03-24T00:12:30.498362",
+      "download_url": "https://umod.org/plugins/slasher/download/latest",
+      "changelog": null
+    }
+  ]
+}

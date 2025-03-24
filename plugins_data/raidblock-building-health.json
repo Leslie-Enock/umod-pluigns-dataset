@@ -1,0 +1,21 @@
+{
+  "id": "raidblock-building-health",
+  "name": "RaidblockBuildingHealth",
+  "author": "Razor",
+  "description": "Changing health of created/upgraded building blocks in raidblock with slow healing",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12192,
+  "latest_version": "2.0.0",
+  "created_at": "2019-09-05T05:32:43",
+  "updated_at": "2025-03-23T17:59:18",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-24T00:05:38.407068",
+      "download_url": "https://umod.org/plugins/raidblock-building-health/download/latest",
+      "changelog": null
+    }
+  ]
+}

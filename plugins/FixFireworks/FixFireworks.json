@@ -1,0 +1,21 @@
+{
+  "id": "fix-fireworks",
+  "name": "FixFireworks",
+  "author": "Clearshot",
+  "description": "Fix lit fireworks never firing",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4987,
+  "latest_version": "1.1.0",
+  "created_at": "2021-12-17T20:36:42",
+  "updated_at": "2025-03-23T10:17:03",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:39:06.816423",
+      "download_url": "https://umod.org/plugins/fix-fireworks/download/latest",
+      "changelog": null
+    }
+  ]
+}

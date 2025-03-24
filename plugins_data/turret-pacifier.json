@@ -1,0 +1,21 @@
+{
+  "id": "turret-pacifier",
+  "name": "TurretPacifier",
+  "author": "TheFriendlyChap",
+  "description": "Prevents autoturrets from targeting innocent players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13863,
+  "latest_version": "0.0.3",
+  "created_at": "2020-11-08T09:46:14",
+  "updated_at": "2025-03-14T17:45:39",
+  "versions": [
+    {
+      "version": "0.0.3",
+      "released_at": "2025-03-24T00:19:02.795826",
+      "download_url": "https://umod.org/plugins/turret-pacifier/download/latest",
+      "changelog": null
+    }
+  ]
+}

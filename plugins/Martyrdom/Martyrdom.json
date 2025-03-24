@@ -1,0 +1,21 @@
+{
+  "id": "martyrdom",
+  "name": "Martyrdom",
+  "author": "k1lly0u",
+  "description": "Drops a grenade/beancan grenade/timed explosive on death",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9976,
+  "latest_version": "0.2.1",
+  "created_at": "2018-08-02T21:41:25",
+  "updated_at": "2025-03-18T00:20:15",
+  "versions": [
+    {
+      "version": "0.2.1",
+      "released_at": "2025-03-23T23:52:27.541323",
+      "download_url": "https://umod.org/plugins/martyrdom/download/latest",
+      "changelog": null
+    }
+  ]
+}

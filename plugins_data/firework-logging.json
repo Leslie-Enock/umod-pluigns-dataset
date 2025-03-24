@@ -1,0 +1,21 @@
+{
+  "id": "firework-logging",
+  "name": "FireWorkLogging",
+  "author": "mrcameron999",
+  "description": "Creates and logs players pattern fireworks that are fired to a Discord channel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2678,
+  "latest_version": "1.0.2",
+  "created_at": "2021-12-23T22:25:04",
+  "updated_at": "2025-03-23T15:53:40",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:38:55.199329",
+      "download_url": "https://umod.org/plugins/firework-logging/download/latest",
+      "changelog": null
+    }
+  ]
+}

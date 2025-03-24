@@ -1,0 +1,21 @@
+{
+  "id": "npc-tp",
+  "name": "Npctp",
+  "author": "Razor",
+  "description": "Creates NPCs that teleport players anywhere, run commands, or open doors",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9319,
+  "latest_version": "2.5.1",
+  "created_at": "2018-08-05T16:47:19",
+  "updated_at": "2025-03-22T21:07:26",
+  "versions": [
+    {
+      "version": "2.5.1",
+      "released_at": "2025-03-23T23:58:20.873322",
+      "download_url": "https://umod.org/plugins/npc-tp/download/latest",
+      "changelog": null
+    }
+  ]
+}

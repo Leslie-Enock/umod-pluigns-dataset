@@ -1,0 +1,21 @@
+{
+  "id": "steam-checks",
+  "name": "SteamChecks",
+  "author": "shady14u",
+  "description": "Checks connecting users for configurable criteria of the Steam WebAPI and kicks if not fulfilled",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 22902,
+  "latest_version": "5.0.8",
+  "created_at": "2018-07-24T21:35:21",
+  "updated_at": "2025-03-23T04:56:05",
+  "versions": [
+    {
+      "version": "5.0.8",
+      "released_at": "2025-03-24T00:14:27.639062",
+      "download_url": "https://umod.org/plugins/steam-checks/download/latest",
+      "changelog": null
+    }
+  ]
+}

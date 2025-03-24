@@ -1,0 +1,21 @@
+{
+  "id": "mlrs-hellfire",
+  "name": "MLRSHellfire",
+  "author": "Timm3D",
+  "description": "Manage MLRS and/or call MLRS missiles to a specific point, in different ways",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6811,
+  "latest_version": "1.0.8",
+  "created_at": "2022-01-21T11:11:21",
+  "updated_at": "2025-03-21T23:03:07",
+  "versions": [
+    {
+      "version": "1.0.8",
+      "released_at": "2025-03-23T23:53:19.433292",
+      "download_url": "https://umod.org/plugins/mlrs-hellfire/download/latest",
+      "changelog": null
+    }
+  ]
+}

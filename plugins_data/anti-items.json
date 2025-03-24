@@ -1,0 +1,21 @@
+{
+  "id": "anti-items",
+  "name": "AntiItems",
+  "author": "nivex",
+  "description": "Removes the need for certain items when crafting and repairing",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 21824,
+  "latest_version": "1.0.15",
+  "created_at": "2018-07-24T21:35:01",
+  "updated_at": "2025-03-23T11:21:03",
+  "versions": [
+    {
+      "version": "1.0.15",
+      "released_at": "2025-03-23T23:18:22.572300",
+      "download_url": "https://umod.org/plugins/anti-items/download/latest",
+      "changelog": null
+    }
+  ]
+}

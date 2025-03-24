@@ -1,0 +1,21 @@
+{
+  "id": "rustio-friendly-fire",
+  "name": "RustIOFriendlyFire",
+  "author": "dcode",
+  "description": "Disables friendly fire for Rust:IO friends",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15672,
+  "latest_version": "1.7.0",
+  "created_at": "2018-08-05T20:04:48",
+  "updated_at": "2025-03-23T10:08:40",
+  "versions": [
+    {
+      "version": "1.7.0",
+      "released_at": "2025-03-24T00:09:14.948911",
+      "download_url": "https://umod.org/plugins/rustio-friendly-fire/download/latest",
+      "changelog": null
+    }
+  ]
+}

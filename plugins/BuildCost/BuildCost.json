@@ -1,0 +1,21 @@
+{
+  "id": "build-cost",
+  "name": "BuildCost",
+  "author": "Lincoln",
+  "description": "Calculate the cost of your structure and its deployables.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 20094,
+  "latest_version": "1.0.4",
+  "created_at": "2018-08-05T18:03:47",
+  "updated_at": "2025-03-23T02:26:46",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:24:28.297312",
+      "download_url": "https://umod.org/plugins/build-cost/download/latest",
+      "changelog": null
+    }
+  ]
+}

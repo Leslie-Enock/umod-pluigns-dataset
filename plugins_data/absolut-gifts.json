@@ -1,0 +1,21 @@
+{
+  "id": "absolut-gifts",
+  "name": "AbsolutGifts",
+  "author": "",
+  "description": "Daily gift reward system",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 34226,
+  "latest_version": "1.5.2",
+  "created_at": "2018-08-05T17:56:23",
+  "updated_at": "2025-03-23T16:49:30",
+  "versions": [
+    {
+      "version": "1.5.2",
+      "released_at": "2025-03-23T23:16:12.318626",
+      "download_url": "https://umod.org/plugins/absolut-gifts/download/latest",
+      "changelog": null
+    }
+  ]
+}

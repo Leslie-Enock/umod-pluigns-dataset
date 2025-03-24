@@ -1,0 +1,21 @@
+{
+  "id": "anti-offline-raid",
+  "name": "AntiOfflineRaid",
+  "author": "Calytic",
+  "description": "Cancels or reduces base damage when offline",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 60402,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-02T01:06:51",
+  "updated_at": "2025-03-23T18:20:06",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:18:34.469102",
+      "download_url": "https://umod.org/plugins/anti-offline-raid/download/latest",
+      "changelog": null
+    }
+  ]
+}

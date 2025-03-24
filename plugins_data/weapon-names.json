@@ -1,0 +1,22 @@
+{
+  "id": "weapon-names",
+  "name": "WeaponNames",
+  "author": "klauz24",
+  "description": "Allows changing existing weapon name tags",
+  "categories": [
+    "rust",
+    "hurtworld"
+  ],
+  "total_downloads": 30432,
+  "latest_version": "1.2.2",
+  "created_at": "2019-06-10T09:56:35",
+  "updated_at": "2025-03-21T19:50:59",
+  "versions": [
+    {
+      "version": "1.2.2",
+      "released_at": "2025-03-24T00:22:09.296068",
+      "download_url": "https://umod.org/plugins/weapon-names/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hazmat-diving",
+  "name": "HazmatDiving",
+  "author": "",
+  "description": "Protects players wearing any Hazmat suit while swimming (Supports the new Spacesuit skin)",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9894,
+  "latest_version": "2.0.2",
+  "created_at": "2018-08-02T18:51:22",
+  "updated_at": "2025-03-18T09:03:47",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-23T23:42:50.481127",
+      "download_url": "https://umod.org/plugins/hazmat-diving/download/latest",
+      "changelog": null
+    }
+  ]
+}

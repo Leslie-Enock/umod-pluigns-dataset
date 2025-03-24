@@ -1,0 +1,21 @@
+{
+  "id": "update-notice",
+  "name": "UpdateNotice",
+  "author": "Psystec",
+  "description": "Notifies when new Rust updates are released",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 41240,
+  "latest_version": "3.2.2",
+  "created_at": "2018-08-05T16:32:57",
+  "updated_at": "2025-03-23T14:28:14",
+  "versions": [
+    {
+      "version": "3.2.2",
+      "released_at": "2025-03-24T00:20:10.329275",
+      "download_url": "https://umod.org/plugins/update-notice/download/latest",
+      "changelog": null
+    }
+  ]
+}

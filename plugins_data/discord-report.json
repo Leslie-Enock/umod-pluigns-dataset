@@ -1,0 +1,21 @@
+{
+  "id": "discord-report",
+  "name": "DiscordReport",
+  "author": "misticos",
+  "description": "Send reports from players to a Discord channel (Including F7 reports for Rust)",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 21291,
+  "latest_version": "1.2.0",
+  "created_at": "2018-08-05T07:29:30",
+  "updated_at": "2025-03-23T08:05:06",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "released_at": "2025-03-23T23:33:44.779567",
+      "download_url": "https://umod.org/plugins/discord-report/download/latest",
+      "changelog": null
+    }
+  ]
+}

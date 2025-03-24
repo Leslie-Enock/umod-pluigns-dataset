@@ -1,0 +1,21 @@
+{
+  "id": "code-entry",
+  "name": "CodeEntry",
+  "author": "MrBlue",
+  "description": "Makes code locks always require code input for entry",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13016,
+  "latest_version": "1.1.0",
+  "created_at": "2020-01-03T18:26:18",
+  "updated_at": "2025-03-17T23:02:09",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:28:02.277752",
+      "download_url": "https://umod.org/plugins/code-entry/download/latest",
+      "changelog": null
+    }
+  ]
+}

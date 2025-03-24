@@ -1,0 +1,21 @@
+{
+  "id": "convert-status",
+  "name": "ConvertStatus",
+  "author": "",
+  "description": "Changes your admin status on command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 20921,
+  "latest_version": "1.0.8",
+  "created_at": "2018-09-19T05:30:31",
+  "updated_at": "2025-03-23T12:31:25",
+  "versions": [
+    {
+      "version": "1.0.8",
+      "released_at": "2025-03-23T23:29:06.385459",
+      "download_url": "https://umod.org/plugins/convert-status/download/latest",
+      "changelog": null
+    }
+  ]
+}

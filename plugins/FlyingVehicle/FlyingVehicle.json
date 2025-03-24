@@ -1,0 +1,21 @@
+{
+  "id": "flying-vehicle",
+  "name": "FlyingVehicle",
+  "author": "misticos",
+  "description": "Make vehicles fly on your server",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11737,
+  "latest_version": "1.0.3",
+  "created_at": "2020-05-17T18:32:39",
+  "updated_at": "2025-03-23T10:07:53",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:39:30.247246",
+      "download_url": "https://umod.org/plugins/flying-vehicle/download/latest",
+      "changelog": null
+    }
+  ]
+}

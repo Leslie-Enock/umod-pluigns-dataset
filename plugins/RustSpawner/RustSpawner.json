@@ -1,0 +1,21 @@
+{
+  "id": "rust-spawner",
+  "name": "RustSpawner",
+  "author": "DNARust",
+  "description": "Allows players to spawn various vehicles (boats, cars, heli's, animals) with permission & cooldowns",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8941,
+  "latest_version": "3.0.1",
+  "created_at": "2020-06-18T01:50:57",
+  "updated_at": "2025-03-23T06:07:41",
+  "versions": [
+    {
+      "version": "3.0.1",
+      "released_at": "2025-03-24T00:09:00.217588",
+      "download_url": "https://umod.org/plugins/rust-spawner/download/latest",
+      "changelog": null
+    }
+  ]
+}

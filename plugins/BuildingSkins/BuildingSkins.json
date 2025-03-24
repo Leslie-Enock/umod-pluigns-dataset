@@ -1,0 +1,21 @@
+{
+  "id": "building-skins",
+  "name": "BuildingSkins",
+  "author": "Marat",
+  "description": "Automatic application of DLC skins for building blocks",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 36190,
+  "latest_version": "2.0.10",
+  "created_at": "2023-05-06T02:44:19",
+  "updated_at": "2025-03-23T18:27:34",
+  "versions": [
+    {
+      "version": "2.0.10",
+      "released_at": "2025-03-23T23:24:55.193302",
+      "download_url": "https://umod.org/plugins/building-skins/download/latest",
+      "changelog": null
+    }
+  ]
+}

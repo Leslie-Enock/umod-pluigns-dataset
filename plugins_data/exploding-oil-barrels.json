@@ -1,0 +1,21 @@
+{
+  "id": "exploding-oil-barrels",
+  "name": "ExplodingOilBarrels",
+  "author": "Bazz3l",
+  "description": "Exploding oil barrels with ground shaking effect for nearby players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11530,
+  "latest_version": "1.1.0",
+  "created_at": "2019-07-10T01:50:23",
+  "updated_at": "2025-03-23T13:02:16",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:37:26.510306",
+      "download_url": "https://umod.org/plugins/exploding-oil-barrels/download/latest",
+      "changelog": null
+    }
+  ]
+}

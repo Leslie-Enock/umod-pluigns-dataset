@@ -1,0 +1,21 @@
+{
+  "id": "raidable-bases",
+  "name": "RaidableBases",
+  "author": "nivex",
+  "description": "Create fully automated raidable bases with NPCs",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 114516,
+  "latest_version": "3.0.2",
+  "created_at": "2020-03-02T14:53:00",
+  "updated_at": "2025-03-23T18:16:03",
+  "versions": [
+    {
+      "version": "3.0.2",
+      "released_at": "2025-03-24T00:05:38.406033",
+      "download_url": "https://umod.org/plugins/raidable-bases/download/latest",
+      "changelog": null
+    }
+  ]
+}

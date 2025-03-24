@@ -1,0 +1,21 @@
+{
+  "id": "vehicle-license",
+  "name": "VehicleLicence",
+  "author": "ViolationHandler",
+  "description": "Allows players to buy, spawn and recall: Boat, RHIB, Sedan, HotAirBalloon, MiniCopter, CH47, etc.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 93856,
+  "latest_version": "1.8.7",
+  "created_at": "2018-10-15T15:49:37",
+  "updated_at": "2025-03-23T18:37:05",
+  "versions": [
+    {
+      "version": "1.8.7",
+      "released_at": "2025-03-24T00:20:36.133623",
+      "download_url": "https://umod.org/plugins/vehicle-license/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "perf-timings",
+  "name": "PerfTimings",
+  "author": "Rockioux",
+  "description": "Performance timer allowing to get min, max, cumul and average processing time for a block of code.",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 167,
+  "latest_version": "1.0.0",
+  "created_at": "2022-09-21T00:58:17",
+  "updated_at": "2025-03-17T08:14:44",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:59:54.564473",
+      "download_url": "https://umod.org/plugins/perf-timings/download/latest",
+      "changelog": null
+    }
+  ]
+}

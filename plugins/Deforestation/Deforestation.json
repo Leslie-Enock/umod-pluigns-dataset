@@ -1,0 +1,21 @@
+{
+  "id": "deforestation",
+  "name": "Deforestation",
+  "author": "Lincoln",
+  "description": "Delete bushes and make trees fall over like a boss!",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9348,
+  "latest_version": "1.0.5",
+  "created_at": "2021-09-24T00:51:31",
+  "updated_at": "2025-03-22T13:18:52",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:32:27.680029",
+      "download_url": "https://umod.org/plugins/deforestation/download/latest",
+      "changelog": null
+    }
+  ]
+}

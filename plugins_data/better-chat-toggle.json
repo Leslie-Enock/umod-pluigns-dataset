@@ -1,0 +1,21 @@
+{
+  "id": "better-chat-toggle",
+  "name": "BetterChatToggle",
+  "author": "Ryan",
+  "description": "Easily toggle chat tags and formatting for Better Chat",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 10258,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-22T14:02:00",
+  "updated_at": "2025-03-23T06:03:25",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:22:27.114880",
+      "download_url": "https://umod.org/plugins/better-chat-toggle/download/latest",
+      "changelog": null
+    }
+  ]
+}

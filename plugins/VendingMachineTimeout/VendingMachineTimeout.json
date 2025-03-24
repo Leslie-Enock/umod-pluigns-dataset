@@ -1,0 +1,21 @@
+{
+  "id": "vending-machine-timeout",
+  "name": "VendingMachineTimeout",
+  "author": "0x89A",
+  "description": "Prevents players from hogging vending machines at outpost",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 24199,
+  "latest_version": "1.0.15",
+  "created_at": "2020-08-09T22:00:47",
+  "updated_at": "2025-03-21T03:50:03",
+  "versions": [
+    {
+      "version": "1.0.15",
+      "released_at": "2025-03-24T00:21:03.267407",
+      "download_url": "https://umod.org/plugins/vending-machine-timeout/download/latest",
+      "changelog": null
+    }
+  ]
+}

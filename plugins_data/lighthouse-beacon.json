@@ -1,0 +1,21 @@
+{
+  "id": "lighthouse-beacon",
+  "name": "LighthouseBeacon",
+  "author": "S0N0FBISCUIT",
+  "description": "Adds a beacon to the lighthouse monument",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9027,
+  "latest_version": "1.0.3",
+  "created_at": "2019-01-24T22:23:51",
+  "updated_at": "2025-03-21T17:11:03",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:48:19.340515",
+      "download_url": "https://umod.org/plugins/lighthouse-beacon/download/latest",
+      "changelog": null
+    }
+  ]
+}

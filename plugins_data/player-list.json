@@ -1,0 +1,21 @@
+{
+  "id": "player-list",
+  "name": "PlayerList",
+  "author": "MrBlue",
+  "description": "Shows a list and count of all online, non-hidden players",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 25469,
+  "latest_version": "0.3.2",
+  "created_at": "2018-08-02T18:42:58",
+  "updated_at": "2025-03-23T12:49:32",
+  "versions": [
+    {
+      "version": "0.3.2",
+      "released_at": "2025-03-24T00:01:38.633168",
+      "download_url": "https://umod.org/plugins/player-list/download/latest",
+      "changelog": null
+    }
+  ]
+}

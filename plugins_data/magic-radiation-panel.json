@@ -1,0 +1,21 @@
+{
+  "id": "magic-radiation-panel",
+  "name": "MagicRadiationPanel",
+  "author": "MJSU",
+  "description": "Displays if a player is in a radiation zone in Magic Panel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12784,
+  "latest_version": "1.0.3",
+  "created_at": "2019-11-19T17:20:47",
+  "updated_at": "2025-03-22T07:30:56",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:51:22.269206",
+      "download_url": "https://umod.org/plugins/magic-radiation-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "staffmode",
+  "name": "Staffmode",
+  "author": "DezLife",
+  "description": "Toggle on/off staff mode",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14598,
+  "latest_version": "1.2.3",
+  "created_at": "2018-08-05T17:55:00",
+  "updated_at": "2025-03-22T19:24:04",
+  "versions": [
+    {
+      "version": "1.2.3",
+      "released_at": "2025-03-24T00:14:02.514045",
+      "download_url": "https://umod.org/plugins/staffmode/download/latest",
+      "changelog": null
+    }
+  ]
+}

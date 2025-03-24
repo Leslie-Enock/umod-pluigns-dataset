@@ -1,0 +1,21 @@
+{
+  "id": "monument-finder",
+  "name": "MonumentFinder",
+  "author": "WhiteThunder",
+  "description": "Provides an API for other plugins to find monuments and determine their bounds",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 34674,
+  "latest_version": "3.1.4",
+  "created_at": "2018-08-05T18:35:48",
+  "updated_at": "2025-03-23T16:27:28",
+  "versions": [
+    {
+      "version": "3.1.4",
+      "released_at": "2025-03-23T23:53:32.573945",
+      "download_url": "https://umod.org/plugins/monument-finder/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "timed-permissions",
+  "name": "TimedPermissions",
+  "author": "LaserHydra",
+  "description": "Allows you to grant permissions or groups for a specific time",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 39271,
+  "latest_version": "1.6.0",
+  "created_at": "2018-08-02T17:17:50",
+  "updated_at": "2025-03-23T19:07:59",
+  "versions": [
+    {
+      "version": "1.6.0",
+      "released_at": "2025-03-24T00:17:45.231294",
+      "download_url": "https://umod.org/plugins/timed-permissions/download/latest",
+      "changelog": null
+    }
+  ]
+}

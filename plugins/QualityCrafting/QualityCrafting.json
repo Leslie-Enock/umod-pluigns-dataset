@@ -1,0 +1,21 @@
+{
+  "id": "quality-crafting",
+  "name": "QualityCrafting",
+  "author": "mr01sam",
+  "description": "Adds crafting skills allowing players to craft higher quality versions of items with improved stats.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7175,
+  "latest_version": "2.1.2",
+  "created_at": "2021-07-02T15:20:41",
+  "updated_at": "2025-03-23T18:43:04",
+  "versions": [
+    {
+      "version": "2.1.2",
+      "released_at": "2025-03-24T00:04:05.935366",
+      "download_url": "https://umod.org/plugins/quality-crafting/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "random-positions",
+  "name": "RandomPositions",
+  "author": "",
+  "description": "Randomized positions for plugins or for players respawn points",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6739,
+  "latest_version": "1.0.3",
+  "created_at": "2020-01-10T11:58:12",
+  "updated_at": "2025-03-18T22:00:42",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:05:53.362028",
+      "download_url": "https://umod.org/plugins/random-positions/download/latest",
+      "changelog": null
+    }
+  ]
+}

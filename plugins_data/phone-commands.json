@@ -1,0 +1,21 @@
+{
+  "id": "phone-commands",
+  "name": "PhoneCommands",
+  "author": "marcuzz",
+  "description": "Bind commands to phone numbers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 1581,
+  "latest_version": "0.0.10",
+  "created_at": "2022-05-05T23:03:29",
+  "updated_at": "2025-03-23T15:25:52",
+  "versions": [
+    {
+      "version": "0.0.10",
+      "released_at": "2025-03-24T00:00:36.723009",
+      "download_url": "https://umod.org/plugins/phone-commands/download/latest",
+      "changelog": null
+    }
+  ]
+}

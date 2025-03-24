@@ -1,0 +1,21 @@
+{
+  "id": "no-duds",
+  "name": "NoDuds",
+  "author": "alibali",
+  "description": "Prevents explosives (satchels, beancans) from becoming dud",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8557,
+  "latest_version": "1.2",
+  "created_at": "2020-09-13T15:26:14",
+  "updated_at": "2025-03-23T09:28:54",
+  "versions": [
+    {
+      "version": "1.2",
+      "released_at": "2025-03-23T23:55:41.928958",
+      "download_url": "https://umod.org/plugins/no-duds/download/latest",
+      "changelog": null
+    }
+  ]
+}

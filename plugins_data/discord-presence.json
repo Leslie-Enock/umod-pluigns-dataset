@@ -1,0 +1,21 @@
+{
+  "id": "discord-presence",
+  "name": "DiscordPresence",
+  "author": "MJSU",
+  "description": "Updates the Discord bot status with server information",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 20715,
+  "latest_version": "3.0.1",
+  "created_at": "2018-09-04T09:49:15",
+  "updated_at": "2025-03-23T14:44:43",
+  "versions": [
+    {
+      "version": "3.0.1",
+      "released_at": "2025-03-23T23:33:44.779329",
+      "download_url": "https://umod.org/plugins/discord-presence/download/latest",
+      "changelog": null
+    }
+  ]
+}

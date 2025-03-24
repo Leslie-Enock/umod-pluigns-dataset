@@ -1,0 +1,21 @@
+{
+  "id": "server-ban-check",
+  "name": "ServerBanCheck",
+  "author": "MrBlue",
+  "description": "Checks if the server IP address has been banned with Facepunch",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3028,
+  "latest_version": "0.0.2",
+  "created_at": "2022-05-14T20:58:52",
+  "updated_at": "2025-03-20T08:49:56",
+  "versions": [
+    {
+      "version": "0.0.2",
+      "released_at": "2025-03-24T00:10:34.178254",
+      "download_url": "https://umod.org/plugins/server-ban-check/download/latest",
+      "changelog": null
+    }
+  ]
+}

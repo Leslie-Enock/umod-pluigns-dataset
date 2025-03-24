@@ -1,0 +1,21 @@
+{
+  "id": "coptor-tracker",
+  "name": "CoptorTracker",
+  "author": "k1lly0u",
+  "description": "Spawns helicopters based on a timer, sets a lifetime, and announcements",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18380,
+  "latest_version": "1.6.7",
+  "created_at": "2018-08-05T18:36:04",
+  "updated_at": "2025-03-23T01:52:17",
+  "versions": [
+    {
+      "version": "1.6.7",
+      "released_at": "2025-03-23T23:29:19.224315",
+      "download_url": "https://umod.org/plugins/coptor-tracker/download/latest",
+      "changelog": null
+    }
+  ]
+}

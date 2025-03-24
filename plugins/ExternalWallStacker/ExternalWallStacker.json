@@ -1,0 +1,21 @@
+{
+  "id": "external-wall-stacker",
+  "name": "ExternalWallStacker",
+  "author": "VisEntities",
+  "description": "Build skyscraper-like walls",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7518,
+  "latest_version": "1.0.3",
+  "created_at": "2018-08-05T18:35:38",
+  "updated_at": "2025-03-17T06:08:49",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:38:06.685215",
+      "download_url": "https://umod.org/plugins/external-wall-stacker/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "research-block",
+  "name": "ResearchBlock",
+  "author": "",
+  "description": "Allows to block researching several items",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8401,
+  "latest_version": "1.0.1",
+  "created_at": "2019-01-03T10:04:30",
+  "updated_at": "2025-03-23T03:05:05",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-24T00:07:26.546202",
+      "download_url": "https://umod.org/plugins/research-block/download/latest",
+      "changelog": null
+    }
+  ]
+}

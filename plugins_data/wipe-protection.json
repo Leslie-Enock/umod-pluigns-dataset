@@ -1,0 +1,21 @@
+{
+  "id": "wipe-protection",
+  "name": "WipeProtection",
+  "author": "FastBurst",
+  "description": "Blocks raiding after wipe for so many hours",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 35876,
+  "latest_version": "2.1.6",
+  "created_at": "2018-08-05T16:46:35",
+  "updated_at": "2025-03-22T22:18:36",
+  "versions": [
+    {
+      "version": "2.1.6",
+      "released_at": "2025-03-24T00:23:16.780517",
+      "download_url": "https://umod.org/plugins/wipe-protection/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "compound-teleport",
+  "name": "CompoundTeleport",
+  "author": "kwamaking",
+  "description": "Teleport through the death screen to Bandit Camp, Outpost, or any configured monument.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12106,
+  "latest_version": "2.0.2",
+  "created_at": "2020-08-23T17:10:27",
+  "updated_at": "2025-03-23T17:07:51",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-23T23:28:40.626890",
+      "download_url": "https://umod.org/plugins/compound-teleport/download/latest",
+      "changelog": null
+    }
+  ]
+}

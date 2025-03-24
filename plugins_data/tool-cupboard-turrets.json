@@ -1,0 +1,21 @@
+{
+  "id": "tool-cupboard-turrets",
+  "name": "ToolCupboardTurrets",
+  "author": "0x89A",
+  "description": "Turrets only shoot players who are building blocked on the turret's tool cupboard.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 22693,
+  "latest_version": "1.3.1",
+  "created_at": "2020-03-29T06:24:29",
+  "updated_at": "2025-03-22T01:49:01",
+  "versions": [
+    {
+      "version": "1.3.1",
+      "released_at": "2025-03-24T00:17:59.335081",
+      "download_url": "https://umod.org/plugins/tool-cupboard-turrets/download/latest",
+      "changelog": null
+    }
+  ]
+}

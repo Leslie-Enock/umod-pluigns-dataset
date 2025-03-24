@@ -1,0 +1,21 @@
+{
+  "id": "kill-health",
+  "name": "KillHealth",
+  "author": "",
+  "description": "Gives players health for killing another player",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9392,
+  "latest_version": "1.0.0",
+  "created_at": "2019-06-04T08:58:01",
+  "updated_at": "2025-03-20T21:32:43",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:47:42.820159",
+      "download_url": "https://umod.org/plugins/kill-health/download/latest",
+      "changelog": null
+    }
+  ]
+}

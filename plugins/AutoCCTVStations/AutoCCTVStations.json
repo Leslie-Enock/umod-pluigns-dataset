@@ -1,0 +1,21 @@
+{
+  "id": "auto-cctv-stations",
+  "name": "AutoCCTVStations",
+  "author": "khan",
+  "description": "Automatically adds monument CCTV cameras to all placed computer stations",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7361,
+  "latest_version": "1.1.2",
+  "created_at": "2021-12-29T20:59:51",
+  "updated_at": "2024-10-06T05:38:42",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-23T23:19:26.175640",
+      "download_url": "https://umod.org/plugins/auto-cctv-stations/download/latest",
+      "changelog": null
+    }
+  ]
+}

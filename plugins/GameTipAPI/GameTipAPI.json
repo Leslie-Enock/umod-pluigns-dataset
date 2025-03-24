@@ -1,0 +1,21 @@
+{
+  "id": "game-tip-api",
+  "name": "GameTipAPI",
+  "author": "S0N0FBISCUIT",
+  "description": "API for displaying queued gametips to players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8061,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-05T17:06:06",
+  "updated_at": "2025-03-23T17:26:34",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:40:50.233772",
+      "download_url": "https://umod.org/plugins/game-tip-api/download/latest",
+      "changelog": null
+    }
+  ]
+}

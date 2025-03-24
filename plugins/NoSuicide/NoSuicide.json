@@ -1,0 +1,22 @@
+{
+  "id": "no-suicide",
+  "name": "NoSuicide",
+  "author": "MrBlue",
+  "description": "Stops players from suiciding/killing themselves",
+  "categories": [
+    "rust",
+    "hurtworld"
+  ],
+  "total_downloads": 7944,
+  "latest_version": "0.1.5",
+  "created_at": "2018-07-24T21:35:14",
+  "updated_at": "2025-03-23T03:02:03",
+  "versions": [
+    {
+      "version": "0.1.5",
+      "released_at": "2025-03-23T23:57:17.707792",
+      "download_url": "https://umod.org/plugins/no-suicide/download/latest",
+      "changelog": null
+    }
+  ]
+}

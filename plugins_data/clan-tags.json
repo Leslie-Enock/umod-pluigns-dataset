@@ -1,0 +1,21 @@
+{
+  "id": "clan-tags",
+  "name": "ClanTags",
+  "author": "klauz24",
+  "description": "Adds support for clan tags in chat plugins such as Better Chat",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 28421,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-05T07:18:42",
+  "updated_at": "2025-03-22T20:04:54",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:27:37.738522",
+      "download_url": "https://umod.org/plugins/clan-tags/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "photographs-owner",
+  "name": "PhotographsOwner",
+  "author": "khan",
+  "description": "Easily identify the owner and ID of taken photographs",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6389,
+  "latest_version": "1.0.2",
+  "created_at": "2021-01-29T10:06:28",
+  "updated_at": "2024-10-06T05:34:26",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:00:36.723596",
+      "download_url": "https://umod.org/plugins/photographs-owner/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sleeper-guard",
+  "name": "SleeperGuard",
+  "author": "",
+  "description": "Protects sleeping players from being hurt, killed, or looted",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18796,
+  "latest_version": "1.1.2",
+  "created_at": "2018-07-24T21:35:20",
+  "updated_at": "2025-03-23T12:46:17",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-24T00:12:42.604377",
+      "download_url": "https://umod.org/plugins/sleeper-guard/download/latest",
+      "changelog": null
+    }
+  ]
+}

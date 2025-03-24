@@ -1,0 +1,21 @@
+{
+  "id": "info-menu",
+  "name": "InfoMenu",
+  "author": "misticos",
+  "description": "Shows server info and help with the ability to run popular commands",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16454,
+  "latest_version": "1.0.3",
+  "created_at": "2019-09-11T14:32:20",
+  "updated_at": "2025-03-23T17:12:35",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:45:04.005374",
+      "download_url": "https://umod.org/plugins/info-menu/download/latest",
+      "changelog": null
+    }
+  ]
+}

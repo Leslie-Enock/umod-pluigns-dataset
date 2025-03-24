@@ -1,0 +1,21 @@
+{
+  "id": "unreliable-vehicles",
+  "name": "UnreliableVehicles",
+  "author": "alibali",
+  "description": "Vehicles have a chance of exploding when turned on",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 21070,
+  "latest_version": "1.0.0",
+  "created_at": "2020-10-28T13:34:28",
+  "updated_at": "2025-03-21T23:35:14",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:19:55.663356",
+      "download_url": "https://umod.org/plugins/unreliable-vehicles/download/latest",
+      "changelog": null
+    }
+  ]
+}

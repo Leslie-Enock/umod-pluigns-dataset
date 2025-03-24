@@ -1,0 +1,21 @@
+{
+  "id": "fancy-drop",
+  "name": "FancyDrop",
+  "author": "FastBurst",
+  "description": "The all-in-one airdrop toolset",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 71602,
+  "latest_version": "3.2.6",
+  "created_at": "2018-08-05T16:54:00",
+  "updated_at": "2025-03-23T18:31:58",
+  "versions": [
+    {
+      "version": "3.2.6",
+      "released_at": "2025-03-23T23:38:31.473317",
+      "download_url": "https://umod.org/plugins/fancy-drop/download/latest",
+      "changelog": null
+    }
+  ]
+}

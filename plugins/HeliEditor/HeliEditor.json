@@ -1,0 +1,21 @@
+{
+  "id": "heli-editor",
+  "name": "HeliEditor",
+  "author": "Mabel",
+  "description": "Edits how scrap helis, minicopters and player attack helis behave and work",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6500,
+  "latest_version": "1.0.0",
+  "created_at": "2021-07-14T17:59:12",
+  "updated_at": "2025-03-23T05:45:11",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:43:04.740047",
+      "download_url": "https://umod.org/plugins/heli-editor/download/latest",
+      "changelog": null
+    }
+  ]
+}

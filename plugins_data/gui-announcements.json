@@ -1,0 +1,21 @@
+{
+  "id": "gui-announcements",
+  "name": "GUIAnnouncements",
+  "author": "JoeSheep",
+  "description": "Creates announcements with custom messages across the top of player's screens",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 57782,
+  "latest_version": "2.0.6",
+  "created_at": "2018-08-05T17:39:33",
+  "updated_at": "2025-03-23T18:01:50",
+  "versions": [
+    {
+      "version": "2.0.6",
+      "released_at": "2025-03-23T23:42:11.659150",
+      "download_url": "https://umod.org/plugins/gui-announcements/download/latest",
+      "changelog": null
+    }
+  ]
+}

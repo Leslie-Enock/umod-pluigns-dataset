@@ -1,0 +1,21 @@
+{
+  "id": "mysql-whitelist",
+  "name": "MySQLWhitelist",
+  "author": "rostov114",
+  "description": "Restricts server access to only those whitelisted in a database",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13879,
+  "latest_version": "1.0.0",
+  "created_at": "2018-07-24T21:35:13",
+  "updated_at": "2025-03-22T09:43:56",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:54:37.528977",
+      "download_url": "https://umod.org/plugins/mysql-whitelist/download/latest",
+      "changelog": null
+    }
+  ]
+}

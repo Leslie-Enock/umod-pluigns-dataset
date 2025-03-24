@@ -1,0 +1,21 @@
+{
+  "id": "ui-scale-manager",
+  "name": "UIScaleManager",
+  "author": "noname",
+  "description": "Stores player UI scale preferences for plugins to utilize",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 27149,
+  "latest_version": "2.2.2",
+  "created_at": "2019-12-14T22:30:19",
+  "updated_at": "2025-03-23T09:14:15",
+  "versions": [
+    {
+      "version": "2.2.2",
+      "released_at": "2025-03-24T00:19:27.833595",
+      "download_url": "https://umod.org/plugins/ui-scale-manager/download/latest",
+      "changelog": null
+    }
+  ]
+}

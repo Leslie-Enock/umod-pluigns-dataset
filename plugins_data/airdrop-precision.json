@@ -1,0 +1,21 @@
+{
+  "id": "airdrop-precision",
+  "name": "AirdropPrecision",
+  "author": "k1lly0u",
+  "description": "Make supply drops fall on the supply signal's position",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 20787,
+  "latest_version": "0.2.0",
+  "created_at": "2018-08-02T21:32:07",
+  "updated_at": "2025-03-23T13:34:17",
+  "versions": [
+    {
+      "version": "0.2.0",
+      "released_at": "2025-03-23T23:17:29.663081",
+      "download_url": "https://umod.org/plugins/airdrop-precision/download/latest",
+      "changelog": null
+    }
+  ]
+}

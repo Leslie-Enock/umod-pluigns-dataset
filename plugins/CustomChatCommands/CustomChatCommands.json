@@ -1,0 +1,21 @@
+{
+  "id": "custom-chat-commands",
+  "name": "CustomChatCommands",
+  "author": "MrBlue",
+  "description": "Allows you to add new chat commands",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 18094,
+  "latest_version": "2.1.2",
+  "created_at": "2018-08-05T07:15:57",
+  "updated_at": "2025-03-23T16:07:16",
+  "versions": [
+    {
+      "version": "2.1.2",
+      "released_at": "2025-03-23T23:30:50.184361",
+      "download_url": "https://umod.org/plugins/custom-chat-commands/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "plugin-update-notifications",
+  "name": "PluginUpdateNotifications",
+  "author": "Whispers88",
+  "description": "Periodically checks uMod.org for newer versions of plugins and notifies",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14133,
+  "latest_version": "1.1.0",
+  "created_at": "2020-07-11T13:36:29",
+  "updated_at": "2025-03-23T14:42:16",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-24T00:02:05.037606",
+      "download_url": "https://umod.org/plugins/plugin-update-notifications/download/latest",
+      "changelog": null
+    }
+  ]
+}

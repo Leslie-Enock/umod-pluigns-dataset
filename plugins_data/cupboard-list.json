@@ -1,0 +1,21 @@
+{
+  "id": "cupboard-list",
+  "name": "CupboardList",
+  "author": "KrunghCrow",
+  "description": "Displays a list of who is authorized on tool cupboards and who placed it",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15851,
+  "latest_version": "1.0.4",
+  "created_at": "2018-08-05T17:56:40",
+  "updated_at": "2025-03-23T12:03:24",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:30:23.655406",
+      "download_url": "https://umod.org/plugins/cupboard-list/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "discord-hooks",
+  "name": "DiscordHooks",
+  "author": "NooBlet",
+  "description": "A plugin library to send messages to Discord",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 7937,
+  "latest_version": "0.2.2",
+  "created_at": "2018-08-05T07:22:42",
+  "updated_at": "2025-03-20T08:06:37",
+  "versions": [
+    {
+      "version": "0.2.2",
+      "released_at": "2025-03-23T23:33:19.197100",
+      "download_url": "https://umod.org/plugins/discord-hooks/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bullet-impact",
+  "name": "BulletImpact",
+  "author": "birthdates",
+  "description": "Give a more realistic impact of a bullet on death",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3711,
+  "latest_version": "1.0.3",
+  "created_at": "2021-08-02T07:36:05",
+  "updated_at": "2025-03-23T06:23:17",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:25:07.892286",
+      "download_url": "https://umod.org/plugins/bullet-impact/download/latest",
+      "changelog": null
+    }
+  ]
+}

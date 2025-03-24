@@ -1,0 +1,21 @@
+{
+  "id": "anti-raid-tower",
+  "name": "AntiRaidTower",
+  "author": "Calytic",
+  "description": "High jump instant death/No wounded teleport",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4963,
+  "latest_version": "0.2.3",
+  "created_at": "2018-08-02T01:07:22",
+  "updated_at": "2025-03-22T18:37:50",
+  "versions": [
+    {
+      "version": "0.2.3",
+      "released_at": "2025-03-23T23:18:34.469170",
+      "download_url": "https://umod.org/plugins/anti-raid-tower/download/latest",
+      "changelog": null
+    }
+  ]
+}

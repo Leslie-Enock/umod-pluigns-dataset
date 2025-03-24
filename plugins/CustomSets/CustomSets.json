@@ -1,0 +1,21 @@
+{
+  "id": "custom-sets",
+  "name": "CustomSets",
+  "author": "",
+  "description": "Set creation and management system with built-in purchasing",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7399,
+  "latest_version": "1.0.3",
+  "created_at": "2018-08-05T18:00:44",
+  "updated_at": "2025-03-22T17:07:02",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:31:12.766984",
+      "download_url": "https://umod.org/plugins/custom-sets/download/latest",
+      "changelog": null
+    }
+  ]
+}

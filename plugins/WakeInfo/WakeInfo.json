@@ -1,0 +1,21 @@
+{
+  "id": "wake-info",
+  "name": "WakeInfo",
+  "author": "Mevent",
+  "description": "Gives a note with information about the server after connecting",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13840,
+  "latest_version": "1.2.0",
+  "created_at": "2021-10-25T20:44:04",
+  "updated_at": "2025-03-22T18:54:59",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "released_at": "2025-03-24T00:21:43.869192",
+      "download_url": "https://umod.org/plugins/wake-info/download/latest",
+      "changelog": null
+    }
+  ]
+}

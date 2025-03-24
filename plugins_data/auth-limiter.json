@@ -1,0 +1,21 @@
+{
+  "id": "auth-limiter",
+  "name": "AuthLimiter",
+  "author": "supreme",
+  "description": "Limits the moderators from using ownerid/removeowner commands",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11012,
+  "latest_version": "1.0.2",
+  "created_at": "2019-09-09T10:46:31",
+  "updated_at": "2025-03-22T16:46:04",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:19:12.915719",
+      "download_url": "https://umod.org/plugins/auth-limiter/download/latest",
+      "changelog": null
+    }
+  ]
+}

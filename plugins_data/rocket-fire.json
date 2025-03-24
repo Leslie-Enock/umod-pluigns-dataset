@@ -1,0 +1,21 @@
+{
+  "id": "rocket-fire",
+  "name": "RocketFire",
+  "author": "birthdates",
+  "description": "Allows firing X amount of rockets at once",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14179,
+  "latest_version": "1.0.4",
+  "created_at": "2019-10-12T07:33:47",
+  "updated_at": "2025-03-23T11:50:07",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:08:17.986823",
+      "download_url": "https://umod.org/plugins/rocket-fire/download/latest",
+      "changelog": null
+    }
+  ]
+}

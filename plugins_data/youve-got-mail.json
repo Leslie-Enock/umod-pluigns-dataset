@@ -1,0 +1,21 @@
+{
+  "id": "youve-got-mail",
+  "name": "YouveGotMail",
+  "author": "KajWithAJ",
+  "description": "A small plugin that notifies an online player when receiving mail in his or her mailbox.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4491,
+  "latest_version": "1.0.2",
+  "created_at": "2022-09-07T19:21:00",
+  "updated_at": "2025-03-22T04:36:04",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:23:56.127398",
+      "download_url": "https://umod.org/plugins/youve-got-mail/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "logger",
+  "name": "Logger",
+  "author": "MrBlue",
+  "description": "Configurable logging of chat, commands, connections, and more",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 19292,
+  "latest_version": "2.2.2",
+  "created_at": "2018-07-24T21:35:11",
+  "updated_at": "2025-03-23T15:53:57",
+  "versions": [
+    {
+      "version": "2.2.2",
+      "released_at": "2025-03-23T23:49:02.366851",
+      "download_url": "https://umod.org/plugins/logger/download/latest",
+      "changelog": null
+    }
+  ]
+}

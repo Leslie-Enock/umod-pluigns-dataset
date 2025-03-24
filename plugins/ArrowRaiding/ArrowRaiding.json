@@ -1,0 +1,21 @@
+{
+  "id": "arrow-raiding",
+  "name": "ArrowRaiding",
+  "author": "birthdates",
+  "description": "Allow players to break wooden doors using bow and arrow",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8110,
+  "latest_version": "2.0.1",
+  "created_at": "2018-08-05T16:53:11",
+  "updated_at": "2025-03-22T18:39:21",
+  "versions": [
+    {
+      "version": "2.0.1",
+      "released_at": "2025-03-23T23:19:00.973666",
+      "download_url": "https://umod.org/plugins/arrow-raiding/download/latest",
+      "changelog": null
+    }
+  ]
+}

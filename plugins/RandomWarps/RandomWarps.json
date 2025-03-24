@@ -1,0 +1,21 @@
+{
+  "id": "random-warps",
+  "name": "RandomWarps",
+  "author": "LaserHydra",
+  "description": "Teleports you to a random location of a multi-location warp",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8222,
+  "latest_version": "1.2.0",
+  "created_at": "2018-08-05T16:31:57",
+  "updated_at": "2025-03-21T22:02:52",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "released_at": "2025-03-24T00:05:53.362261",
+      "download_url": "https://umod.org/plugins/random-warps/download/latest",
+      "changelog": null
+    }
+  ]
+}

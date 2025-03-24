@@ -1,0 +1,21 @@
+{
+  "id": "fresh-start",
+  "name": "FreshStart",
+  "author": "yoshi2",
+  "description": "Removes all entities when killed by another player",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6633,
+  "latest_version": "1.1.1",
+  "created_at": "2018-08-05T18:31:50",
+  "updated_at": "2025-03-15T11:51:13",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-23T23:40:09.080646",
+      "download_url": "https://umod.org/plugins/fresh-start/download/latest",
+      "changelog": null
+    }
+  ]
+}

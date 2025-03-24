@@ -1,0 +1,21 @@
+{
+  "id": "chat-impersonator",
+  "name": "ChatImpersonator",
+  "author": "LaserHydra",
+  "description": "Impersonate another player in chat",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9383,
+  "latest_version": "3.0.0",
+  "created_at": "2018-08-02T17:21:38",
+  "updated_at": "2025-03-20T13:22:03",
+  "versions": [
+    {
+      "version": "3.0.0",
+      "released_at": "2025-03-23T23:26:30.016637",
+      "download_url": "https://umod.org/plugins/chat-impersonator/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "quantum-battery",
+  "name": "QuantumBattery",
+  "author": "ColonBlow",
+  "description": "Authorized players will deploy Quantum Batteries instead of normal one; fully charged and never die",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9571,
+  "latest_version": "1.0.3",
+  "created_at": "2019-11-27T00:33:49",
+  "updated_at": "2025-03-22T16:01:19",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:04:20.787981",
+      "download_url": "https://umod.org/plugins/quantum-battery/download/latest",
+      "changelog": null
+    }
+  ]
+}

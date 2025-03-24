@@ -1,0 +1,21 @@
+{
+  "id": "boom-box-health",
+  "name": "BoomBoxHealth",
+  "author": "Waldobert",
+  "description": "Disables decay damage of the deployable BoomBox when it is playing",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2721,
+  "latest_version": "1.0.1",
+  "created_at": "2021-07-03T22:44:46",
+  "updated_at": "2025-03-14T16:53:08",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:23:45.341165",
+      "download_url": "https://umod.org/plugins/boom-box-health/download/latest",
+      "changelog": null
+    }
+  ]
+}

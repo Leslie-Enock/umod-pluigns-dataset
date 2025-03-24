@@ -1,0 +1,21 @@
+{
+  "id": "suicide-vest",
+  "name": "SuicideVest",
+  "author": "birthdates",
+  "description": "Allows players to have a suicide vest that blows up",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14091,
+  "latest_version": "1.1.1",
+  "created_at": "2019-02-17T08:54:18",
+  "updated_at": "2025-03-14T17:58:52",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-24T00:15:05.178662",
+      "download_url": "https://umod.org/plugins/suicide-vest/download/latest",
+      "changelog": null
+    }
+  ]
+}

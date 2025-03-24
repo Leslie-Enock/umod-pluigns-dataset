@@ -1,0 +1,21 @@
+{
+  "id": "no-escape",
+  "name": "NoEscape",
+  "author": "Calytic",
+  "description": "Prevent \"teleportation\" (and more) while in raid or combat",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 64340,
+  "latest_version": "2.1.35",
+  "created_at": "2018-08-02T01:06:31",
+  "updated_at": "2025-03-23T17:15:43",
+  "versions": [
+    {
+      "version": "2.1.35",
+      "released_at": "2025-03-23T23:55:56.919207",
+      "download_url": "https://umod.org/plugins/no-escape/download/latest",
+      "changelog": null
+    }
+  ]
+}

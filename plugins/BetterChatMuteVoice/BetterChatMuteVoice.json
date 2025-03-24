@@ -1,0 +1,21 @@
+{
+  "id": "better-chat-mute-voice",
+  "name": "BetterChatMuteVoice",
+  "author": "collectvood",
+  "description": "Adds voice mute to better chat muted players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 26519,
+  "latest_version": "1.0.4",
+  "created_at": "2020-05-04T16:33:05",
+  "updated_at": "2025-03-22T02:56:19",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:22:14.469965",
+      "download_url": "https://umod.org/plugins/better-chat-mute-voice/download/latest",
+      "changelog": null
+    }
+  ]
+}

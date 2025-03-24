@@ -1,0 +1,21 @@
+{
+  "id": "discord-logger",
+  "name": "DiscordLogger",
+  "author": "MONaH",
+  "description": "Logs events to Discord channels using webhooks",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 27009,
+  "latest_version": "2.0.20",
+  "created_at": "2020-09-23T21:26:00",
+  "updated_at": "2025-03-23T17:58:58",
+  "versions": [
+    {
+      "version": "2.0.20",
+      "released_at": "2025-03-23T23:33:30.733878",
+      "download_url": "https://umod.org/plugins/discord-logger/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "save-my-map",
+  "name": "SaveMyMap",
+  "author": "unboxingman",
+  "description": "A save location bridge to support a better map save revision",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10877,
+  "latest_version": "1.3.9",
+  "created_at": "2018-08-05T16:31:22",
+  "updated_at": "2025-03-18T20:42:02",
+  "versions": [
+    {
+      "version": "1.3.9",
+      "released_at": "2025-03-24T00:09:53.821440",
+      "download_url": "https://umod.org/plugins/save-my-map/download/latest",
+      "changelog": null
+    }
+  ]
+}

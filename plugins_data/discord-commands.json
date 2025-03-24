@@ -1,0 +1,21 @@
+{
+  "id": "discord-commands",
+  "name": "DiscordCommands",
+  "author": "MJSU",
+  "description": "Allows players with permission to run commands on the server using Discord",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 14467,
+  "latest_version": "2.1.1",
+  "created_at": "2018-08-24T14:51:47",
+  "updated_at": "2025-03-23T08:04:16",
+  "versions": [
+    {
+      "version": "2.1.1",
+      "released_at": "2025-03-23T23:33:07.979710",
+      "download_url": "https://umod.org/plugins/discord-commands/download/latest",
+      "changelog": null
+    }
+  ]
+}

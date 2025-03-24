@@ -1,0 +1,21 @@
+{
+  "id": "door-permissions",
+  "name": "DoorPermissions",
+  "author": "TheForbiddenAi",
+  "description": "Allows admins to lock doors to permissions",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7738,
+  "latest_version": "2.0.0",
+  "created_at": "2021-01-10T04:42:42",
+  "updated_at": "2025-03-21T21:27:09",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-23T23:34:36.072395",
+      "download_url": "https://umod.org/plugins/door-permissions/download/latest",
+      "changelog": null
+    }
+  ]
+}

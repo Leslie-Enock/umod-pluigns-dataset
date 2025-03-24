@@ -1,0 +1,21 @@
+{
+  "id": "cargo-ship-cctv",
+  "name": "CargoShipCCTV",
+  "author": "",
+  "description": "Adds configurable CCTV to the Cargo Ship, along with onboard computer station for monitoring",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7342,
+  "latest_version": "1.2.3",
+  "created_at": "2020-07-18T16:46:28",
+  "updated_at": "2025-03-20T10:19:01",
+  "versions": [
+    {
+      "version": "1.2.3",
+      "released_at": "2025-03-23T23:26:03.880439",
+      "download_url": "https://umod.org/plugins/cargo-ship-cctv/download/latest",
+      "changelog": null
+    }
+  ]
+}

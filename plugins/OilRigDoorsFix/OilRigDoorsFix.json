@@ -1,0 +1,21 @@
+{
+  "id": "oil-rig-doors-fix",
+  "name": "OilRigDoorsFix",
+  "author": "MONaH",
+  "description": "Fix for glitch when doors on Oil Rigs are always open",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8087,
+  "latest_version": "1.0.2",
+  "created_at": "2021-06-15T02:48:56",
+  "updated_at": "2025-03-23T04:55:54",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:59:01.472952",
+      "download_url": "https://umod.org/plugins/oil-rig-doors-fix/download/latest",
+      "changelog": null
+    }
+  ]
+}

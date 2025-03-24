@@ -1,0 +1,21 @@
+{
+  "id": "backpacks",
+  "name": "Backpacks",
+  "author": "WhiteThunder",
+  "description": "Allows players to have backpacks that provide them with extra inventory space",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 275449,
+  "latest_version": "3.15.0",
+  "created_at": "2018-07-24T21:35:02",
+  "updated_at": "2025-03-23T18:39:45",
+  "versions": [
+    {
+      "version": "3.15.0",
+      "released_at": "2025-03-23T23:20:58.422268",
+      "download_url": "https://umod.org/plugins/backpacks/download/latest",
+      "changelog": null
+    }
+  ]
+}

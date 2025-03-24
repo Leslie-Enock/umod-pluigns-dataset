@@ -1,0 +1,21 @@
+{
+  "id": "my-npc",
+  "name": "MyNPC",
+  "author": "Lincoln",
+  "description": "Spawn your own player NPCs and access their inventories",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5053,
+  "latest_version": "1.1.0",
+  "created_at": "2021-11-12T07:13:18",
+  "updated_at": "2025-03-22T05:52:00",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:54:24.539295",
+      "download_url": "https://umod.org/plugins/my-npc/download/latest",
+      "changelog": null
+    }
+  ]
+}

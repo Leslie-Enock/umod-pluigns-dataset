@@ -1,0 +1,21 @@
+{
+  "id": "recycle-blueprints",
+  "name": "RecycleBlueprints",
+  "author": "Zugzwang",
+  "description": "Allows players to recycle blueprints for scrap",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13677,
+  "latest_version": "1.0.7",
+  "created_at": "2018-11-25T04:02:07",
+  "updated_at": "2025-03-23T13:02:44",
+  "versions": [
+    {
+      "version": "1.0.7",
+      "released_at": "2025-03-24T00:06:34.807519",
+      "download_url": "https://umod.org/plugins/recycle-blueprints/download/latest",
+      "changelog": null
+    }
+  ]
+}

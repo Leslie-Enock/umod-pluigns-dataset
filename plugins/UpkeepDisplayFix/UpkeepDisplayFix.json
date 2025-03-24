@@ -1,0 +1,21 @@
+{
+  "id": "upkeep-display-fix",
+  "name": "UpkeepDisplayFix",
+  "author": "WhiteThunder",
+  "description": "Fixes a display bug where Tool Cupboard upkeep doesn't factor in decay scale",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 25173,
+  "latest_version": "1.0.1",
+  "created_at": "2020-12-14T05:45:48",
+  "updated_at": "2025-03-23T04:56:13",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-24T00:20:21.834471",
+      "download_url": "https://umod.org/plugins/upkeep-display-fix/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "server-announcer",
+  "name": "ServerAnnouncer",
+  "author": "austinv900",
+  "description": "Allows you to broadcast a message to the server with a custom prefix",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 7784,
+  "latest_version": "1.0.7",
+  "created_at": "2018-07-24T21:35:19",
+  "updated_at": "2025-03-20T07:17:59",
+  "versions": [
+    {
+      "version": "1.0.7",
+      "released_at": "2025-03-24T00:10:34.177444",
+      "download_url": "https://umod.org/plugins/server-announcer/download/latest",
+      "changelog": null
+    }
+  ]
+}

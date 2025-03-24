@@ -1,0 +1,21 @@
+{
+  "id": "lights-on",
+  "name": "LightsOn",
+  "author": "",
+  "description": "Control light state with no fuel usage (and most devices too)",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16689,
+  "latest_version": "1.6.19",
+  "created_at": "2018-10-23T07:57:55",
+  "updated_at": "2025-03-23T09:36:45",
+  "versions": [
+    {
+      "version": "1.6.19",
+      "released_at": "2025-03-23T23:48:19.340561",
+      "download_url": "https://umod.org/plugins/lights-on/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "scoreboards",
+  "name": "Scoreboards",
+  "author": "LaserHydra",
+  "description": "Provides a simple scoreboard API system",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8338,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-02T17:19:56",
+  "updated_at": "2025-03-20T07:25:29",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:10:07.906474",
+      "download_url": "https://umod.org/plugins/scoreboards/download/latest",
+      "changelog": null
+    }
+  ]
+}

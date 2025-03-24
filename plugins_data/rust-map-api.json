@@ -1,0 +1,21 @@
+{
+  "id": "rust-map-api",
+  "name": "RustMapApi",
+  "author": "MJSU",
+  "description": "An API to generate the Rust server map image",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18506,
+  "latest_version": "1.3.2",
+  "created_at": "2020-05-15T15:55:17",
+  "updated_at": "2025-03-23T06:23:05",
+  "versions": [
+    {
+      "version": "1.3.2",
+      "released_at": "2025-03-24T00:08:45.608110",
+      "download_url": "https://umod.org/plugins/rust-map-api/download/latest",
+      "changelog": null
+    }
+  ]
+}

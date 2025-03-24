@@ -1,0 +1,21 @@
+{
+  "id": "discord-server-messages",
+  "name": "DiscordServerMessages",
+  "author": "takoz53",
+  "description": "Logs SERVER messages to Discord",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11083,
+  "latest_version": "1.2.41",
+  "created_at": "2019-04-17T12:40:38",
+  "updated_at": "2025-03-23T13:22:29",
+  "versions": [
+    {
+      "version": "1.2.41",
+      "released_at": "2025-03-23T23:33:56.714517",
+      "download_url": "https://umod.org/plugins/discord-server-messages/download/latest",
+      "changelog": null
+    }
+  ]
+}

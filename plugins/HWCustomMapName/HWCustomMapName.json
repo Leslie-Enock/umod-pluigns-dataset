@@ -1,0 +1,22 @@
+{
+  "id": "hw-custom-map-name",
+  "name": "HWCustomMapName",
+  "author": "klauz24",
+  "description": "Allows you to set custom map name for your server at the server list",
+  "categories": [
+    "rust",
+    "hurtworld"
+  ],
+  "total_downloads": 10487,
+  "latest_version": "1.5.3",
+  "created_at": "2018-08-31T19:39:07",
+  "updated_at": "2025-03-23T11:18:12",
+  "versions": [
+    {
+      "version": "1.5.3",
+      "released_at": "2025-03-23T23:44:23.263702",
+      "download_url": "https://umod.org/plugins/hw-custom-map-name/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "universal-ui",
+  "name": "UniversalUI",
+  "author": "",
+  "description": "A fully customizable UI for info and buttons",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 28457,
+  "latest_version": "2.1.5",
+  "created_at": "2018-08-05T18:01:14",
+  "updated_at": "2025-03-22T04:53:19",
+  "versions": [
+    {
+      "version": "2.1.5",
+      "released_at": "2025-03-24T00:19:55.662881",
+      "download_url": "https://umod.org/plugins/universal-ui/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "gun-stats",
+  "name": "GunStats",
+  "author": "VisEntities",
+  "description": "Tracks your weapon use history, including kills and hits, and displays it on the weapon name",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15233,
+  "latest_version": "2.2.0",
+  "created_at": "2018-10-16T17:45:06",
+  "updated_at": "2025-03-23T17:09:47",
+  "versions": [
+    {
+      "version": "2.2.0",
+      "released_at": "2025-03-23T23:42:24.544918",
+      "download_url": "https://umod.org/plugins/gun-stats/download/latest",
+      "changelog": null
+    }
+  ]
+}

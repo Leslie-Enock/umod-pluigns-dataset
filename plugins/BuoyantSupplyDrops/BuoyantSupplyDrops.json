@@ -1,0 +1,21 @@
+{
+  "id": "buoyant-supply-drops",
+  "name": "BuoyantSupplyDrops",
+  "author": "Bazz3l",
+  "description": "Makes all supply drops buoyant and lootable in water",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10973,
+  "latest_version": "1.0.2",
+  "created_at": "2019-12-06T13:07:21",
+  "updated_at": "2025-03-22T13:59:46",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:25:22.220740",
+      "download_url": "https://umod.org/plugins/buoyant-supply-drops/download/latest",
+      "changelog": null
+    }
+  ]
+}

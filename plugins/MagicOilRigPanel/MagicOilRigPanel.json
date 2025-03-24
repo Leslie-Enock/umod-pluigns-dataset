@@ -1,0 +1,21 @@
+{
+  "id": "magic-oil-rig-panel",
+  "name": "MagicOilRigPanel",
+  "author": "MJSU",
+  "description": "Displays if the small of large oil rig crate is present",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11406,
+  "latest_version": "1.0.4",
+  "created_at": "2019-12-19T08:28:42",
+  "updated_at": "2025-03-23T13:44:49",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:51:09.226444",
+      "download_url": "https://umod.org/plugins/magic-oil-rig-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

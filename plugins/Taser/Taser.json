@@ -1,0 +1,21 @@
+{
+  "id": "taser",
+  "name": "Taser",
+  "author": "Kopter",
+  "description": "Transforms a Semi-Automatic Pistol into a Taser",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6414,
+  "latest_version": "2.0.2",
+  "created_at": "2021-03-14T16:54:10",
+  "updated_at": "2025-03-22T17:46:25",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-24T00:15:41.953575",
+      "download_url": "https://umod.org/plugins/taser/download/latest",
+      "changelog": null
+    }
+  ]
+}

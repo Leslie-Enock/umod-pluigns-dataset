@@ -1,0 +1,21 @@
+{
+  "id": "craft-spam-blocker",
+  "name": "CraftSpamBlocker",
+  "author": "misticos",
+  "description": "Prevents items from being crafted if the player's inventory is full",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16060,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-02T18:40:32",
+  "updated_at": "2025-03-21T18:40:58",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:29:45.481863",
+      "download_url": "https://umod.org/plugins/craft-spam-blocker/download/latest",
+      "changelog": null
+    }
+  ]
+}

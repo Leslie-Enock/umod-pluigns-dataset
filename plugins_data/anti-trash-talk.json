@@ -1,0 +1,21 @@
+{
+  "id": "anti-trash-talk",
+  "name": "AntiTrashTalk",
+  "author": "0x89A",
+  "description": "Prevents player's who have killed or been killed by another player from using voice or text chat.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 25407,
+  "latest_version": "1.0.0",
+  "created_at": "2021-05-05T17:15:06",
+  "updated_at": "2025-03-14T10:58:34",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:18:46.406378",
+      "download_url": "https://umod.org/plugins/anti-trash-talk/download/latest",
+      "changelog": null
+    }
+  ]
+}

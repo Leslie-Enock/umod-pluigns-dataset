@@ -1,0 +1,21 @@
+{
+  "id": "high-wall-barricades",
+  "name": "HighWallBarricades",
+  "author": "2CHEVSKII",
+  "description": "Configurable decay speed for certain barricades",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9696,
+  "latest_version": "2.3.1",
+  "created_at": "2018-08-05T17:13:56",
+  "updated_at": "2025-03-14T12:26:14",
+  "versions": [
+    {
+      "version": "2.3.1",
+      "released_at": "2025-03-23T23:43:43.470040",
+      "download_url": "https://umod.org/plugins/high-wall-barricades/download/latest",
+      "changelog": null
+    }
+  ]
+}

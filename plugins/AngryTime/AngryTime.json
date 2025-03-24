@@ -1,0 +1,21 @@
+{
+  "id": "angry-time",
+  "name": "AngryTime",
+  "author": "Tori1157",
+  "description": "Control and check game time",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 23169,
+  "latest_version": "1.3.1",
+  "created_at": "2018-08-05T07:17:04",
+  "updated_at": "2025-03-23T11:02:57",
+  "versions": [
+    {
+      "version": "1.3.1",
+      "released_at": "2025-03-23T23:17:55.527262",
+      "download_url": "https://umod.org/plugins/angry-time/download/latest",
+      "changelog": null
+    }
+  ]
+}

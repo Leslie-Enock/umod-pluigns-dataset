@@ -1,0 +1,21 @@
+{
+  "id": "disable-wet",
+  "name": "DisableWet",
+  "author": "SwenenzY",
+  "description": "Stops/eliminates wetness for authorized players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10569,
+  "latest_version": "1.0.4",
+  "created_at": "2019-10-29T10:08:40",
+  "updated_at": "2025-03-22T10:08:52",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:32:54.211631",
+      "download_url": "https://umod.org/plugins/disable-wet/download/latest",
+      "changelog": null
+    }
+  ]
+}

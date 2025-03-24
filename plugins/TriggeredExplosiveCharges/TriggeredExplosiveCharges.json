@@ -1,0 +1,21 @@
+{
+  "id": "triggered-explosive-charges",
+  "name": "TriggeredExplosiveCharges",
+  "author": "",
+  "description": "Adds the option to set off C4 manually without a timer",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10272,
+  "latest_version": "1.0.23",
+  "created_at": "2018-08-05T16:45:05",
+  "updated_at": "2024-10-06T05:32:40",
+  "versions": [
+    {
+      "version": "1.0.23",
+      "released_at": "2025-03-24T00:18:27.200941",
+      "download_url": "https://umod.org/plugins/triggered-explosive-charges/download/latest",
+      "changelog": null
+    }
+  ]
+}

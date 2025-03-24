@@ -1,0 +1,21 @@
+{
+  "id": "voice-mute",
+  "name": "VoiceMute",
+  "author": "Tori1157",
+  "description": "Voice mute via commands with time and optional reason",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 31730,
+  "latest_version": "1.0.3",
+  "created_at": "2018-08-05T16:30:19",
+  "updated_at": "2025-03-23T18:20:06",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:21:29.180031",
+      "download_url": "https://umod.org/plugins/voice-mute/download/latest",
+      "changelog": null
+    }
+  ]
+}

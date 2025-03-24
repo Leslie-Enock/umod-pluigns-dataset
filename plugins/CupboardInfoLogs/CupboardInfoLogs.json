@@ -1,0 +1,21 @@
+{
+  "id": "cupboard-info-logs",
+  "name": "CupboardInfoLogs",
+  "author": "",
+  "description": "Logs info about TC when placed!",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9798,
+  "latest_version": "1.1.1",
+  "created_at": "2018-08-05T17:00:01",
+  "updated_at": "2025-03-23T15:52:42",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-23T23:30:11.573323",
+      "download_url": "https://umod.org/plugins/cupboard-info-logs/download/latest",
+      "changelog": null
+    }
+  ]
+}

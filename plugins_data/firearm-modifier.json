@@ -1,0 +1,21 @@
+{
+  "id": "firearm-modifier",
+  "name": "FirearmModifier",
+  "author": "khan",
+  "description": "Allows firearms to have modified magazine sizes, conditions, custom names, infinity ammo/condition",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11059,
+  "latest_version": "1.7.0",
+  "created_at": "2020-11-20T18:48:48",
+  "updated_at": "2024-10-06T05:36:43",
+  "versions": [
+    {
+      "version": "1.7.0",
+      "released_at": "2025-03-23T23:38:55.199224",
+      "download_url": "https://umod.org/plugins/firearm-modifier/download/latest",
+      "changelog": null
+    }
+  ]
+}

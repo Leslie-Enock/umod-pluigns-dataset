@@ -1,0 +1,21 @@
+{
+  "id": "item-splitter",
+  "name": "ItemSplitter",
+  "author": "",
+  "description": "Allows easy splitting of items from player's main inventory",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 188,
+  "latest_version": "1.1.0",
+  "created_at": "2018-08-05T17:46:26",
+  "updated_at": "2024-10-06T05:35:52",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:46:34.520407",
+      "download_url": "https://umod.org/plugins/item-splitter/download/latest",
+      "changelog": null
+    }
+  ]
+}

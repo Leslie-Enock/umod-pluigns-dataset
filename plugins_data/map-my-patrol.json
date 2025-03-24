@@ -1,0 +1,21 @@
+{
+  "id": "map-my-patrol",
+  "name": "MapMyPatrol",
+  "author": "",
+  "description": "Adds red marker(s) on in-game map for Heli Patrol(s), HUD with details, and refresh on timer",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8435,
+  "latest_version": "0.0.5",
+  "created_at": "2018-08-31T21:50:12",
+  "updated_at": "2025-03-23T16:36:20",
+  "versions": [
+    {
+      "version": "0.0.5",
+      "released_at": "2025-03-23T23:52:14.673517",
+      "download_url": "https://umod.org/plugins/map-my-patrol/download/latest",
+      "changelog": null
+    }
+  ]
+}

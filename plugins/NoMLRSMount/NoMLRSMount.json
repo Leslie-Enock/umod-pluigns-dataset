@@ -1,0 +1,21 @@
+{
+  "id": "no-mlrs-mount",
+  "name": "NoMLRSMount",
+  "author": "Lincoln",
+  "description": "Prevent players without permission from using the MLRS",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9020,
+  "latest_version": "1.0.4",
+  "created_at": "2021-11-06T21:12:08",
+  "updated_at": "2025-03-23T17:56:32",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:56:53.548671",
+      "download_url": "https://umod.org/plugins/no-mlrs-mount/download/latest",
+      "changelog": null
+    }
+  ]
+}

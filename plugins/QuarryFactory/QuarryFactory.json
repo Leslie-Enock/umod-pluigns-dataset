@@ -1,0 +1,21 @@
+{
+  "id": "quarry-factory",
+  "name": "QuarryFactory",
+  "author": "",
+  "description": "Spawn items inside the quarry when it gathers resources",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 186,
+  "latest_version": "1.0.3",
+  "created_at": "2018-08-05T20:04:17",
+  "updated_at": "2024-10-06T05:34:02",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:04:20.788948",
+      "download_url": "https://umod.org/plugins/quarry-factory/download/latest",
+      "changelog": null
+    }
+  ]
+}

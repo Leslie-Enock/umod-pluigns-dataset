@@ -1,0 +1,21 @@
+{
+  "id": "custom-map-name",
+  "name": "MapNameChanger",
+  "author": "Ryz0r",
+  "description": "Custom Map Name allows you to change the \"Custom Map\" field to have predefined text in place of it!",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11139,
+  "latest_version": "1.0.2",
+  "created_at": "2022-01-20T04:11:45",
+  "updated_at": "2025-03-23T16:02:18",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:31:01.288373",
+      "download_url": "https://umod.org/plugins/custom-map-name/download/latest",
+      "changelog": null
+    }
+  ]
+}

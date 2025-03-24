@@ -1,0 +1,21 @@
+{
+  "id": "random-kit",
+  "name": "RandomKit",
+  "author": "VisEntities",
+  "description": "Gives players a random kit",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11464,
+  "latest_version": "2.0.0",
+  "created_at": "2018-11-30T18:10:03",
+  "updated_at": "2025-03-23T11:31:15",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-24T00:05:53.361544",
+      "download_url": "https://umod.org/plugins/random-kit/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "on-screen-logo",
+  "name": "OnScreenLogo",
+  "author": "misticos",
+  "description": "Allows you to put your own logo on the players screen",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9457,
+  "latest_version": "1.1.5",
+  "created_at": "2018-08-05T17:42:30",
+  "updated_at": "2025-03-23T09:09:55",
+  "versions": [
+    {
+      "version": "1.1.5",
+      "released_at": "2025-03-23T23:59:01.474136",
+      "download_url": "https://umod.org/plugins/on-screen-logo/download/latest",
+      "changelog": null
+    }
+  ]
+}

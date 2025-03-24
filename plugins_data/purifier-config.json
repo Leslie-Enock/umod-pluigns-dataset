@@ -1,0 +1,21 @@
+{
+  "id": "purifier-config",
+  "name": "PurifierConfig",
+  "author": "Shady",
+  "description": "Allows configuration of Water Purifiers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6635,
+  "latest_version": "1.0.4",
+  "created_at": "2018-08-05T16:46:26",
+  "updated_at": "2025-03-14T17:34:22",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:03:39.404456",
+      "download_url": "https://umod.org/plugins/purifier-config/download/latest",
+      "changelog": null
+    }
+  ]
+}

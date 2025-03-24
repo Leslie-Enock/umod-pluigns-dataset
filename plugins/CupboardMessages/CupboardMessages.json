@@ -1,0 +1,21 @@
+{
+  "id": "cupboard-messages",
+  "name": "CupboardMessages",
+  "author": "Ryan",
+  "description": "Sends a configured message to a player when they place a tool cupboard",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10675,
+  "latest_version": "1.1.0",
+  "created_at": "2018-07-24T21:35:05",
+  "updated_at": "2025-03-22T19:03:42",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:30:23.655817",
+      "download_url": "https://umod.org/plugins/cupboard-messages/download/latest",
+      "changelog": null
+    }
+  ]
+}

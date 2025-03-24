@@ -1,0 +1,21 @@
+{
+  "id": "welcomer",
+  "name": "Welcomer",
+  "author": "VisEntities",
+  "description": "Welcomes players and announces when they join or leave",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 104808,
+  "latest_version": "2.1.0",
+  "created_at": "2019-01-21T07:16:58",
+  "updated_at": "2025-03-23T17:16:12",
+  "versions": [
+    {
+      "version": "2.1.0",
+      "released_at": "2025-03-24T00:22:35.075367",
+      "download_url": "https://umod.org/plugins/welcomer/download/latest",
+      "changelog": null
+    }
+  ]
+}

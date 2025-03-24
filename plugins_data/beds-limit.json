@@ -1,0 +1,21 @@
+{
+  "id": "beds-limit",
+  "name": "BedsLimit",
+  "author": "",
+  "description": "Allows limiting the amount of players with beds and sleeping bags per base",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 22562,
+  "latest_version": "1.1",
+  "created_at": "2018-08-05T16:52:45",
+  "updated_at": "2025-03-22T19:31:02",
+  "versions": [
+    {
+      "version": "1.1",
+      "released_at": "2025-03-23T23:21:49.840761",
+      "download_url": "https://umod.org/plugins/beds-limit/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "true-pve",
+  "name": "TruePVE",
+  "author": "nivex",
+  "description": "Better PVE/PVP implementation",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 118998,
+  "latest_version": "2.2.8",
+  "created_at": "2018-08-05T16:58:59",
+  "updated_at": "2025-03-23T19:03:14",
+  "versions": [
+    {
+      "version": "2.2.8",
+      "released_at": "2025-03-24T00:18:38.357885",
+      "download_url": "https://umod.org/plugins/true-pve/download/latest",
+      "changelog": null
+    }
+  ]
+}

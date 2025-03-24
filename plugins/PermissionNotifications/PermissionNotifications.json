@@ -1,0 +1,21 @@
+{
+  "id": "permission-notifications",
+  "name": "PermissionNotifications",
+  "author": "klauz24",
+  "description": "Allows you to notify players when they get or lose some permission or group.",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 3261,
+  "latest_version": "1.0.5",
+  "created_at": "2021-04-27T19:13:37",
+  "updated_at": "2025-03-18T11:30:19",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-24T00:00:07.634174",
+      "download_url": "https://umod.org/plugins/permission-notifications/download/latest",
+      "changelog": null
+    }
+  ]
+}

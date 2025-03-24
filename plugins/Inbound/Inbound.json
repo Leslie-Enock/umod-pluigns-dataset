@@ -1,0 +1,21 @@
+{
+  "id": "inbound",
+  "name": "Inbound",
+  "author": "Substrata",
+  "description": "Broadcasts notifications when patrol helicopters, supply drops, cargo ships, etc. are inbound",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 65232,
+  "latest_version": "0.6.9",
+  "created_at": "2018-08-02T18:40:40",
+  "updated_at": "2025-03-23T15:16:33",
+  "versions": [
+    {
+      "version": "0.6.9",
+      "released_at": "2025-03-23T23:44:34.667022",
+      "download_url": "https://umod.org/plugins/inbound/download/latest",
+      "changelog": null
+    }
+  ]
+}

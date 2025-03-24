@@ -1,0 +1,21 @@
+{
+  "id": "instant-experiment",
+  "name": "InstantExperiment",
+  "author": "MJSU",
+  "description": "Allows players to instantly experiment",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6481,
+  "latest_version": "1.0.2",
+  "created_at": "2019-11-19T17:58:12",
+  "updated_at": "2025-03-23T00:28:45",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:45:16.725981",
+      "download_url": "https://umod.org/plugins/instant-experiment/download/latest",
+      "changelog": null
+    }
+  ]
+}

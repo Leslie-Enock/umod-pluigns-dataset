@@ -1,0 +1,21 @@
+{
+  "id": "player-effects",
+  "name": "PlayerEffects",
+  "author": "Paulsimik",
+  "description": "Adds Effect trails to the Player",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5915,
+  "latest_version": "1.0.0",
+  "created_at": "2022-01-26T19:33:59",
+  "updated_at": "2025-03-14T10:07:44",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:01:25.087524",
+      "download_url": "https://umod.org/plugins/player-effects/download/latest",
+      "changelog": null
+    }
+  ]
+}

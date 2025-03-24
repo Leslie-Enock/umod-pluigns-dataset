@@ -1,0 +1,21 @@
+{
+  "id": "admin-key",
+  "name": "AdminKey",
+  "author": "birthdates",
+  "description": "Get admin from a key code instead of going into console",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13524,
+  "latest_version": "1.2.8",
+  "created_at": "2018-12-26T14:34:47",
+  "updated_at": "2025-03-23T07:35:32",
+  "versions": [
+    {
+      "version": "1.2.8",
+      "released_at": "2025-03-23T23:16:38.212024",
+      "download_url": "https://umod.org/plugins/admin-key/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "prop-control",
+  "name": "PropControl",
+  "author": "VisEntities",
+  "description": "Become an animal or a scientist",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15342,
+  "latest_version": "0.1.3",
+  "created_at": "2020-09-09T20:39:08",
+  "updated_at": "2025-03-23T16:45:39",
+  "versions": [
+    {
+      "version": "0.1.3",
+      "released_at": "2025-03-24T00:03:26.167203",
+      "download_url": "https://umod.org/plugins/prop-control/download/latest",
+      "changelog": null
+    }
+  ]
+}

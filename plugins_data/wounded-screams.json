@@ -1,0 +1,21 @@
+{
+  "id": "wounded-screams",
+  "name": "WoundedScreams",
+  "author": "Death",
+  "description": "Restores the screams when a player gets wounded",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 41152,
+  "latest_version": "2.2.3",
+  "created_at": "2018-08-05T17:47:07",
+  "updated_at": "2025-03-22T07:00:08",
+  "versions": [
+    {
+      "version": "2.2.3",
+      "released_at": "2025-03-24T00:23:43.828508",
+      "download_url": "https://umod.org/plugins/wounded-screams/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "entity-owner",
+  "name": "EntityOwner",
+  "author": "Calytic",
+  "description": "Show and modify entity ownership and cupboard/turret authorization",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 39307,
+  "latest_version": "3.4.1",
+  "created_at": "2018-08-02T01:07:03",
+  "updated_at": "2025-03-23T14:18:45",
+  "versions": [
+    {
+      "version": "3.4.1",
+      "released_at": "2025-03-23T23:36:59.138763",
+      "download_url": "https://umod.org/plugins/entity-owner/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "discord-messages-chat",
+  "name": "DiscordMessagesChat",
+  "author": "ctv",
+  "description": "Relays chat to Discord using configurable webhooks for both global and team chat",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14215,
+  "latest_version": "1.0.4",
+  "created_at": "2020-02-21T14:46:10",
+  "updated_at": "2025-03-23T13:13:40",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:33:30.734637",
+      "download_url": "https://umod.org/plugins/discord-messages-chat/download/latest",
+      "changelog": null
+    }
+  ]
+}

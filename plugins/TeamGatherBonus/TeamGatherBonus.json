@@ -1,0 +1,21 @@
+{
+  "id": "team-gather-bonus",
+  "name": "TeamGatherBonus",
+  "author": "khan",
+  "description": "You receive more resources when you're farming close to a team member",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 1885,
+  "latest_version": "1.0.3",
+  "created_at": "2021-12-30T14:27:52",
+  "updated_at": "2024-10-06T05:32:54",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:16:10.628524",
+      "download_url": "https://umod.org/plugins/team-gather-bonus/download/latest",
+      "changelog": null
+    }
+  ]
+}

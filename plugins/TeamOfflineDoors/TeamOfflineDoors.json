@@ -1,0 +1,21 @@
+{
+  "id": "team-offline-doors",
+  "name": "TeamOfflineDoors",
+  "author": "",
+  "description": "Closes team doors and stashes when the last team member goes offline",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17644,
+  "latest_version": "0.8.5",
+  "created_at": "2019-01-26T09:59:35",
+  "updated_at": "2025-03-23T16:23:31",
+  "versions": [
+    {
+      "version": "0.8.5",
+      "released_at": "2025-03-24T00:16:25.023554",
+      "download_url": "https://umod.org/plugins/team-offline-doors/download/latest",
+      "changelog": null
+    }
+  ]
+}

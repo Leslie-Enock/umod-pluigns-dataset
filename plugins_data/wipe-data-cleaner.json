@@ -1,0 +1,21 @@
+{
+  "id": "wipe-data-cleaner",
+  "name": "WipeDataCleaner",
+  "author": "2CHEVSKII",
+  "description": "Clears specified datafiles automatically every wipe",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 35472,
+  "latest_version": "1.4.2",
+  "created_at": "2019-05-07T17:43:25",
+  "updated_at": "2025-03-21T07:21:05",
+  "versions": [
+    {
+      "version": "1.4.2",
+      "released_at": "2025-03-24T00:22:48.562917",
+      "download_url": "https://umod.org/plugins/wipe-data-cleaner/download/latest",
+      "changelog": null
+    }
+  ]
+}

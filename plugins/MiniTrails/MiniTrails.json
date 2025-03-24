@@ -1,0 +1,21 @@
+{
+  "id": "mini-trails",
+  "name": "MiniTrails",
+  "author": "Salsa",
+  "description": "Adds a trail onto the back of players' minis.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8055,
+  "latest_version": "2.1.4",
+  "created_at": "2021-11-29T23:11:40",
+  "updated_at": "2025-03-21T08:03:02",
+  "versions": [
+    {
+      "version": "2.1.4",
+      "released_at": "2025-03-23T23:53:05.545816",
+      "download_url": "https://umod.org/plugins/mini-trails/download/latest",
+      "changelog": null
+    }
+  ]
+}

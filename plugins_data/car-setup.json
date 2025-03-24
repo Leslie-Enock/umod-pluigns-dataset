@@ -1,0 +1,21 @@
+{
+  "id": "car-setup",
+  "name": "CarSetup",
+  "author": "misticos",
+  "description": "Manage car options easily",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15609,
+  "latest_version": "1.0.1",
+  "created_at": "2020-08-27T19:33:55",
+  "updated_at": "2025-03-22T17:47:29",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:25:49.190558",
+      "download_url": "https://umod.org/plugins/car-setup/download/latest",
+      "changelog": null
+    }
+  ]
+}

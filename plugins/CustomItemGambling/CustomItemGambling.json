@@ -1,0 +1,21 @@
+{
+  "id": "custom-item-gambling",
+  "name": "CustomItemGambling",
+  "author": "cymug",
+  "description": "Allows putting items other than scrap into the scrap wheel at Bandit Camp",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8170,
+  "latest_version": "1.0.2",
+  "created_at": "2021-10-26T22:29:53",
+  "updated_at": "2025-03-23T05:05:55",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:31:01.288741",
+      "download_url": "https://umod.org/plugins/custom-item-gambling/download/latest",
+      "changelog": null
+    }
+  ]
+}

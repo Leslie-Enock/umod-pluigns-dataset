@@ -1,0 +1,21 @@
+{
+  "id": "telekinesis",
+  "name": "Telekinesis",
+  "author": "WhiteThunder",
+  "description": "Allows players to move/rotate entities without picking them up",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 23134,
+  "latest_version": "3.3.0",
+  "created_at": "2018-07-24T21:35:21",
+  "updated_at": "2025-03-23T17:44:54",
+  "versions": [
+    {
+      "version": "3.3.0",
+      "released_at": "2025-03-24T00:16:37.723221",
+      "download_url": "https://umod.org/plugins/telekinesis/download/latest",
+      "changelog": null
+    }
+  ]
+}

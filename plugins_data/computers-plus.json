@@ -1,0 +1,21 @@
+{
+  "id": "computers-plus",
+  "name": "ComputersPlus",
+  "author": "mr01sam",
+  "description": "Adds a GUI with apps to the computer station to extend its functionality",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8506,
+  "latest_version": "1.0.6",
+  "created_at": "2022-06-04T19:04:34",
+  "updated_at": "2025-03-22T09:10:00",
+  "versions": [
+    {
+      "version": "1.0.6",
+      "released_at": "2025-03-23T23:28:53.175706",
+      "download_url": "https://umod.org/plugins/computers-plus/download/latest",
+      "changelog": null
+    }
+  ]
+}

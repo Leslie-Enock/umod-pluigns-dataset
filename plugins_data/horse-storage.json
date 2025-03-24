@@ -1,0 +1,21 @@
+{
+  "id": "horse-storage",
+  "name": "HorseStorage",
+  "author": "Bazz3l",
+  "description": "Gives horses the ability to carry items",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9089,
+  "latest_version": "1.0.5",
+  "created_at": "2019-07-19T10:01:36",
+  "updated_at": "2025-03-21T05:55:41",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:44:08.621400",
+      "download_url": "https://umod.org/plugins/horse-storage/download/latest",
+      "changelog": null
+    }
+  ]
+}

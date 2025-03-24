@@ -1,0 +1,21 @@
+{
+  "id": "mlrs-rocket-tracker",
+  "name": "MlrsRocketTracker",
+  "author": "MadKingCraig",
+  "description": "Tracks who shot the MLRS and its target",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2405,
+  "latest_version": "1.1.0",
+  "created_at": "2022-02-24T15:39:31",
+  "updated_at": "2025-03-21T19:39:59",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:53:19.433716",
+      "download_url": "https://umod.org/plugins/mlrs-rocket-tracker/download/latest",
+      "changelog": null
+    }
+  ]
+}

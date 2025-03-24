@@ -1,0 +1,22 @@
+{
+  "id": "fall-damage",
+  "name": "FallDamage",
+  "author": "alibali",
+  "description": "Modifies or disables the fall damage for players",
+  "categories": [
+    "rust",
+    "hurtworld"
+  ],
+  "total_downloads": 9561,
+  "latest_version": "3.0.0",
+  "created_at": "2018-08-02T18:51:55",
+  "updated_at": "2025-03-16T08:18:40",
+  "versions": [
+    {
+      "version": "3.0.0",
+      "released_at": "2025-03-23T23:38:18.490289",
+      "download_url": "https://umod.org/plugins/fall-damage/download/latest",
+      "changelog": null
+    }
+  ]
+}

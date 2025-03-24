@@ -1,0 +1,21 @@
+{
+  "id": "force-join-team",
+  "name": "ForceJoinTeam",
+  "author": "Akkariin",
+  "description": "Join a player's team without invite",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3368,
+  "latest_version": "1.0.2",
+  "created_at": "2022-11-26T23:00:48",
+  "updated_at": "2025-03-16T22:55:18",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:39:30.248390",
+      "download_url": "https://umod.org/plugins/force-join-team/download/latest",
+      "changelog": null
+    }
+  ]
+}

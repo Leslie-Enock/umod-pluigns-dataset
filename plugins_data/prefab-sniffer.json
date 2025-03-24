@@ -1,0 +1,21 @@
+{
+  "id": "prefab-sniffer",
+  "name": "PrefabSniffer",
+  "author": "MrBlue",
+  "description": "Searches the game files for prefab file locations",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12138,
+  "latest_version": "2.0.2",
+  "created_at": "2018-08-02T18:30:56",
+  "updated_at": "2025-03-23T14:23:26",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-24T00:02:59.080344",
+      "download_url": "https://umod.org/plugins/prefab-sniffer/download/latest",
+      "changelog": null
+    }
+  ]
+}

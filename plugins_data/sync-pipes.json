@@ -1,0 +1,21 @@
+{
+  "id": "sync-pipes",
+  "name": "SyncPipes",
+  "author": "Joe90",
+  "description": "Create pipes between boxes, quarries, furnaces, etc. to move items between them",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14893,
+  "latest_version": "0.9.32",
+  "created_at": "2020-10-25T08:18:27",
+  "updated_at": "2025-03-23T18:40:18",
+  "versions": [
+    {
+      "version": "0.9.32",
+      "released_at": "2025-03-24T00:15:30.234752",
+      "download_url": "https://umod.org/plugins/sync-pipes/download/latest",
+      "changelog": null
+    }
+  ]
+}

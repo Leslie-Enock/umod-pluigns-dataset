@@ -1,0 +1,21 @@
+{
+  "id": "chat-command-prefix",
+  "name": "ChatCommandPrefix",
+  "author": "Clearshot",
+  "description": "Add prefix for all chat commands",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7295,
+  "latest_version": "1.0.0",
+  "created_at": "2021-07-11T01:50:29",
+  "updated_at": "2025-03-20T02:10:11",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:26:30.016153",
+      "download_url": "https://umod.org/plugins/chat-command-prefix/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rad-pockets",
+  "name": "RadPockets",
+  "author": "k1lly0u",
+  "description": "Turn your server into a irradiated wasteland",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9848,
+  "latest_version": "2.0.4",
+  "created_at": "2018-08-02T21:31:58",
+  "updated_at": "2025-03-05T23:19:38",
+  "versions": [
+    {
+      "version": "2.0.4",
+      "released_at": "2025-03-24T00:04:59.375579",
+      "download_url": "https://umod.org/plugins/rad-pockets/download/latest",
+      "changelog": null
+    }
+  ]
+}

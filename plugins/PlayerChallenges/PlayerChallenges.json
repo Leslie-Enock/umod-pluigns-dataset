@@ -1,0 +1,21 @@
+{
+  "id": "player-challenges",
+  "name": "PlayerChallenges",
+  "author": "k1lly0u",
+  "description": "Allows titles to be set when certain criteria are met, with a UI Leader board",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 20294,
+  "latest_version": "2.0.52",
+  "created_at": "2018-08-02T21:31:07",
+  "updated_at": "2025-03-23T10:48:52",
+  "versions": [
+    {
+      "version": "2.0.52",
+      "released_at": "2025-03-24T00:01:14.058213",
+      "download_url": "https://umod.org/plugins/player-challenges/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "zone-chat-prefix",
+  "name": "ZoneChatPrefix",
+  "author": "",
+  "description": "Adds a Zone prefix to player chat",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 32557,
+  "latest_version": "0.0.5",
+  "created_at": "2019-01-30T04:55:54",
+  "updated_at": "2025-03-23T04:18:07",
+  "versions": [
+    {
+      "version": "0.0.5",
+      "released_at": "2025-03-24T00:23:56.128431",
+      "download_url": "https://umod.org/plugins/zone-chat-prefix/download/latest",
+      "changelog": null
+    }
+  ]
+}

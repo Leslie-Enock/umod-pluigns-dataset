@@ -1,0 +1,21 @@
+{
+  "id": "realtime-wipe-info",
+  "name": "RealtimeWipeInfo",
+  "author": "Ryan",
+  "description": "Auto title and description updating, auto wipe schedule, chat filter, and more",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13744,
+  "latest_version": "2.1.68",
+  "created_at": "2018-07-24T21:35:18",
+  "updated_at": "2025-03-23T08:53:44",
+  "versions": [
+    {
+      "version": "2.1.68",
+      "released_at": "2025-03-24T00:06:20.612554",
+      "download_url": "https://umod.org/plugins/realtime-wipe-info/download/latest",
+      "changelog": null
+    }
+  ]
+}

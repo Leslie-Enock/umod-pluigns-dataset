@@ -1,0 +1,21 @@
+{
+  "id": "sticky-chat",
+  "name": "StickyChat",
+  "author": "",
+  "description": "Allows to stick your chat to /pm /clan /reply",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 141,
+  "latest_version": "0.0.8",
+  "created_at": "2018-08-05T07:27:55",
+  "updated_at": "2024-10-06T05:33:03",
+  "versions": [
+    {
+      "version": "0.0.8",
+      "released_at": "2025-03-24T00:14:27.638851",
+      "download_url": "https://umod.org/plugins/sticky-chat/download/latest",
+      "changelog": null
+    }
+  ]
+}

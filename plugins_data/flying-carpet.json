@@ -1,0 +1,21 @@
+{
+  "id": "flying-carpet",
+  "name": "FlyingCarpet",
+  "author": "",
+  "description": "Fly a custom object consisting of carpet, chair, lantern, and lock",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16270,
+  "latest_version": "1.1.7",
+  "created_at": "2018-09-02T21:14:50",
+  "updated_at": "2025-03-23T18:25:15",
+  "versions": [
+    {
+      "version": "1.1.7",
+      "released_at": "2025-03-23T23:39:17.917371",
+      "download_url": "https://umod.org/plugins/flying-carpet/download/latest",
+      "changelog": null
+    }
+  ]
+}

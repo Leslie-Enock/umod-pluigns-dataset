@@ -1,0 +1,21 @@
+{
+  "id": "fetch",
+  "name": "Fetch",
+  "author": "",
+  "description": "Downloads JSON file from URI and store in a data subfolder",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6844,
+  "latest_version": "1.0.2",
+  "created_at": "2019-03-01T15:46:42",
+  "updated_at": "2025-03-14T20:34:58",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:38:43.838415",
+      "download_url": "https://umod.org/plugins/fetch/download/latest",
+      "changelog": null
+    }
+  ]
+}

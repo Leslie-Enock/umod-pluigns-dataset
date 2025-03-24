@@ -1,0 +1,21 @@
+{
+  "id": "supply-signal-alerts",
+  "name": "SupplySignalAlerts",
+  "author": "LaserHydra",
+  "description": "Broadcasts a message when someone throws a supply signal",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15744,
+  "latest_version": "3.0.1",
+  "created_at": "2018-07-24T21:35:21",
+  "updated_at": "2025-03-17T22:15:23",
+  "versions": [
+    {
+      "version": "3.0.1",
+      "released_at": "2025-03-24T00:15:18.870420",
+      "download_url": "https://umod.org/plugins/supply-signal-alerts/download/latest",
+      "changelog": null
+    }
+  ]
+}

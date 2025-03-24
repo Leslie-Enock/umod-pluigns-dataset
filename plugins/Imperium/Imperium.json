@@ -1,0 +1,21 @@
+{
+  "id": "imperium",
+  "name": "Imperium",
+  "author": "evict",
+  "description": "Team up, claim land, and battle for supremacy",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11494,
+  "latest_version": "2.2.9",
+  "created_at": "2018-08-05T16:45:49",
+  "updated_at": "2025-03-22T15:51:23",
+  "versions": [
+    {
+      "version": "2.2.9",
+      "released_at": "2025-03-23T23:44:34.666894",
+      "download_url": "https://umod.org/plugins/imperium/download/latest",
+      "changelog": null
+    }
+  ]
+}

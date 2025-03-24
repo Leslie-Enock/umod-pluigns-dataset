@@ -1,0 +1,21 @@
+{
+  "id": "instant-craft",
+  "name": "InstantCraft",
+  "author": "rostov114",
+  "description": "Allows players to instantly craft items with features",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 169898,
+  "latest_version": "2.2.8",
+  "created_at": "2018-08-05T17:39:43",
+  "updated_at": "2025-03-23T18:43:15",
+  "versions": [
+    {
+      "version": "2.2.8",
+      "released_at": "2025-03-23T23:45:16.725858",
+      "download_url": "https://umod.org/plugins/instant-craft/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "replenish",
+  "name": "Replenish",
+  "author": "2CHEVSKII",
+  "description": "Save and restore items in selected containers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4112,
+  "latest_version": "2.0.0",
+  "created_at": "2018-08-02T18:32:04",
+  "updated_at": "2025-03-21T05:18:31",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-24T00:07:26.545944",
+      "download_url": "https://umod.org/plugins/replenish/download/latest",
+      "changelog": null
+    }
+  ]
+}

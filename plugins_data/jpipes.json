@@ -1,0 +1,21 @@
+{
+  "id": "jpipes",
+  "name": "JPipes",
+  "author": "TheGreatJ",
+  "description": "Pipes that automatically transfer items between boxes, furnaces, turrets, quarries, etc.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16510,
+  "latest_version": "0.6.10",
+  "created_at": "2018-08-05T17:01:58",
+  "updated_at": "2025-03-18T09:42:13",
+  "versions": [
+    {
+      "version": "0.6.10",
+      "released_at": "2025-03-23T23:47:00.996748",
+      "download_url": "https://umod.org/plugins/jpipes/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "game-tip-announcements",
+  "name": "GameTipAnnouncements",
+  "author": "redBDGR",
+  "description": "Sends announcements or messages to players as game tips",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11077,
+  "latest_version": "1.0.2",
+  "created_at": "2018-07-24T21:35:08",
+  "updated_at": "2025-03-14T23:34:09",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:40:50.233571",
+      "download_url": "https://umod.org/plugins/game-tip-announcements/download/latest",
+      "changelog": null
+    }
+  ]
+}

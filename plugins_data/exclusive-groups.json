@@ -1,0 +1,21 @@
+{
+  "id": "exclusive-groups",
+  "name": "ExclusiveGroups",
+  "author": "WhiteDragon",
+  "description": "Maintains exclusive group membership within categories of permission groups",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 4880,
+  "latest_version": "0.2.8",
+  "created_at": "2021-02-13T01:21:08",
+  "updated_at": "2025-03-18T00:22:16",
+  "versions": [
+    {
+      "version": "0.2.8",
+      "released_at": "2025-03-23T23:37:26.509961",
+      "download_url": "https://umod.org/plugins/exclusive-groups/download/latest",
+      "changelog": null
+    }
+  ]
+}

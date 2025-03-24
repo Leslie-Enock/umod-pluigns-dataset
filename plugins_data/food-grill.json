@@ -1,0 +1,21 @@
+{
+  "id": "food-grill",
+  "name": "FoodGrill",
+  "author": "VisEntities",
+  "description": "Adds the physical models of meat on the barbeque with different transforms",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9518,
+  "latest_version": "1.0.5",
+  "created_at": "2018-08-05T17:39:12",
+  "updated_at": "2025-03-22T11:03:05",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:39:30.247830",
+      "download_url": "https://umod.org/plugins/food-grill/download/latest",
+      "changelog": null
+    }
+  ]
+}

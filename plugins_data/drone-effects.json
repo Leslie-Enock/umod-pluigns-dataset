@@ -1,0 +1,21 @@
+{
+  "id": "drone-effects",
+  "name": "DroneEffects",
+  "author": "WhiteThunder",
+  "description": "(Obsolete) Adds collision effects, on-death effects and propeller animations to RC drones",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4268,
+  "latest_version": "1.0.3",
+  "created_at": "2021-04-09T01:59:14",
+  "updated_at": "2025-03-20T22:59:31",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:34:49.252733",
+      "download_url": "https://umod.org/plugins/drone-effects/download/latest",
+      "changelog": null
+    }
+  ]
+}

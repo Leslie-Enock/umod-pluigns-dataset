@@ -1,0 +1,24 @@
+{
+  "id": "punish",
+  "name": "Punish",
+  "author": "MrBlue",
+  "description": "Punish players for various actions/events",
+  "categories": [
+    "rust",
+    "hurtworld",
+    "7-days-to-die",
+    "reign-of-kings"
+  ],
+  "total_downloads": 11415,
+  "latest_version": "1.1.1",
+  "created_at": "2020-04-17T18:02:26",
+  "updated_at": "2025-03-23T01:05:56",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-24T00:03:39.404215",
+      "download_url": "https://umod.org/plugins/punish/download/latest",
+      "changelog": null
+    }
+  ]
+}

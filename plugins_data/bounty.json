@@ -1,0 +1,21 @@
+{
+  "id": "bounty",
+  "name": "Bounty",
+  "author": "k1lly0u",
+  "description": "Place bounties on other players using in-game items, RP or Economics",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 19994,
+  "latest_version": "0.2.7",
+  "created_at": "2018-07-24T21:35:04",
+  "updated_at": "2025-03-23T12:06:14",
+  "versions": [
+    {
+      "version": "0.2.7",
+      "released_at": "2025-03-23T23:24:00.070736",
+      "download_url": "https://umod.org/plugins/bounty/download/latest",
+      "changelog": null
+    }
+  ]
+}

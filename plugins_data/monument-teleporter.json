@@ -1,0 +1,21 @@
+{
+  "id": "monument-teleporter",
+  "name": "MonumentTeleporter",
+  "author": "misticos",
+  "description": "Teleport to monuments found with Monument Finder",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7059,
+  "latest_version": "1.0.1",
+  "created_at": "2019-09-15T07:47:25",
+  "updated_at": "2025-03-23T03:26:41",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:53:46.532258",
+      "download_url": "https://umod.org/plugins/monument-teleporter/download/latest",
+      "changelog": null
+    }
+  ]
+}

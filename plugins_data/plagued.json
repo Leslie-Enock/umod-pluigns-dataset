@@ -1,0 +1,21 @@
+{
+  "id": "plagued",
+  "name": "Plagued",
+  "author": "",
+  "description": "A plague has decimated the world's population, avoid others players to stay alive",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7965,
+  "latest_version": "0.3.6",
+  "created_at": "2018-08-05T18:31:58",
+  "updated_at": "2025-03-22T01:50:26",
+  "versions": [
+    {
+      "version": "0.3.6",
+      "released_at": "2025-03-24T00:00:50.569659",
+      "download_url": "https://umod.org/plugins/plagued/download/latest",
+      "changelog": null
+    }
+  ]
+}

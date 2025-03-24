@@ -1,0 +1,21 @@
+{
+  "id": "item-translations",
+  "name": "ItemTranslations",
+  "author": "Ryan",
+  "description": "Provides a data file of item names for translation",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9589,
+  "latest_version": "1.0.0",
+  "created_at": "2018-07-24T21:35:10",
+  "updated_at": "2025-03-14T14:33:01",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:46:48.594420",
+      "download_url": "https://umod.org/plugins/item-translations/download/latest",
+      "changelog": null
+    }
+  ]
+}

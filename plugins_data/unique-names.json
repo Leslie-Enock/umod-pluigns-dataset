@@ -1,0 +1,21 @@
+{
+  "id": "unique-names",
+  "name": "UniqueNames",
+  "author": "MrBlue",
+  "description": "Automatically renames and/or kicks players with non-unique/duplicate name",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 25813,
+  "latest_version": "1.0.3",
+  "created_at": "2018-08-04T00:25:20",
+  "updated_at": "2025-03-14T16:19:23",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:19:42.072239",
+      "download_url": "https://umod.org/plugins/unique-names/download/latest",
+      "changelog": null
+    }
+  ]
+}

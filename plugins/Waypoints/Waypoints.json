@@ -1,0 +1,21 @@
+{
+  "id": "waypoints",
+  "name": "Waypoints",
+  "author": "Razor",
+  "description": "Waypoints database to give paths for plugins that require it",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 50390,
+  "latest_version": "1.1.4",
+  "created_at": "2018-08-05T18:25:04",
+  "updated_at": "2025-03-23T16:57:18",
+  "versions": [
+    {
+      "version": "1.1.4",
+      "released_at": "2025-03-24T00:22:09.295768",
+      "download_url": "https://umod.org/plugins/waypoints/download/latest",
+      "changelog": null
+    }
+  ]
+}

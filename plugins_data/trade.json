@@ -1,0 +1,21 @@
+{
+  "id": "trade",
+  "name": "Trade",
+  "author": "Calytic",
+  "description": "Allows players to trade items safely at a distance",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 84186,
+  "latest_version": "1.2.45",
+  "created_at": "2018-08-02T00:35:46",
+  "updated_at": "2025-03-23T15:15:36",
+  "versions": [
+    {
+      "version": "1.2.45",
+      "released_at": "2025-03-24T00:18:13.247985",
+      "download_url": "https://umod.org/plugins/trade/download/latest",
+      "changelog": null
+    }
+  ]
+}

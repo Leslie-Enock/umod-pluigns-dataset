@@ -1,0 +1,21 @@
+{
+  "id": "explosive-fuse-changer",
+  "name": "ExplosiveFuseChanger",
+  "author": "Hockeygel23",
+  "description": "Change explosive fuse times",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8276,
+  "latest_version": "0.0.3",
+  "created_at": "2020-10-22T00:08:35",
+  "updated_at": "2025-03-22T10:58:56",
+  "versions": [
+    {
+      "version": "0.0.3",
+      "released_at": "2025-03-23T23:37:39.518902",
+      "download_url": "https://umod.org/plugins/explosive-fuse-changer/download/latest",
+      "changelog": null
+    }
+  ]
+}

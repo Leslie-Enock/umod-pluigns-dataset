@@ -1,0 +1,21 @@
+{
+  "id": "biome-chat-prefix",
+  "name": "BiomeChatPrefix",
+  "author": "",
+  "description": "Adds a chat prefix when a player enters a certain biome",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10964,
+  "latest_version": "2.0.2",
+  "created_at": "2019-02-08T18:56:20",
+  "updated_at": "2025-03-21T02:12:30",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-23T23:23:05.736146",
+      "download_url": "https://umod.org/plugins/biome-chat-prefix/download/latest",
+      "changelog": null
+    }
+  ]
+}

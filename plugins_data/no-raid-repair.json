@@ -1,0 +1,21 @@
+{
+  "id": "no-raid-repair",
+  "name": "NoRaidRepair",
+  "author": "Ryan",
+  "description": "Prevents the player from repairing their base whilst raidblocked.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6717,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-05T18:04:02",
+  "updated_at": "2025-03-22T11:22:38",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:57:06.497147",
+      "download_url": "https://umod.org/plugins/no-raid-repair/download/latest",
+      "changelog": null
+    }
+  ]
+}

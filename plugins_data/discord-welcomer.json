@@ -1,0 +1,21 @@
+{
+  "id": "discord-welcomer",
+  "name": "DiscordWelcomer",
+  "author": "Trey",
+  "description": "Welcome players to your Discord Server via customizable DM based messages",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13190,
+  "latest_version": "2.1.0",
+  "created_at": "2020-10-22T23:44:24",
+  "updated_at": "2025-03-22T20:40:23",
+  "versions": [
+    {
+      "version": "2.1.0",
+      "released_at": "2025-03-23T23:34:09.958548",
+      "download_url": "https://umod.org/plugins/discord-welcomer/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "temporary-barricades",
+  "name": "TemporaryBarricades",
+  "author": "",
+  "description": "Removes defensive barricades built outside of cupboard range after a set time.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17095,
+  "latest_version": "0.0.4",
+  "created_at": "2018-12-28T14:04:19",
+  "updated_at": "2025-03-17T04:54:50",
+  "versions": [
+    {
+      "version": "0.0.4",
+      "released_at": "2025-03-24T00:17:03.599886",
+      "download_url": "https://umod.org/plugins/temporary-barricades/download/latest",
+      "changelog": null
+    }
+  ]
+}

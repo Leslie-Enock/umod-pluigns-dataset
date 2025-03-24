@@ -1,0 +1,21 @@
+{
+  "id": "limited-drone-height",
+  "name": "LimitedDroneHeight",
+  "author": "WhiteThunder",
+  "description": "Limits how high RC drones can be flown above terrain",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5712,
+  "latest_version": "1.0.0",
+  "created_at": "2021-08-08T00:29:22",
+  "updated_at": "2025-03-23T00:52:42",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:48:33.348875",
+      "download_url": "https://umod.org/plugins/limited-drone-height/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "advance-gather",
+  "name": "AdvancedGather",
+  "author": "",
+  "description": "Custom gathering with some actions and extension drop",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 22292,
+  "latest_version": "2.0.4",
+  "created_at": "2018-08-05T16:43:46",
+  "updated_at": "2025-03-23T12:55:15",
+  "versions": [
+    {
+      "version": "2.0.4",
+      "released_at": "2025-03-23T23:17:03.043346",
+      "download_url": "https://umod.org/plugins/advance-gather/download/latest",
+      "changelog": null
+    }
+  ]
+}

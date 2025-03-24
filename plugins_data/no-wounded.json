@@ -1,0 +1,21 @@
+{
+  "id": "no-wounded",
+  "name": "NoWounded",
+  "author": "k1lly0u",
+  "description": "Removes the wounded state for players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7694,
+  "latest_version": "0.1.0",
+  "created_at": "2018-08-02T21:38:58",
+  "updated_at": "2024-10-06T05:34:42",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "released_at": "2025-03-23T23:57:42.644039",
+      "download_url": "https://umod.org/plugins/no-wounded/download/latest",
+      "changelog": null
+    }
+  ]
+}

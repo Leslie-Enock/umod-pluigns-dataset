@@ -1,0 +1,23 @@
+{
+  "id": "paynow-store",
+  "name": "PayNow",
+  "author": "PayNow",
+  "description": "Monetize your server with PayNow.gg: Fees as low as 2.5%, no chargebacks, in USD/GBP/EUR.",
+  "categories": [
+    "rust",
+    "hurtworld",
+    "7-days-to-die"
+  ],
+  "total_downloads": 2404,
+  "latest_version": "0.0.10",
+  "created_at": "2023-11-18T21:43:58",
+  "updated_at": "2025-03-19T10:35:38",
+  "versions": [
+    {
+      "version": "0.0.10",
+      "released_at": "2025-03-23T23:59:41.853284",
+      "download_url": "https://umod.org/plugins/paynow-store/download/latest",
+      "changelog": null
+    }
+  ]
+}

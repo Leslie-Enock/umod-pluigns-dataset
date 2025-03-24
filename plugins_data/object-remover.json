@@ -1,0 +1,21 @@
+{
+  "id": "object-remover",
+  "name": "ObjectRemover",
+  "author": "misticos",
+  "description": "Removes furnaces, lanterns, campfires, buildings, etc. on command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18121,
+  "latest_version": "3.0.5",
+  "created_at": "2018-08-05T20:10:12",
+  "updated_at": "2025-03-23T05:58:05",
+  "versions": [
+    {
+      "version": "3.0.5",
+      "released_at": "2025-03-23T23:58:35.622630",
+      "download_url": "https://umod.org/plugins/object-remover/download/latest",
+      "changelog": null
+    }
+  ]
+}

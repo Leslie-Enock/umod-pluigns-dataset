@@ -1,0 +1,21 @@
+{
+  "id": "crafting-controller",
+  "name": "CraftingController",
+  "author": "Whispers88",
+  "description": "Allows you to modify the time spend crafting and which items can be crafted",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 146554,
+  "latest_version": "3.3.4",
+  "created_at": "2018-08-05T16:54:31",
+  "updated_at": "2025-03-23T17:55:00",
+  "versions": [
+    {
+      "version": "3.3.4",
+      "released_at": "2025-03-23T23:29:45.482870",
+      "download_url": "https://umod.org/plugins/crafting-controller/download/latest",
+      "changelog": null
+    }
+  ]
+}

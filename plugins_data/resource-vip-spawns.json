@@ -1,0 +1,21 @@
+{
+  "id": "resource-vip-spawns",
+  "name": "ResourceVIPSpawns",
+  "author": "DNARust",
+  "description": "Allows players to set a spawn point for resources that respawn every X seconds",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3579,
+  "latest_version": "1.0.0",
+  "created_at": "2021-07-02T17:46:04",
+  "updated_at": "2025-03-17T23:19:57",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:07:40.772054",
+      "download_url": "https://umod.org/plugins/resource-vip-spawns/download/latest",
+      "changelog": null
+    }
+  ]
+}

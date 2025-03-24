@@ -1,0 +1,21 @@
+{
+  "id": "play-fx",
+  "name": "PlayFX",
+  "author": "misticos",
+  "description": "Play any effect on a player, such as an explosion sound",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9337,
+  "latest_version": "2.0.1",
+  "created_at": "2018-08-05T16:50:46",
+  "updated_at": "2025-03-22T22:29:19",
+  "versions": [
+    {
+      "version": "2.0.1",
+      "released_at": "2025-03-24T00:01:01.958733",
+      "download_url": "https://umod.org/plugins/play-fx/download/latest",
+      "changelog": null
+    }
+  ]
+}

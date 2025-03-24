@@ -1,0 +1,21 @@
+{
+  "id": "rename",
+  "name": "Rename",
+  "author": "MrBlue",
+  "description": "Allows players with permission to instantly rename other players or themselves",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 13541,
+  "latest_version": "1.1.2",
+  "created_at": "2018-08-02T18:42:26",
+  "updated_at": "2025-03-23T16:24:48",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-24T00:06:59.384982",
+      "download_url": "https://umod.org/plugins/rename/download/latest",
+      "changelog": null
+    }
+  ]
+}

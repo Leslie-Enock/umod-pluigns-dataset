@@ -1,0 +1,21 @@
+{
+  "id": "spawn-heli",
+  "name": "SpawnHeli",
+  "author": "SpooksAU",
+  "description": "Spawns a helicopter on command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 87671,
+  "latest_version": "3.1.1",
+  "created_at": "2019-02-08T00:51:35",
+  "updated_at": "2025-03-23T18:16:23",
+  "versions": [
+    {
+      "version": "3.1.1",
+      "released_at": "2025-03-24T00:13:21.120667",
+      "download_url": "https://umod.org/plugins/spawn-heli/download/latest",
+      "changelog": null
+    }
+  ]
+}

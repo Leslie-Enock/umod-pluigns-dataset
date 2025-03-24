@@ -1,0 +1,21 @@
+{
+  "id": "chat-clear",
+  "name": "ChatClear",
+  "author": "MrBlue",
+  "description": "Clears the chat for player(s) when joining the server or on command",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 36183,
+  "latest_version": "2.0.0",
+  "created_at": "2018-07-24T21:35:04",
+  "updated_at": "2025-03-23T18:01:01",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-23T23:26:15.631458",
+      "download_url": "https://umod.org/plugins/chat-clear/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "my-snowmobile",
+  "name": "MySnowmobile",
+  "author": "MasterSplinter",
+  "description": "Let players purchase Tomaha or skin to via command, also allows for Snowmobile to go fast anywhere!",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2993,
+  "latest_version": "1.0.3",
+  "created_at": "2022-02-10T15:41:42",
+  "updated_at": "2025-03-21T16:07:38",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:54:24.540133",
+      "download_url": "https://umod.org/plugins/my-snowmobile/download/latest",
+      "changelog": null
+    }
+  ]
+}

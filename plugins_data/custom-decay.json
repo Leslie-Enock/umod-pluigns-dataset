@@ -1,0 +1,21 @@
+{
+  "id": "custom-decay",
+  "name": "CustomDecay",
+  "author": "",
+  "description": "Custom decay for all individual entities with auto configuration for any new entities added",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16630,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-05T17:12:27",
+  "updated_at": "2025-03-23T10:16:52",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:30:50.184803",
+      "download_url": "https://umod.org/plugins/custom-decay/download/latest",
+      "changelog": null
+    }
+  ]
+}

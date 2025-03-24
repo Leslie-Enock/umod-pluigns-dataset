@@ -1,0 +1,21 @@
+{
+  "id": "smart-homes",
+  "name": "SmartHomes",
+  "author": "",
+  "description": "Control your home and make it smart",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 186,
+  "latest_version": "0.5",
+  "created_at": "2018-08-05T18:28:31",
+  "updated_at": "2024-10-06T05:33:12",
+  "versions": [
+    {
+      "version": "0.5",
+      "released_at": "2025-03-24T00:13:06.857813",
+      "download_url": "https://umod.org/plugins/smart-homes/download/latest",
+      "changelog": null
+    }
+  ]
+}

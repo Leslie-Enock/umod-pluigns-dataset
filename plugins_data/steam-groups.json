@@ -1,0 +1,21 @@
+{
+  "id": "steam-groups",
+  "name": "SteamGroups",
+  "author": "MrBlue",
+  "description": "Automatically adds members of Steam group(s) to a permissions group",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 17192,
+  "latest_version": "0.4.1",
+  "created_at": "2018-07-24T21:35:21",
+  "updated_at": "2025-03-22T23:23:00",
+  "versions": [
+    {
+      "version": "0.4.1",
+      "released_at": "2025-03-24T00:14:27.638783",
+      "download_url": "https://umod.org/plugins/steam-groups/download/latest",
+      "changelog": null
+    }
+  ]
+}

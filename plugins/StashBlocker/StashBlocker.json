@@ -1,0 +1,21 @@
+{
+  "id": "stash-blocker",
+  "name": "StashBlocker",
+  "author": "",
+  "description": "Restricts the placement of stash containers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16389,
+  "latest_version": "1.1.0",
+  "created_at": "2018-08-05T17:09:25",
+  "updated_at": "2025-03-23T06:23:21",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-24T00:14:02.514955",
+      "download_url": "https://umod.org/plugins/stash-blocker/download/latest",
+      "changelog": null
+    }
+  ]
+}

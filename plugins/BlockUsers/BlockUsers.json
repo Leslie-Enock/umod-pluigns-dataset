@@ -1,0 +1,21 @@
+{
+  "id": "block-users",
+  "name": "BlockUsers",
+  "author": "ViolationHandler",
+  "description": "Blocking Users system and API managing blocked users/list of blocked users",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 905,
+  "latest_version": "1.0.5",
+  "created_at": "2023-04-22T20:20:57",
+  "updated_at": "2025-03-15T00:41:12",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:23:17.280004",
+      "download_url": "https://umod.org/plugins/block-users/download/latest",
+      "changelog": null
+    }
+  ]
+}

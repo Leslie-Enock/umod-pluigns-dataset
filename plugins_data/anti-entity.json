@@ -1,0 +1,21 @@
+{
+  "id": "anti-entity",
+  "name": "AntiEntity",
+  "author": "birthdates",
+  "description": "Deny certain entities from spawning",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7833,
+  "latest_version": "1.0.1",
+  "created_at": "2019-02-24T12:13:43",
+  "updated_at": "2025-03-22T18:37:02",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:18:22.571294",
+      "download_url": "https://umod.org/plugins/anti-entity/download/latest",
+      "changelog": null
+    }
+  ]
+}

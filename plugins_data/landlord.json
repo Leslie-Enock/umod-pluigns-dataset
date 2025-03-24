@@ -1,0 +1,21 @@
+{
+  "id": "landlord",
+  "name": "LandLord",
+  "author": "bravoavo",
+  "description": "Game modification that brings new rules to the original game",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8321,
+  "latest_version": "1.0.17",
+  "created_at": "2020-10-25T17:00:51",
+  "updated_at": "2025-03-23T12:58:42",
+  "versions": [
+    {
+      "version": "1.0.17",
+      "released_at": "2025-03-23T23:47:55.808995",
+      "download_url": "https://umod.org/plugins/landlord/download/latest",
+      "changelog": null
+    }
+  ]
+}

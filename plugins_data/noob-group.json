@@ -1,0 +1,21 @@
+{
+  "id": "noob-group",
+  "name": "NoobGroup",
+  "author": "MrBlue",
+  "description": "Adds new players to a temporary group, and permanent group on return",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 5918,
+  "latest_version": "2.0.0",
+  "created_at": "2018-11-03T20:14:13",
+  "updated_at": "2025-03-19T07:16:58",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-23T23:57:42.644125",
+      "download_url": "https://umod.org/plugins/noob-group/download/latest",
+      "changelog": null
+    }
+  ]
+}

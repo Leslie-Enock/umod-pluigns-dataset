@@ -1,0 +1,21 @@
+{
+  "id": "better-elevators",
+  "name": "BetterElevators",
+  "author": "WhiteThunder",
+  "description": "Allows elevators to be taller, faster, powerless and more",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15070,
+  "latest_version": "1.2.11",
+  "created_at": "2020-10-28T05:48:09",
+  "updated_at": "2025-03-23T04:37:07",
+  "versions": [
+    {
+      "version": "1.2.11",
+      "released_at": "2025-03-23T23:22:39.060653",
+      "download_url": "https://umod.org/plugins/better-elevators/download/latest",
+      "changelog": null
+    }
+  ]
+}

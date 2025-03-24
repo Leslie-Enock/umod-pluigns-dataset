@@ -1,0 +1,21 @@
+{
+  "id": "free-rt",
+  "name": "FreeRT",
+  "author": "IIIaKa",
+  "description": "Provides free access to differents monuments for those who have permissions",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9780,
+  "latest_version": "0.1.8",
+  "created_at": "2020-04-28T20:36:40",
+  "updated_at": "2025-03-22T19:28:34",
+  "versions": [
+    {
+      "version": "0.1.8",
+      "released_at": "2025-03-23T23:40:09.080155",
+      "download_url": "https://umod.org/plugins/free-rt/download/latest",
+      "changelog": null
+    }
+  ]
+}

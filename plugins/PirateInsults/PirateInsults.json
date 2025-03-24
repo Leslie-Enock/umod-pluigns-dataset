@@ -1,0 +1,21 @@
+{
+  "id": "pirate-insults",
+  "name": "PirateInsults",
+  "author": "BaronVonFinchus",
+  "description": "Hurl pirate themed insults at yourself or another person.",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 6696,
+  "latest_version": "1.0.5",
+  "created_at": "2018-08-05T07:36:03",
+  "updated_at": "2025-03-19T21:37:11",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-24T00:00:50.569748",
+      "download_url": "https://umod.org/plugins/pirate-insults/download/latest",
+      "changelog": null
+    }
+  ]
+}

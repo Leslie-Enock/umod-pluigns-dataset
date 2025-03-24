@@ -1,0 +1,21 @@
+{
+  "id": "rotating-death-bags",
+  "name": "RotatingDeathBags",
+  "author": "k1lly0u",
+  "description": "Makes dropped item containers float and rotate on death",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8631,
+  "latest_version": "0.1.0",
+  "created_at": "2018-08-02T21:36:57",
+  "updated_at": "2025-03-21T16:04:16",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "released_at": "2025-03-24T00:08:31.737833",
+      "download_url": "https://umod.org/plugins/rotating-death-bags/download/latest",
+      "changelog": null
+    }
+  ]
+}

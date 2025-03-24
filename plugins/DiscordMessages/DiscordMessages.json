@@ -1,0 +1,21 @@
+{
+  "id": "discord-messages",
+  "name": "DiscordMessages",
+  "author": "ctv",
+  "description": "Sends report and ban messages straight to Discord",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 53256,
+  "latest_version": "2.1.8",
+  "created_at": "2018-07-24T21:35:06",
+  "updated_at": "2025-03-23T14:03:03",
+  "versions": [
+    {
+      "version": "2.1.8",
+      "released_at": "2025-03-23T23:33:30.734145",
+      "download_url": "https://umod.org/plugins/discord-messages/download/latest",
+      "changelog": null
+    }
+  ]
+}

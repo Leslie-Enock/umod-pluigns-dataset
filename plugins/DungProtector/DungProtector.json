@@ -1,0 +1,21 @@
+{
+  "id": "dung-protector",
+  "name": "DungProtector",
+  "author": "KajWithAJ",
+  "description": "Prevent players from stealing horse dung.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4618,
+  "latest_version": "1.4.0",
+  "created_at": "2022-12-19T18:32:14",
+  "updated_at": "2025-03-22T14:33:49",
+  "versions": [
+    {
+      "version": "1.4.0",
+      "released_at": "2025-03-23T23:35:14.289471",
+      "download_url": "https://umod.org/plugins/dung-protector/download/latest",
+      "changelog": null
+    }
+  ]
+}

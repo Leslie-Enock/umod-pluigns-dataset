@@ -1,0 +1,21 @@
+{
+  "id": "bot-names",
+  "name": "BotNames",
+  "author": "birthdates",
+  "description": "Allows changing of bot names",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7795,
+  "latest_version": "1.0.6",
+  "created_at": "2019-06-08T08:15:18",
+  "updated_at": "2025-03-14T19:22:18",
+  "versions": [
+    {
+      "version": "1.0.6",
+      "released_at": "2025-03-23T23:24:00.070041",
+      "download_url": "https://umod.org/plugins/bot-names/download/latest",
+      "changelog": null
+    }
+  ]
+}

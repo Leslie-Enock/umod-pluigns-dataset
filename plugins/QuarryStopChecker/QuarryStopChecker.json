@@ -1,0 +1,21 @@
+{
+  "id": "quarry-stop-checker",
+  "name": "QuarryStopChecker",
+  "author": "OldGuyWoody",
+  "description": "Stops unauthorized players from turning off quarries",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10350,
+  "latest_version": "1.0.2",
+  "created_at": "2019-12-27T10:55:24",
+  "updated_at": "2025-03-14T12:22:23",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:04:33.075439",
+      "download_url": "https://umod.org/plugins/quarry-stop-checker/download/latest",
+      "changelog": null
+    }
+  ]
+}

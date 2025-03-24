@@ -1,0 +1,21 @@
+{
+  "id": "prevent-looting",
+  "name": "PreventLooting",
+  "author": "CaseMan",
+  "description": "Provides protection of players' entities from looting by other players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 25860,
+  "latest_version": "1.15.0",
+  "created_at": "2018-07-24T21:35:17",
+  "updated_at": "2025-03-23T18:33:38",
+  "versions": [
+    {
+      "version": "1.15.0",
+      "released_at": "2025-03-24T00:02:59.080874",
+      "download_url": "https://umod.org/plugins/prevent-looting/download/latest",
+      "changelog": null
+    }
+  ]
+}

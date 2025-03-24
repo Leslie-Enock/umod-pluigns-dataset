@@ -1,0 +1,23 @@
+{
+  "id": "portgun",
+  "name": "Portgun",
+  "author": "MrBlue",
+  "description": "Teleports player to object or terrain they are looking at",
+  "categories": [
+    "rust",
+    "hurtworld",
+    "reign-of-kings"
+  ],
+  "total_downloads": 6111,
+  "latest_version": "3.3.2",
+  "created_at": "2018-07-24T21:35:17",
+  "updated_at": "2025-03-15T02:22:19",
+  "versions": [
+    {
+      "version": "3.3.2",
+      "released_at": "2025-03-24T00:02:31.400010",
+      "download_url": "https://umod.org/plugins/portgun/download/latest",
+      "changelog": null
+    }
+  ]
+}

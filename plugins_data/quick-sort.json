@@ -1,0 +1,21 @@
+{
+  "id": "quick-sort",
+  "name": "QuickSort",
+  "author": "MONaH",
+  "description": "Adds a GUI that allows players to quickly sort items into containers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 49330,
+  "latest_version": "1.8.2",
+  "created_at": "2018-07-24T21:35:18",
+  "updated_at": "2025-03-23T15:33:58",
+  "versions": [
+    {
+      "version": "1.8.2",
+      "released_at": "2025-03-24T00:04:59.374743",
+      "download_url": "https://umod.org/plugins/quick-sort/download/latest",
+      "changelog": null
+    }
+  ]
+}

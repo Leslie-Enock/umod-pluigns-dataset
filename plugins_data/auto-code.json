@@ -1,0 +1,21 @@
+{
+  "id": "auto-code",
+  "name": "AutoCode",
+  "author": "BlueBeka",
+  "description": "Automatically sets the code on code locks when placed",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 30978,
+  "latest_version": "1.6.0",
+  "created_at": "2021-01-26T15:07:52",
+  "updated_at": "2025-03-23T11:26:09",
+  "versions": [
+    {
+      "version": "1.6.0",
+      "released_at": "2025-03-23T23:19:26.176060",
+      "download_url": "https://umod.org/plugins/auto-code/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "smooth-restarter-rejoin-rewards",
+  "name": "SmoothRestarterRejoinRewards",
+  "author": "2CHEVSKII",
+  "description": "Reward players if they re-join after restart",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3758,
+  "latest_version": "1.1.0",
+  "created_at": "2021-09-15T22:21:26",
+  "updated_at": "2025-03-21T01:37:33",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-24T00:13:06.858763",
+      "download_url": "https://umod.org/plugins/smooth-restarter-rejoin-rewards/download/latest",
+      "changelog": null
+    }
+  ]
+}

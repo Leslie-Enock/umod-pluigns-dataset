@@ -1,0 +1,21 @@
+{
+  "id": "building-grades",
+  "name": "BuildingGrades",
+  "author": "VisEntities",
+  "description": "Allows players to easily upgrade or downgrade an entire building",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 106282,
+  "latest_version": "1.0.13",
+  "created_at": "2018-08-05T16:53:28",
+  "updated_at": "2025-03-23T18:33:00",
+  "versions": [
+    {
+      "version": "1.0.13",
+      "released_at": "2025-03-23T23:24:41.496494",
+      "download_url": "https://umod.org/plugins/building-grades/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "magic-clock-panel",
+  "name": "MagicClockPanel",
+  "author": "MJSU",
+  "description": "Displays the in-game time in Magic Panel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 20420,
+  "latest_version": "1.0.3",
+  "created_at": "2019-11-19T17:04:12",
+  "updated_at": "2025-03-23T09:57:50",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:50:05.279218",
+      "download_url": "https://umod.org/plugins/magic-clock-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

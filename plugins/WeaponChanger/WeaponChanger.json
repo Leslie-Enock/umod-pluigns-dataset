@@ -1,0 +1,21 @@
+{
+  "id": "weapon-changer",
+  "name": "WeaponChanger",
+  "author": "DezLife",
+  "description": "Changes some of weapon stats on the server",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 33507,
+  "latest_version": "1.0.4",
+  "created_at": "2019-07-03T00:13:44",
+  "updated_at": "2025-03-23T16:47:21",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:22:09.296233",
+      "download_url": "https://umod.org/plugins/weapon-changer/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "collider-count",
+  "name": "ColliderCount",
+  "author": "",
+  "description": "Use a chat/console command to check current collider count and the *estimated* days to wipe!",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8847,
+  "latest_version": "0.0.4",
+  "created_at": "2018-08-02T18:38:15",
+  "updated_at": "2025-03-18T14:49:04",
+  "versions": [
+    {
+      "version": "0.0.4",
+      "released_at": "2025-03-23T23:28:15.037745",
+      "download_url": "https://umod.org/plugins/collider-count/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "tebex",
+  "name": "TebexPlugin",
+  "author": "tebex",
+  "description": "Official plugin for Tebex.io, the leading monetization platform for game servers.",
+  "categories": [
+    "rust",
+    "7-days-to-die"
+  ],
+  "total_downloads": 29207,
+  "latest_version": "2.0.13",
+  "created_at": "2018-12-11T03:30:22",
+  "updated_at": "2025-03-23T18:52:25",
+  "versions": [
+    {
+      "version": "2.0.13",
+      "released_at": "2025-03-24T00:16:25.024641",
+      "download_url": "https://umod.org/plugins/tebex/download/latest",
+      "changelog": null
+    }
+  ]
+}

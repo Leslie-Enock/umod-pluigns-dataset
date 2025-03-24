@@ -1,0 +1,21 @@
+{
+  "id": "angry-authlevel",
+  "name": "AngryAuthlevel",
+  "author": "Tori1157",
+  "description": "Automatically gives or removes Authlevels for users.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9755,
+  "latest_version": "2.0.0",
+  "created_at": "2018-08-05T17:41:22",
+  "updated_at": "2025-03-18T17:14:56",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-23T23:17:55.526224",
+      "download_url": "https://umod.org/plugins/angry-authlevel/download/latest",
+      "changelog": null
+    }
+  ]
+}

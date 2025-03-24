@@ -1,0 +1,21 @@
+{
+  "id": "recycler-block",
+  "name": "RecyclerBlock",
+  "author": "KrunghCrow",
+  "description": "Blocks usage of any recycler with exclude permission",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 72,
+  "latest_version": "1.0.2",
+  "created_at": "2023-10-08T15:01:17",
+  "updated_at": "2025-03-22T20:47:29",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:06:34.808340",
+      "download_url": "https://umod.org/plugins/recycler-block/download/latest",
+      "changelog": null
+    }
+  ]
+}

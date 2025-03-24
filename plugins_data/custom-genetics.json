@@ -1,0 +1,21 @@
+{
+  "id": "custom-genetics",
+  "name": "CustomGenetics",
+  "author": "rostov114",
+  "description": "Allows the player to change the genetics of seeds",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13544,
+  "latest_version": "0.17.2",
+  "created_at": "2020-09-25T23:37:34",
+  "updated_at": "2025-03-23T16:54:37",
+  "versions": [
+    {
+      "version": "0.17.2",
+      "released_at": "2025-03-23T23:30:50.184873",
+      "download_url": "https://umod.org/plugins/custom-genetics/download/latest",
+      "changelog": null
+    }
+  ]
+}

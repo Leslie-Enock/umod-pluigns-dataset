@@ -1,0 +1,21 @@
+{
+  "id": "vote-kick",
+  "name": "VoteKick",
+  "author": "MrBlue",
+  "description": "Lets players with permission call votes to kick others",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 31079,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-05T07:23:44",
+  "updated_at": "2025-03-17T17:34:25",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:21:29.180784",
+      "download_url": "https://umod.org/plugins/vote-kick/download/latest",
+      "changelog": null
+    }
+  ]
+}

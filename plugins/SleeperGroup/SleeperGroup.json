@@ -1,0 +1,24 @@
+{
+  "id": "sleeper-group",
+  "name": "SleeperGroup",
+  "author": "MrBlue",
+  "description": "Puts players in a permissions group on disconnect if sleeping",
+  "categories": [
+    "rust",
+    "hurtworld",
+    "7-days-to-die",
+    "reign-of-kings"
+  ],
+  "total_downloads": 11124,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-02T18:43:34",
+  "updated_at": "2025-03-17T11:10:42",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:12:42.604492",
+      "download_url": "https://umod.org/plugins/sleeper-group/download/latest",
+      "changelog": null
+    }
+  ]
+}

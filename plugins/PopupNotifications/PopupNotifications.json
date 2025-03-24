@@ -1,0 +1,21 @@
+{
+  "id": "popup-notifications",
+  "name": "PopupNotifications",
+  "author": "k1lly0u",
+  "description": "Popup notifications that can be created by admin and other plugins",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 19843,
+  "latest_version": "0.2.0",
+  "created_at": "2018-08-02T21:33:01",
+  "updated_at": "2025-03-23T00:49:34",
+  "versions": [
+    {
+      "version": "0.2.0",
+      "released_at": "2025-03-24T00:02:17.955487",
+      "download_url": "https://umod.org/plugins/popup-notifications/download/latest",
+      "changelog": null
+    }
+  ]
+}

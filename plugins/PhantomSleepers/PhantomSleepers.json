@@ -1,0 +1,21 @@
+{
+  "id": "phantom-sleepers",
+  "name": "PhantomSleepers",
+  "author": "nivex",
+  "description": "Create phantom sleepers to use as bait against suspected cheaters",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7731,
+  "latest_version": "1.0.0",
+  "created_at": "2018-07-24T21:35:16",
+  "updated_at": "2025-03-23T11:49:04",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:00:21.763026",
+      "download_url": "https://umod.org/plugins/phantom-sleepers/download/latest",
+      "changelog": null
+    }
+  ]
+}

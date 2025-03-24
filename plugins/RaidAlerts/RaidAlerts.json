@@ -1,0 +1,21 @@
+{
+  "id": "raid-alerts",
+  "name": "RaidAlerts",
+  "author": "Ryz0r",
+  "description": "Raid Alerts allows players with permissions to recieve alerts in chat when an explosive is fired or thrown as a type of raid alert. You can also configure it to send alerts to Discord.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7236,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-05T17:41:55",
+  "updated_at": "2025-03-22T01:58:44",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:05:14.181126",
+      "download_url": "https://umod.org/plugins/raid-alerts/download/latest",
+      "changelog": null
+    }
+  ]
+}

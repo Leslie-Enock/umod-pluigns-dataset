@@ -1,0 +1,21 @@
+{
+  "id": "turret-info",
+  "name": "TurretInfo",
+  "author": "ninco90",
+  "description": "Check authorized players in an AutoTurret and the victims of it",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 23550,
+  "latest_version": "1.2.0",
+  "created_at": "2018-08-05T17:15:09",
+  "updated_at": "2025-03-14T19:54:43",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "released_at": "2025-03-24T00:18:51.304636",
+      "download_url": "https://umod.org/plugins/turret-info/download/latest",
+      "changelog": null
+    }
+  ]
+}

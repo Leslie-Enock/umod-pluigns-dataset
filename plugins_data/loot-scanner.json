@@ -1,0 +1,21 @@
+{
+  "id": "loot-scanner",
+  "name": "LootScanner",
+  "author": "VisEntities",
+  "description": "Allows player to scan loot containers with binoculars",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8740,
+  "latest_version": "0.4.0",
+  "created_at": "2018-09-30T11:54:28",
+  "updated_at": "2025-03-14T17:29:53",
+  "versions": [
+    {
+      "version": "0.4.0",
+      "released_at": "2025-03-23T23:49:25.799370",
+      "download_url": "https://umod.org/plugins/loot-scanner/download/latest",
+      "changelog": null
+    }
+  ]
+}

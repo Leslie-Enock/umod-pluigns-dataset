@@ -1,0 +1,21 @@
+{
+  "id": "magic-description",
+  "name": "MagicDescription",
+  "author": "MrBlue",
+  "description": "Adds dynamic information in the server description",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9985,
+  "latest_version": "1.4.0",
+  "created_at": "2018-07-24T21:35:12",
+  "updated_at": "2025-03-23T18:45:45",
+  "versions": [
+    {
+      "version": "1.4.0",
+      "released_at": "2025-03-23T23:50:30.401278",
+      "download_url": "https://umod.org/plugins/magic-description/download/latest",
+      "changelog": null
+    }
+  ]
+}

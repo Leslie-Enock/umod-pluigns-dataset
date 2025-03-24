@@ -1,0 +1,21 @@
+{
+  "id": "phones-plus",
+  "name": "PhonesPlus",
+  "author": "mr01sam",
+  "description": "Adds notifications, messages, caller ID and more features to phones",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7828,
+  "latest_version": "1.0.2",
+  "created_at": "2021-02-08T01:23:14",
+  "updated_at": "2025-03-23T14:19:02",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:00:36.723709",
+      "download_url": "https://umod.org/plugins/phones-plus/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "sign-artist",
+  "name": "SignArtist",
+  "author": "Whispers88",
+  "description": "Load custom images to signs from a remote URL",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 109013,
+  "latest_version": "1.4.1",
+  "created_at": "2018-08-05T17:06:30",
+  "updated_at": "2025-03-23T17:34:28",
+  "versions": [
+    {
+      "version": "1.4.1",
+      "released_at": "2025-03-24T00:11:12.823448",
+      "download_url": "https://umod.org/plugins/sign-artist/download/latest",
+      "changelog": null
+    }
+  ]
+}

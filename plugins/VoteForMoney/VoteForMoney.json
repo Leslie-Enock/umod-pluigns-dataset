@@ -1,0 +1,21 @@
+{
+  "id": "vote-for-money",
+  "name": "VoteForMoney",
+  "author": "markmozza",
+  "description": "Players who vote are rewarded with Economics, Server Rewards, Kits",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 32744,
+  "latest_version": "1.0.7",
+  "created_at": "2018-08-05T17:34:58",
+  "updated_at": "2025-03-20T11:06:00",
+  "versions": [
+    {
+      "version": "1.0.7",
+      "released_at": "2025-03-24T00:21:29.181174",
+      "download_url": "https://umod.org/plugins/vote-for-money/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "skip-night-ui",
+  "name": "SkipNightUI",
+  "author": "k1lly0u",
+  "description": "A UI skip night plugin with completely customizable interfaces",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 50168,
+  "latest_version": "0.1.2",
+  "created_at": "2018-08-02T21:36:16",
+  "updated_at": "2025-03-23T17:52:25",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "released_at": "2025-03-24T00:12:05.397006",
+      "download_url": "https://umod.org/plugins/skip-night-ui/download/latest",
+      "changelog": null
+    }
+  ]
+}

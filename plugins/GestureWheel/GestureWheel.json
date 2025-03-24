@@ -1,0 +1,21 @@
+{
+  "id": "gesture-wheel",
+  "name": "GestureWheel",
+  "author": "Chepzz",
+  "description": "Convenient wheel that provides the ability to use gestures",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11777,
+  "latest_version": "0.1.3",
+  "created_at": "2019-07-29T16:04:24",
+  "updated_at": "2025-03-22T06:56:07",
+  "versions": [
+    {
+      "version": "0.1.3",
+      "released_at": "2025-03-23T23:41:19.526833",
+      "download_url": "https://umod.org/plugins/gesture-wheel/download/latest",
+      "changelog": null
+    }
+  ]
+}

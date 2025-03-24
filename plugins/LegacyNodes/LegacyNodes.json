@@ -1,0 +1,21 @@
+{
+  "id": "legacy-nodes",
+  "name": "LegacyNodes",
+  "author": "OfficeEgg",
+  "description": "Return Legacy nodes to rust. All nodes will now return a share of each resource, and HQM on last hit",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5621,
+  "latest_version": "1.0.2",
+  "created_at": "2021-06-11T18:22:09",
+  "updated_at": "2025-03-23T16:23:59",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:48:08.324494",
+      "download_url": "https://umod.org/plugins/legacy-nodes/download/latest",
+      "changelog": null
+    }
+  ]
+}

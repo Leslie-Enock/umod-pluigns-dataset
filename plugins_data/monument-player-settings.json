@@ -1,0 +1,21 @@
+{
+  "id": "monument-player-settings",
+  "name": "MonumentPlayerSettings",
+  "author": "YaMang",
+  "description": "Block certain actions, commands, etc. within the monument. (to teleport)",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2277,
+  "latest_version": "1.0.3",
+  "created_at": "2022-10-11T05:05:16",
+  "updated_at": "2025-03-22T02:16:22",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:53:46.530982",
+      "download_url": "https://umod.org/plugins/monument-player-settings/download/latest",
+      "changelog": null
+    }
+  ]
+}

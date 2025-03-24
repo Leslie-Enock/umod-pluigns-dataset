@@ -1,0 +1,21 @@
+{
+  "id": "tools-gather-manager",
+  "name": "ToolsGatherManager",
+  "author": "Mevent",
+  "description": "Adjusts the gather rate from certain tools",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 25397,
+  "latest_version": "1.0.5",
+  "created_at": "2018-07-24T21:35:22",
+  "updated_at": "2025-03-20T12:13:31",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-24T00:18:13.246931",
+      "download_url": "https://umod.org/plugins/tools-gather-manager/download/latest",
+      "changelog": null
+    }
+  ]
+}

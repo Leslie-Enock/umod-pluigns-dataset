@@ -1,0 +1,21 @@
+{
+  "id": "privilege-deploy",
+  "name": "PrivilegeDeploy",
+  "author": "k1lly0u",
+  "description": "Block specific items from being deployed outside of a authorized build radius",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10794,
+  "latest_version": "0.1.7",
+  "created_at": "2018-08-02T21:33:54",
+  "updated_at": "2025-03-22T11:36:02",
+  "versions": [
+    {
+      "version": "0.1.7",
+      "released_at": "2025-03-24T00:03:12.834473",
+      "download_url": "https://umod.org/plugins/privilege-deploy/download/latest",
+      "changelog": null
+    }
+  ]
+}

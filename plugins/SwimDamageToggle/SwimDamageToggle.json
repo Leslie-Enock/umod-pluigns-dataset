@@ -1,0 +1,21 @@
+{
+  "id": "swim-damage-toggle",
+  "name": "SwimDamageToggle",
+  "author": "Hockeygel23",
+  "description": "Prevents drowning, cold damage, and cold exposure when swimming",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6812,
+  "latest_version": "0.0.7",
+  "created_at": "2020-11-14T09:21:20",
+  "updated_at": "2025-03-14T19:03:06",
+  "versions": [
+    {
+      "version": "0.0.7",
+      "released_at": "2025-03-24T00:15:30.234515",
+      "download_url": "https://umod.org/plugins/swim-damage-toggle/download/latest",
+      "changelog": null
+    }
+  ]
+}

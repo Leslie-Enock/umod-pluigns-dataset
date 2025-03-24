@@ -1,0 +1,21 @@
+{
+  "id": "fishing",
+  "name": "Tsuri",
+  "author": "ColonBlow",
+  "description": "Allows players to use weapons to fish ingame",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13843,
+  "latest_version": "1.4.11",
+  "created_at": "2018-08-05T16:30:27",
+  "updated_at": "2025-03-23T04:18:28",
+  "versions": [
+    {
+      "version": "1.4.11",
+      "released_at": "2025-03-23T23:39:06.815898",
+      "download_url": "https://umod.org/plugins/fishing/download/latest",
+      "changelog": null
+    }
+  ]
+}

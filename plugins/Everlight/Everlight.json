@@ -1,0 +1,21 @@
+{
+  "id": "everlight",
+  "name": "Everlight",
+  "author": "ohhRezyyy",
+  "description": "Allows infinite light from configured objects by not consuming fuel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16049,
+  "latest_version": "3.5.1",
+  "created_at": "2018-07-24T21:35:07",
+  "updated_at": "2025-03-23T16:41:17",
+  "versions": [
+    {
+      "version": "3.5.1",
+      "released_at": "2025-03-23T23:37:26.509356",
+      "download_url": "https://umod.org/plugins/everlight/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "name-rewards",
+  "name": "NameRewards",
+  "author": "misticos",
+  "description": "Assigns players a group based on phrases found in their names",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 6180,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-05T07:33:56",
+  "updated_at": "2025-03-16T23:11:38",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:54:37.529684",
+      "download_url": "https://umod.org/plugins/name-rewards/download/latest",
+      "changelog": null
+    }
+  ]
+}

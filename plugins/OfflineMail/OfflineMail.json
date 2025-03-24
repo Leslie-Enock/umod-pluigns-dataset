@@ -1,0 +1,21 @@
+{
+  "id": "offline-mail",
+  "name": "OfflineMail",
+  "author": "redBDGR",
+  "description": "Send messages to a player so they receive them on their next login",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6977,
+  "latest_version": "1.0.2",
+  "created_at": "2018-07-24T21:35:15",
+  "updated_at": "2025-03-22T11:26:29",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:58:50.127353",
+      "download_url": "https://umod.org/plugins/offline-mail/download/latest",
+      "changelog": null
+    }
+  ]
+}

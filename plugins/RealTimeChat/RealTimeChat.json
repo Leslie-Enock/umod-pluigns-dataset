@@ -1,0 +1,21 @@
+{
+  "id": "real-time-chat",
+  "name": "RealTimeChat",
+  "author": "TheFriendlyChap",
+  "description": "Shows the server's IRL time on command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 1529,
+  "latest_version": "1.0.2",
+  "created_at": "2022-08-20T08:04:15",
+  "updated_at": "2025-03-20T20:18:18",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:06:06.933114",
+      "download_url": "https://umod.org/plugins/real-time-chat/download/latest",
+      "changelog": null
+    }
+  ]
+}

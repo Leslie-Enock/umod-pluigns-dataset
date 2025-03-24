@@ -1,0 +1,21 @@
+{
+  "id": "discord-server-stats",
+  "name": "DiscordServerStats",
+  "author": "MJSU",
+  "description": "Displays live server stats in a discord channel",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 19457,
+  "latest_version": "2.1.0",
+  "created_at": "2020-08-07T12:52:17",
+  "updated_at": "2025-03-23T09:13:51",
+  "versions": [
+    {
+      "version": "2.1.0",
+      "released_at": "2025-03-23T23:33:56.714769",
+      "download_url": "https://umod.org/plugins/discord-server-stats/download/latest",
+      "changelog": null
+    }
+  ]
+}

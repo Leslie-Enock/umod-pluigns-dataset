@@ -1,0 +1,21 @@
+{
+  "id": "hazmat-skin-changer",
+  "name": "HazmatSkinChanger",
+  "author": "MasterSplinter",
+  "description": "Allows players to craft/skin any Hazmat suit instead of the regular Hazmat suit",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9147,
+  "latest_version": "1.0.3",
+  "created_at": "2018-09-10T14:53:54",
+  "updated_at": "2025-03-23T01:32:47",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:42:50.481464",
+      "download_url": "https://umod.org/plugins/hazmat-skin-changer/download/latest",
+      "changelog": null
+    }
+  ]
+}

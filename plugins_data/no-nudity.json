@@ -1,0 +1,21 @@
+{
+  "id": "no-nudity",
+  "name": "NoNudity",
+  "author": "MrBlue",
+  "description": "Forces players to wear clothing, and gives them some if they do not have any",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9473,
+  "latest_version": "1.0.3",
+  "created_at": "2018-08-05T17:58:42",
+  "updated_at": "2025-03-21T19:36:25",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:56:53.549388",
+      "download_url": "https://umod.org/plugins/no-nudity/download/latest",
+      "changelog": null
+    }
+  ]
+}

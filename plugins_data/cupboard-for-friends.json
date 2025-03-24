@@ -1,0 +1,21 @@
+{
+  "id": "cupboard-for-friends",
+  "name": "CupboardForFriends",
+  "author": "j0se",
+  "description": "Only allow friends, team and clan mates of already authorized people to authorize themselves.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6678,
+  "latest_version": "2.0.0",
+  "created_at": "2018-08-02T18:37:03",
+  "updated_at": "2025-03-21T20:42:56",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-23T23:30:11.573029",
+      "download_url": "https://umod.org/plugins/cupboard-for-friends/download/latest",
+      "changelog": null
+    }
+  ]
+}

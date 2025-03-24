@@ -1,0 +1,21 @@
+{
+  "id": "magic-sets",
+  "name": "MagicSets",
+  "author": "",
+  "description": "Allows users to store and create custom skinned gearsets with one command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6465,
+  "latest_version": "0.2.0",
+  "created_at": "2018-12-14T22:13:39",
+  "updated_at": "2025-03-14T20:51:21",
+  "versions": [
+    {
+      "version": "0.2.0",
+      "released_at": "2025-03-23T23:51:36.073542",
+      "download_url": "https://umod.org/plugins/magic-sets/download/latest",
+      "changelog": null
+    }
+  ]
+}

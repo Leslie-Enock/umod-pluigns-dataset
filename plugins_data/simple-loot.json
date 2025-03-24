@@ -1,0 +1,21 @@
+{
+  "id": "simple-loot",
+  "name": "SimpleLoot",
+  "author": "Jacob",
+  "description": "Sets multipliers for any item of your choosing",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 28384,
+  "latest_version": "1.0.91",
+  "created_at": "2018-08-05T17:13:40",
+  "updated_at": "2025-03-23T14:10:18",
+  "versions": [
+    {
+      "version": "1.0.91",
+      "released_at": "2025-03-24T00:11:38.577846",
+      "download_url": "https://umod.org/plugins/simple-loot/download/latest",
+      "changelog": null
+    }
+  ]
+}

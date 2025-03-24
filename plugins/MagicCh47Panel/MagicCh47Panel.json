@@ -1,0 +1,21 @@
+{
+  "id": "magic-ch47-panel",
+  "name": "MagicCh47Panel",
+  "author": "MJSU",
+  "description": "Displays when the CH47 event is active in Magic Panel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18371,
+  "latest_version": "1.0.2",
+  "created_at": "2019-11-19T17:03:10",
+  "updated_at": "2025-03-23T02:04:20",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:50:05.279599",
+      "download_url": "https://umod.org/plugins/magic-ch47-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

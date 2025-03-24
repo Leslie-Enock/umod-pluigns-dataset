@@ -1,0 +1,21 @@
+{
+  "id": "simple-no-vehicle-fuel",
+  "name": "SimpleNoVehicleFuel",
+  "author": "Mabel",
+  "description": "Removes requirement of fuel in all vehicles",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10533,
+  "latest_version": "1.1.0",
+  "created_at": "2020-09-21T05:22:52",
+  "updated_at": "2025-03-23T01:37:49",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-24T00:11:38.578220",
+      "download_url": "https://umod.org/plugins/simple-no-vehicle-fuel/download/latest",
+      "changelog": null
+    }
+  ]
+}

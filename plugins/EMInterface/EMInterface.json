@@ -1,0 +1,21 @@
+{
+  "id": "eminterface",
+  "name": "EMInterface",
+  "author": "k1lly0u",
+  "description": "The control system for the Event Manager plugin",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 20217,
+  "latest_version": "2.0.2",
+  "created_at": "2018-08-02T21:38:28",
+  "updated_at": "2025-03-23T17:52:07",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-23T23:36:18.745316",
+      "download_url": "https://umod.org/plugins/eminterface/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "clear-weather",
+  "name": "ClearWeather",
+  "author": "Rick6",
+  "description": "Always clear weather",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2056,
+  "latest_version": "1.1.0",
+  "created_at": "2022-11-20T10:27:03",
+  "updated_at": "2025-03-22T19:56:34",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:27:50.953647",
+      "download_url": "https://umod.org/plugins/clear-weather/download/latest",
+      "changelog": null
+    }
+  ]
+}

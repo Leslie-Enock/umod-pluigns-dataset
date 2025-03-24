@@ -1,0 +1,21 @@
+{
+  "id": "hit-icon",
+  "name": "HitIcon",
+  "author": "FastBurst",
+  "description": "Configurable UI icon and text of damage amount when you hit player|friend|clan member|headshot",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 35050,
+  "latest_version": "2.0.2",
+  "created_at": "2018-08-05T17:05:35",
+  "updated_at": "2025-03-23T18:19:28",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-23T23:43:43.470714",
+      "download_url": "https://umod.org/plugins/hit-icon/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "no-shelves-bug-raiding",
+  "name": "NoShelvesBugRaiding",
+  "author": "wazzzup",
+  "description": "No bug raiding with shelves",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7461,
+  "latest_version": "1.1.0",
+  "created_at": "2018-08-05T16:54:56",
+  "updated_at": "2025-03-14T23:07:26",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:57:17.706989",
+      "download_url": "https://umod.org/plugins/no-shelves-bug-raiding/download/latest",
+      "changelog": null
+    }
+  ]
+}

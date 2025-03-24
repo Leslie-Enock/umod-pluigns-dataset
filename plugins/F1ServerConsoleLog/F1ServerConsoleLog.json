@@ -1,0 +1,21 @@
+{
+  "id": "f1-server-console-log",
+  "name": "F1ServerConsoleLog",
+  "author": "NooBlet",
+  "description": "Logs server console to F1 console of players with permission",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3307,
+  "latest_version": "0.1.7",
+  "created_at": "2021-09-12T16:15:14",
+  "updated_at": "2025-03-23T15:53:54",
+  "versions": [
+    {
+      "version": "0.1.7",
+      "released_at": "2025-03-23T23:38:18.488863",
+      "download_url": "https://umod.org/plugins/f1-server-console-log/download/latest",
+      "changelog": null
+    }
+  ]
+}

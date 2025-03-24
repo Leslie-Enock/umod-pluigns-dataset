@@ -1,0 +1,21 @@
+{
+  "id": "item-inspector",
+  "name": "ItemInspector",
+  "author": "mr01sam",
+  "description": "Allows players to inspect items to see their true stats, info and modifiers.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6671,
+  "latest_version": "1.0.0",
+  "created_at": "2021-07-07T17:15:20",
+  "updated_at": "2025-03-19T12:34:16",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:46:21.297834",
+      "download_url": "https://umod.org/plugins/item-inspector/download/latest",
+      "changelog": null
+    }
+  ]
+}

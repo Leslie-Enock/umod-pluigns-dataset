@@ -1,0 +1,21 @@
+{
+  "id": "smart-chat-bot",
+  "name": "SmartChatBot",
+  "author": "misticos",
+  "description": "I send chat messages based on some triggers or time",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 40863,
+  "latest_version": "2.0.13",
+  "created_at": "2018-08-05T17:09:01",
+  "updated_at": "2025-03-23T18:59:07",
+  "versions": [
+    {
+      "version": "2.0.13",
+      "released_at": "2025-03-24T00:12:54.388023",
+      "download_url": "https://umod.org/plugins/smart-chat-bot/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vending-manager",
+  "name": "VendingManager",
+  "author": "Whispers88",
+  "description": "Utility for managing vending machines",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 38687,
+  "latest_version": "0.2.2",
+  "created_at": "2018-08-05T16:56:30",
+  "updated_at": "2025-03-23T19:02:17",
+  "versions": [
+    {
+      "version": "0.2.2",
+      "released_at": "2025-03-24T00:21:03.266692",
+      "download_url": "https://umod.org/plugins/vending-manager/download/latest",
+      "changelog": null
+    }
+  ]
+}

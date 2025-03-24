@@ -1,0 +1,21 @@
+{
+  "id": "loot-bouncer",
+  "name": "LootBouncer",
+  "author": "VisEntities",
+  "description": "Empty the containers when players do not pick up all the items",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 50183,
+  "latest_version": "1.0.10",
+  "created_at": "2018-10-06T08:31:17",
+  "updated_at": "2025-03-23T18:33:06",
+  "versions": [
+    {
+      "version": "1.0.10",
+      "released_at": "2025-03-23T23:49:02.367010",
+      "download_url": "https://umod.org/plugins/loot-bouncer/download/latest",
+      "changelog": null
+    }
+  ]
+}

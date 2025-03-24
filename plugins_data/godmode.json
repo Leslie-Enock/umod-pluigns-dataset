@@ -1,0 +1,21 @@
+{
+  "id": "godmode",
+  "name": "Godmode",
+  "author": "dFxPhoeniX",
+  "description": "Allows players with permission to be invulerable and god-like",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 82282,
+  "latest_version": "4.2.14",
+  "created_at": "2018-08-02T18:33:57",
+  "updated_at": "2025-03-23T18:35:36",
+  "versions": [
+    {
+      "version": "4.2.14",
+      "released_at": "2025-03-23T23:41:33.661982",
+      "download_url": "https://umod.org/plugins/godmode/download/latest",
+      "changelog": null
+    }
+  ]
+}

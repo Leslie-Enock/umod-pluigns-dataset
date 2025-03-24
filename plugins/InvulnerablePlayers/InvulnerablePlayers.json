@@ -1,0 +1,21 @@
+{
+  "id": "invulnerable-players",
+  "name": "InvulnerablePlayers",
+  "author": "",
+  "description": "Allows players to be invisible to NPCs, APС, heli, and traps",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9435,
+  "latest_version": "1.0.4",
+  "created_at": "2018-08-05T16:29:14",
+  "updated_at": "2025-03-20T06:15:26",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:45:58.318777",
+      "download_url": "https://umod.org/plugins/invulnerable-players/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vending-in-stock",
+  "name": "VendingInStock",
+  "author": "AVOCoder",
+  "description": "It just refill items in the NPC vending machines to keep them always in stock.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 43992,
+  "latest_version": "1.1.0",
+  "created_at": "2020-10-02T08:07:14",
+  "updated_at": "2025-03-23T18:03:45",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-24T00:20:51.139522",
+      "download_url": "https://umod.org/plugins/vending-in-stock/download/latest",
+      "changelog": null
+    }
+  ]
+}

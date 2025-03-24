@@ -1,0 +1,21 @@
+{
+  "id": "feed-food",
+  "name": "FeedFood",
+  "author": "lorddy",
+  "description": "Make players you're looking at consume food you drop.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5609,
+  "latest_version": "0.0.1",
+  "created_at": "2021-05-09T08:20:59",
+  "updated_at": "2025-03-18T07:25:53",
+  "versions": [
+    {
+      "version": "0.0.1",
+      "released_at": "2025-03-23T23:38:43.838476",
+      "download_url": "https://umod.org/plugins/feed-food/download/latest",
+      "changelog": null
+    }
+  ]
+}

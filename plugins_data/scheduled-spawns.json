@@ -1,0 +1,21 @@
+{
+  "id": "scheduled-spawns",
+  "name": "ScheduledSpawns",
+  "author": "1AK1",
+  "description": "Spawn any items and prefabs on a schedule",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6364,
+  "latest_version": "1.0.2",
+  "created_at": "2020-12-22T16:42:00",
+  "updated_at": "2025-03-19T22:54:29",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:09:53.822000",
+      "download_url": "https://umod.org/plugins/scheduled-spawns/download/latest",
+      "changelog": null
+    }
+  ]
+}

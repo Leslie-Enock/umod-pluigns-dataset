@@ -1,0 +1,21 @@
+{
+  "id": "remover-tool",
+  "name": "RemoverTool",
+  "author": "Tryhard",
+  "description": "Building and entity removal tool",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 302277,
+  "latest_version": "4.3.43",
+  "created_at": "2018-08-05T17:01:36",
+  "updated_at": "2025-03-23T18:35:11",
+  "versions": [
+    {
+      "version": "4.3.43",
+      "released_at": "2025-03-24T00:06:59.384757",
+      "download_url": "https://umod.org/plugins/remover-tool/download/latest",
+      "changelog": null
+    }
+  ]
+}

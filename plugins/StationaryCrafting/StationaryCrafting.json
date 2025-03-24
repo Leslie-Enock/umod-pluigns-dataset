@@ -1,0 +1,21 @@
+{
+  "id": "stationary-crafting",
+  "name": "StationaryCrafting",
+  "author": "",
+  "description": "Craft only when standing next to a workbench",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12431,
+  "latest_version": "1.0.2",
+  "created_at": "2020-01-11T08:12:44",
+  "updated_at": "2025-03-14T14:34:48",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:14:27.638309",
+      "download_url": "https://umod.org/plugins/stationary-crafting/download/latest",
+      "changelog": null
+    }
+  ]
+}

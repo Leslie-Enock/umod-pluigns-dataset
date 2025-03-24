@@ -1,0 +1,21 @@
+{
+  "id": "turret-loadouts",
+  "name": "TurretLoadouts",
+  "author": "WhiteThunder",
+  "description": "Automatically fills turrets with weapons, attachments and ammo, using configurable loadouts",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15997,
+  "latest_version": "1.2.0",
+  "created_at": "2020-10-23T05:22:16",
+  "updated_at": "2025-03-22T03:26:57",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "released_at": "2025-03-24T00:18:51.304763",
+      "download_url": "https://umod.org/plugins/turret-loadouts/download/latest",
+      "changelog": null
+    }
+  ]
+}

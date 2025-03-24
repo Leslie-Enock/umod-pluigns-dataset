@@ -1,0 +1,21 @@
+{
+  "id": "no-vehicle-fuel",
+  "name": "NoVehicleFuel",
+  "author": "birthdates",
+  "description": "No fuel needed for boats and RHIBs",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11194,
+  "latest_version": "2.0.3",
+  "created_at": "2019-01-13T13:52:01",
+  "updated_at": "2025-03-22T02:29:57",
+  "versions": [
+    {
+      "version": "2.0.3",
+      "released_at": "2025-03-23T23:57:28.882640",
+      "download_url": "https://umod.org/plugins/no-vehicle-fuel/download/latest",
+      "changelog": null
+    }
+  ]
+}

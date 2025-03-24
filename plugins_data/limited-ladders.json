@@ -1,0 +1,21 @@
+{
+  "id": "limited-ladders",
+  "name": "LimitedLadders",
+  "author": "redBDGR",
+  "description": "Prevents the placement of ladders where building is blocked",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10413,
+  "latest_version": "2.0.1",
+  "created_at": "2018-08-02T18:41:29",
+  "updated_at": "2025-03-16T23:36:32",
+  "versions": [
+    {
+      "version": "2.0.1",
+      "released_at": "2025-03-23T23:48:33.348956",
+      "download_url": "https://umod.org/plugins/limited-ladders/download/latest",
+      "changelog": null
+    }
+  ]
+}

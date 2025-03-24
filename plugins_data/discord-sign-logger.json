@@ -1,0 +1,21 @@
+{
+  "id": "discord-sign-logger",
+  "name": "DiscordSignLogger",
+  "author": "MJSU",
+  "description": "Logs Sign / Firework Updates to Discord with button interactions",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9892,
+  "latest_version": "3.0.0",
+  "created_at": "2022-01-26T19:46:52",
+  "updated_at": "2025-03-23T15:53:46",
+  "versions": [
+    {
+      "version": "3.0.0",
+      "released_at": "2025-03-23T23:33:56.714906",
+      "download_url": "https://umod.org/plugins/discord-sign-logger/download/latest",
+      "changelog": null
+    }
+  ]
+}

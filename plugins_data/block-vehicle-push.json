@@ -1,0 +1,21 @@
+{
+  "id": "block-vehicle-push",
+  "name": "BlockVehiclePush",
+  "author": "Clearshot",
+  "description": "Block players from pushing vehicles if any player sitting in the vehicle is not associated with them",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 864,
+  "latest_version": "1.1.0",
+  "created_at": "2022-03-23T16:54:55",
+  "updated_at": "2025-03-20T10:25:21",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:23:32.157419",
+      "download_url": "https://umod.org/plugins/block-vehicle-push/download/latest",
+      "changelog": null
+    }
+  ]
+}

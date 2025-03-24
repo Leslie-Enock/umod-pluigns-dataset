@@ -1,0 +1,21 @@
+{
+  "id": "disable-temperature-functions",
+  "name": "DisableTemperatureFunctions",
+  "author": "TheFriendlyChap",
+  "description": "Prevents cold/heat damage/overlay for players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13466,
+  "latest_version": "1.0.2",
+  "created_at": "2019-05-19T16:38:22",
+  "updated_at": "2025-03-23T17:58:23",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:32:54.211555",
+      "download_url": "https://umod.org/plugins/disable-temperature-functions/download/latest",
+      "changelog": null
+    }
+  ]
+}

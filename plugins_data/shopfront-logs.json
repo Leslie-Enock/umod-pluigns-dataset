@@ -1,0 +1,21 @@
+{
+  "id": "shopfront-logs",
+  "name": "ShopfrontLogs",
+  "author": "Ryz0r",
+  "description": "Logs completed shopfront trades to a Discord webhook",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4060,
+  "latest_version": "1.0.0",
+  "created_at": "2021-02-22T02:53:34",
+  "updated_at": "2025-03-23T15:53:27",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:10:58.665985",
+      "download_url": "https://umod.org/plugins/shopfront-logs/download/latest",
+      "changelog": null
+    }
+  ]
+}

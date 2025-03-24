@@ -1,0 +1,21 @@
+{
+  "id": "prevent-quarry-toggle",
+  "name": "PreventQuarryToggle",
+  "author": "Rezx",
+  "description": "turns quarrys/pumpjacks back on when a player that isn't the owner or in a team try's to shut it off",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 161,
+  "latest_version": "1.0.2",
+  "created_at": "2023-05-07T04:45:14",
+  "updated_at": "2025-03-17T22:28:04",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:02:59.080960",
+      "download_url": "https://umod.org/plugins/prevent-quarry-toggle/download/latest",
+      "changelog": null
+    }
+  ]
+}

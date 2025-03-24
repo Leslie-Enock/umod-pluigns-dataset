@@ -1,0 +1,21 @@
+{
+  "id": "idle-manager",
+  "name": "AFK",
+  "author": "MrBlue",
+  "description": "Kicks players that are AFK (away from keyboard) for too long",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 9975,
+  "latest_version": "1.1.5",
+  "created_at": "2018-08-02T18:47:37",
+  "updated_at": "2025-03-23T11:57:42",
+  "versions": [
+    {
+      "version": "1.1.5",
+      "released_at": "2025-03-23T23:44:23.264798",
+      "download_url": "https://umod.org/plugins/idle-manager/download/latest",
+      "changelog": null
+    }
+  ]
+}

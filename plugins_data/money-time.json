@@ -1,0 +1,21 @@
+{
+  "id": "money-time",
+  "name": "MoneyTime",
+  "author": "MrBlue",
+  "description": "Pays players with Economics or Server Rewards money for playing",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 17528,
+  "latest_version": "2.3.0",
+  "created_at": "2018-07-24T21:35:12",
+  "updated_at": "2025-03-23T02:05:11",
+  "versions": [
+    {
+      "version": "2.3.0",
+      "released_at": "2025-03-23T23:53:32.573883",
+      "download_url": "https://umod.org/plugins/money-time/download/latest",
+      "changelog": null
+    }
+  ]
+}

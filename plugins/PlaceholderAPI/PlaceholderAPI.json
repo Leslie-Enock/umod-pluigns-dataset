@@ -1,0 +1,21 @@
+{
+  "id": "placeholder-api",
+  "name": "PlaceholderAPI",
+  "author": "misticos",
+  "description": "Centralized location to query data from other plugins. Streamlined, convenient, and performant",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 61141,
+  "latest_version": "2.2.5",
+  "created_at": "2019-07-27T07:38:20",
+  "updated_at": "2025-03-23T18:29:30",
+  "versions": [
+    {
+      "version": "2.2.5",
+      "released_at": "2025-03-24T00:00:50.569527",
+      "download_url": "https://umod.org/plugins/placeholder-api/download/latest",
+      "changelog": null
+    }
+  ]
+}

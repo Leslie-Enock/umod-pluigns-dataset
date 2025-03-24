@@ -1,0 +1,21 @@
+{
+  "id": "clan-ban",
+  "name": "ClanBan",
+  "author": "ctv",
+  "description": "Bans an entire clan with one command",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 7394,
+  "latest_version": "1.3.0",
+  "created_at": "2018-07-24T21:35:05",
+  "updated_at": "2025-03-18T19:35:13",
+  "versions": [
+    {
+      "version": "1.3.0",
+      "released_at": "2025-03-23T23:27:25.132894",
+      "download_url": "https://umod.org/plugins/clan-ban/download/latest",
+      "changelog": null
+    }
+  ]
+}

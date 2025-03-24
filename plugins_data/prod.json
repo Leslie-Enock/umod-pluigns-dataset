@@ -1,0 +1,21 @@
+{
+  "id": "prod",
+  "name": "Prod",
+  "author": "Quapi",
+  "description": "Gets owners of deployable, building structures and whitelist of tool cupboards",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11851,
+  "latest_version": "2.5.4",
+  "created_at": "2018-08-05T18:25:23",
+  "updated_at": "2025-03-23T06:12:37",
+  "versions": [
+    {
+      "version": "2.5.4",
+      "released_at": "2025-03-24T00:03:12.834547",
+      "download_url": "https://umod.org/plugins/prod/download/latest",
+      "changelog": null
+    }
+  ]
+}

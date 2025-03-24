@@ -1,0 +1,21 @@
+{
+  "id": "rocket-guns",
+  "name": "RocketGuns",
+  "author": "SapnuPuas",
+  "description": "allow players to fire rockets from 556 weapons",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2005,
+  "latest_version": "1.2.4",
+  "created_at": "2023-01-28T13:45:44",
+  "updated_at": "2025-03-22T18:07:34",
+  "versions": [
+    {
+      "version": "1.2.4",
+      "released_at": "2025-03-24T00:08:17.986645",
+      "download_url": "https://umod.org/plugins/rocket-guns/download/latest",
+      "changelog": null
+    }
+  ]
+}

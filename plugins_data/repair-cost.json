@@ -1,0 +1,21 @@
+{
+  "id": "repair-cost",
+  "name": "RepairCost",
+  "author": "Rustoholics",
+  "description": "Alter the repair cost of items",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4118,
+  "latest_version": "0.1.1",
+  "created_at": "2021-10-07T17:04:42",
+  "updated_at": "2025-03-20T02:04:35",
+  "versions": [
+    {
+      "version": "0.1.1",
+      "released_at": "2025-03-24T00:07:11.701367",
+      "download_url": "https://umod.org/plugins/repair-cost/download/latest",
+      "changelog": null
+    }
+  ]
+}

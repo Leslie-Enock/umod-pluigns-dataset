@@ -1,0 +1,21 @@
+{
+  "id": "car-radio",
+  "name": "CarRadio",
+  "author": "TCM420G",
+  "description": "Allows players to install a boombox/radio into your modular vehicle cockpit",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14693,
+  "latest_version": "1.0.70",
+  "created_at": "2022-01-03T19:09:42",
+  "updated_at": "2025-03-23T16:57:49",
+  "versions": [
+    {
+      "version": "1.0.70",
+      "released_at": "2025-03-23T23:25:49.190266",
+      "download_url": "https://umod.org/plugins/car-radio/download/latest",
+      "changelog": null
+    }
+  ]
+}

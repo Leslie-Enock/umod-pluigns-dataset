@@ -1,0 +1,21 @@
+{
+  "id": "vanish",
+  "name": "Vanish",
+  "author": "Whispers88",
+  "description": "Allows players with permission to become truly invisible",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 369214,
+  "latest_version": "1.9.2",
+  "created_at": "2018-07-24T21:35:24",
+  "updated_at": "2025-03-23T19:03:54",
+  "versions": [
+    {
+      "version": "1.9.2",
+      "released_at": "2025-03-24T00:20:36.132632",
+      "download_url": "https://umod.org/plugins/vanish/download/latest",
+      "changelog": null
+    }
+  ]
+}

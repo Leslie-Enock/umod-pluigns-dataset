@@ -1,0 +1,21 @@
+{
+  "id": "drone-boombox",
+  "name": "DroneBoombox",
+  "author": "WhiteThunder",
+  "description": "Allows players to deploy boomboxes onto RC drones",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4296,
+  "latest_version": "1.0.2",
+  "created_at": "2021-08-07T19:38:31",
+  "updated_at": "2025-03-22T23:06:43",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:34:49.252163",
+      "download_url": "https://umod.org/plugins/drone-boombox/download/latest",
+      "changelog": null
+    }
+  ]
+}

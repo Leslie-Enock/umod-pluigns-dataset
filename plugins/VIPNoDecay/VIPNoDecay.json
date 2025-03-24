@@ -1,0 +1,21 @@
+{
+  "id": "vip-no-decay",
+  "name": "VIPNoDecay",
+  "author": "ColonBlow",
+  "description": "No decay damage for player or group with permissions",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 33869,
+  "latest_version": "1.0.4",
+  "created_at": "2018-08-05T18:03:25",
+  "updated_at": "2025-03-22T07:05:16",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:21:14.553676",
+      "download_url": "https://umod.org/plugins/vip-no-decay/download/latest",
+      "changelog": null
+    }
+  ]
+}

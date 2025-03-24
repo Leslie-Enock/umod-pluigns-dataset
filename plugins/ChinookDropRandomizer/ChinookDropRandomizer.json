@@ -1,0 +1,21 @@
+{
+  "id": "chinook-drop-randomizer",
+  "name": "ChinookDropRandomizer",
+  "author": "",
+  "description": "Make the chinook crate drop location more random",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17096,
+  "latest_version": "1.5.1",
+  "created_at": "2018-08-05T16:29:32",
+  "updated_at": "2025-03-23T17:42:21",
+  "versions": [
+    {
+      "version": "1.5.1",
+      "released_at": "2025-03-23T23:27:12.752714",
+      "download_url": "https://umod.org/plugins/chinook-drop-randomizer/download/latest",
+      "changelog": null
+    }
+  ]
+}

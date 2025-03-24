@@ -1,0 +1,21 @@
+{
+  "id": "helicopter-protection",
+  "name": "HelicopterProtection",
+  "author": "Nobu",
+  "description": "Protects you from the helicopter and vice versa",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4782,
+  "latest_version": "1.0.2",
+  "created_at": "2021-09-01T21:26:13",
+  "updated_at": "2025-03-20T22:56:09",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:43:29.860838",
+      "download_url": "https://umod.org/plugins/helicopter-protection/download/latest",
+      "changelog": null
+    }
+  ]
+}

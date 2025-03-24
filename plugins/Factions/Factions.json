@@ -1,0 +1,21 @@
+{
+  "id": "factions",
+  "name": "Factions",
+  "author": "",
+  "description": "A Faction system with Leaders, Taxes, Trades, Ranks, Kill Rewards, and MORE!",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7707,
+  "latest_version": "3.5.5",
+  "created_at": "2018-08-05T17:37:21",
+  "updated_at": "2025-03-23T00:50:42",
+  "versions": [
+    {
+      "version": "3.5.5",
+      "released_at": "2025-03-23T23:38:18.490065",
+      "download_url": "https://umod.org/plugins/factions/download/latest",
+      "changelog": null
+    }
+  ]
+}

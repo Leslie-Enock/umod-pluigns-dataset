@@ -1,0 +1,21 @@
+{
+  "id": "team-info",
+  "name": "TeamInfo",
+  "author": "Bazz3l",
+  "description": "Check the team members and other team info of a player",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6310,
+  "latest_version": "0.1.7",
+  "created_at": "2021-03-22T20:20:49",
+  "updated_at": "2025-03-23T10:42:46",
+  "versions": [
+    {
+      "version": "0.1.7",
+      "released_at": "2025-03-24T00:16:10.628687",
+      "download_url": "https://umod.org/plugins/team-info/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "advert-messages",
+  "name": "AdvertMessages",
+  "author": "LaserHydra",
+  "description": "Allows to set up messages which are broadcasted in a configured interval",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 63110,
+  "latest_version": "3.0.2",
+  "created_at": "2018-08-02T17:18:50",
+  "updated_at": "2025-03-23T17:57:41",
+  "versions": [
+    {
+      "version": "3.0.2",
+      "released_at": "2025-03-23T23:17:15.222993",
+      "download_url": "https://umod.org/plugins/advert-messages/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "damage-mod-buildings",
+  "name": "DMBuildings",
+  "author": "ColonBlow",
+  "description": "Allows you to Scale or Null all Damage types against Buildings",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5498,
+  "latest_version": "1.2.6",
+  "created_at": "2018-08-05T20:05:40",
+  "updated_at": "2025-03-18T01:38:45",
+  "versions": [
+    {
+      "version": "1.2.6",
+      "released_at": "2025-03-23T23:31:37.480729",
+      "download_url": "https://umod.org/plugins/damage-mod-buildings/download/latest",
+      "changelog": null
+    }
+  ]
+}

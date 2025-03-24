@@ -1,0 +1,21 @@
+{
+  "id": "infinite-vending-stock",
+  "name": "InfiniteVendingStock",
+  "author": "Rustic0",
+  "description": "A very simple plugin for infinite buy amount and stock in NPC Vending Machines.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4219,
+  "latest_version": "1.0.2",
+  "created_at": "2023-05-12T04:46:57",
+  "updated_at": "2025-03-23T15:47:55",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:44:49.035516",
+      "download_url": "https://umod.org/plugins/infinite-vending-stock/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "disable-radiation",
+  "name": "DisableRadiation",
+  "author": "bushhy",
+  "description": "Removes radiation damage from players based on permission.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13918,
+  "latest_version": "1.0.2",
+  "created_at": "2019-11-04T07:27:33",
+  "updated_at": "2025-03-23T16:56:27",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:32:54.211258",
+      "download_url": "https://umod.org/plugins/disable-radiation/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "no-fireworks-on-terrain",
+  "name": "NoFireworksOnTerrain",
+  "author": "0x89A",
+  "description": "Restricts/prevents placement of fireworks on terrain",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6900,
+  "latest_version": "1.0.4",
+  "created_at": "2020-03-29T01:04:08",
+  "updated_at": "2025-03-14T09:41:38",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:56:10.826142",
+      "download_url": "https://umod.org/plugins/no-fireworks-on-terrain/download/latest",
+      "changelog": null
+    }
+  ]
+}

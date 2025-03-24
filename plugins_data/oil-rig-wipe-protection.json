@@ -1,0 +1,21 @@
+{
+  "id": "oil-rig-wipe-protection",
+  "name": "OilRigWipeProtection",
+  "author": "Strrobez",
+  "description": "Block players from activating oil rig X amount of minutes after a map wipe",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4346,
+  "latest_version": "1.0.2",
+  "created_at": "2021-10-25T01:10:33",
+  "updated_at": "2025-03-14T12:44:39",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:59:01.473935",
+      "download_url": "https://umod.org/plugins/oil-rig-wipe-protection/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "loot-defender",
+  "name": "LootDefender",
+  "author": "nivex",
+  "description": "Defends loot from other players who dealt less damage than you",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 21254,
+  "latest_version": "2.2.4",
+  "created_at": "2019-07-25T05:23:00",
+  "updated_at": "2025-03-23T18:36:25",
+  "versions": [
+    {
+      "version": "2.2.4",
+      "released_at": "2025-03-23T23:49:14.479983",
+      "download_url": "https://umod.org/plugins/loot-defender/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "checkpoints",
+  "name": "Checkpoints",
+  "author": "Ryan",
+  "description": "Restore points for players to teleport to when the server restarts",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12211,
+  "latest_version": "1.0.1",
+  "created_at": "2018-07-24T21:35:05",
+  "updated_at": "2025-03-23T17:56:39",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:26:43.892172",
+      "download_url": "https://umod.org/plugins/checkpoints/download/latest",
+      "changelog": null
+    }
+  ]
+}

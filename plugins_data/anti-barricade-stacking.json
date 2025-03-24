@@ -1,0 +1,21 @@
+{
+  "id": "anti-barricade-stacking",
+  "name": "AntiBarricadeStacking",
+  "author": "k1lly0u",
+  "description": "Stops monument barricades from stacking on top of each other",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12202,
+  "latest_version": "0.1.0",
+  "created_at": "2018-08-02T21:40:28",
+  "updated_at": "2025-03-23T05:25:21",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "released_at": "2025-03-23T23:18:07.819742",
+      "download_url": "https://umod.org/plugins/anti-barricade-stacking/download/latest",
+      "changelog": null
+    }
+  ]
+}

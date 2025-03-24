@@ -1,0 +1,21 @@
+{
+  "id": "hemp-daddy",
+  "name": "HempDaddy",
+  "author": "TacoSauce",
+  "description": "Modifies gather rate of hemp plants when planted in planters",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9599,
+  "latest_version": "1.0.1",
+  "created_at": "2020-07-31T17:23:18",
+  "updated_at": "2025-03-22T10:28:50",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:43:29.861183",
+      "download_url": "https://umod.org/plugins/hemp-daddy/download/latest",
+      "changelog": null
+    }
+  ]
+}

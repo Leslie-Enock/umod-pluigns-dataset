@@ -1,0 +1,21 @@
+{
+  "id": "admin-leave-and-join",
+  "name": "AdminLeaveJoin",
+  "author": "austinv900",
+  "description": "Displays a chat message when a admin leaves or joins to all the players",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 8745,
+  "latest_version": "0.1.10",
+  "created_at": "2018-08-05T07:34:58",
+  "updated_at": "2025-03-22T17:50:36",
+  "versions": [
+    {
+      "version": "0.1.10",
+      "released_at": "2025-03-23T23:16:38.212081",
+      "download_url": "https://umod.org/plugins/admin-leave-and-join/download/latest",
+      "changelog": null
+    }
+  ]
+}

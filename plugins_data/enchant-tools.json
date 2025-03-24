@@ -1,0 +1,21 @@
+{
+  "id": "enchant-tools",
+  "name": "EnchantTools",
+  "author": "",
+  "description": "Adds enchanted tools for mining melted resources",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11738,
+  "latest_version": "1.1.2",
+  "created_at": "2018-08-05T18:03:54",
+  "updated_at": "2025-03-21T23:52:00",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-23T23:36:18.746336",
+      "download_url": "https://umod.org/plugins/enchant-tools/download/latest",
+      "changelog": null
+    }
+  ]
+}

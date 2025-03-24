@@ -1,0 +1,21 @@
+{
+  "id": "npc-vending-reset",
+  "name": "NPCVendingReset",
+  "author": "Whispers88",
+  "description": "Resets NPC vending machines via console or chat command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7205,
+  "latest_version": "1.0.9",
+  "created_at": "2019-05-07T02:34:47",
+  "updated_at": "2025-03-22T19:12:35",
+  "versions": [
+    {
+      "version": "1.0.9",
+      "released_at": "2025-03-23T23:58:20.874062",
+      "download_url": "https://umod.org/plugins/npc-vending-reset/download/latest",
+      "changelog": null
+    }
+  ]
+}

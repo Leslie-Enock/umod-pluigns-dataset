@@ -1,0 +1,21 @@
+{
+  "id": "furnace-splitter",
+  "name": "FurnaceSplitter",
+  "author": "FastBurst",
+  "description": "Splits up ores into equal stacks when you put them into furnaces",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 244011,
+  "latest_version": "2.5.2",
+  "created_at": "2018-08-05T16:52:24",
+  "updated_at": "2025-03-23T18:31:50",
+  "versions": [
+    {
+      "version": "2.5.2",
+      "released_at": "2025-03-23T23:40:37.778845",
+      "download_url": "https://umod.org/plugins/furnace-splitter/download/latest",
+      "changelog": null
+    }
+  ]
+}

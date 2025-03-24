@@ -1,0 +1,21 @@
+{
+  "id": "join-message-plus",
+  "name": "JoinMessagePlus",
+  "author": "MisterPixie",
+  "description": "Advanced join and leave messages",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 34570,
+  "latest_version": "1.0.54",
+  "created_at": "2018-10-15T10:02:41",
+  "updated_at": "2025-03-23T18:02:19",
+  "versions": [
+    {
+      "version": "1.0.54",
+      "released_at": "2025-03-23T23:47:00.996333",
+      "download_url": "https://umod.org/plugins/join-message-plus/download/latest",
+      "changelog": null
+    }
+  ]
+}

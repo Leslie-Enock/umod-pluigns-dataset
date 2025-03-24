@@ -1,0 +1,21 @@
+{
+  "id": "easy-vote",
+  "name": "EasyVote",
+  "author": "MikeHawke",
+  "description": "Most customizable vote plugin for Rust servers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14793,
+  "latest_version": "2.0.43",
+  "created_at": "2018-08-05T16:57:24",
+  "updated_at": "2025-03-23T00:34:59",
+  "versions": [
+    {
+      "version": "2.0.43",
+      "released_at": "2025-03-23T23:35:42.085585",
+      "download_url": "https://umod.org/plugins/easy-vote/download/latest",
+      "changelog": null
+    }
+  ]
+}

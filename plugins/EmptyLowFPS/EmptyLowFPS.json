@@ -1,0 +1,21 @@
+{
+  "id": "empty-low-fps",
+  "name": "EmptyLowFPS",
+  "author": "MrBlue",
+  "description": "Sets the server's frame rate to lower when no players are connected",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 13978,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-02T18:41:37",
+  "updated_at": "2025-03-23T01:12:22",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:36:18.746152",
+      "download_url": "https://umod.org/plugins/empty-low-fps/download/latest",
+      "changelog": null
+    }
+  ]
+}

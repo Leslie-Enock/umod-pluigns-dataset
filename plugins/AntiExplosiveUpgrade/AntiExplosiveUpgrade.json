@@ -1,0 +1,21 @@
+{
+  "id": "anti-explosive-upgrade",
+  "name": "AntiExplosiveUpgrade",
+  "author": "birthdates",
+  "description": "Deny upgrading a building block when an explosive is stuck to it",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5292,
+  "latest_version": "1.0.0",
+  "created_at": "2021-07-24T01:17:52",
+  "updated_at": "2025-03-16T21:08:56",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:18:22.571670",
+      "download_url": "https://umod.org/plugins/anti-explosive-upgrade/download/latest",
+      "changelog": null
+    }
+  ]
+}

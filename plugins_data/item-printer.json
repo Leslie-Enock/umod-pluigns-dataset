@@ -1,0 +1,21 @@
+{
+  "id": "item-printer",
+  "name": "ItemPrinter",
+  "author": "Razor",
+  "description": "Craft configured items using a large box and some power",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10061,
+  "latest_version": "1.1.19",
+  "created_at": "2019-11-13T14:13:21",
+  "updated_at": "2025-03-14T16:36:52",
+  "versions": [
+    {
+      "version": "1.1.19",
+      "released_at": "2025-03-23T23:46:21.299043",
+      "download_url": "https://umod.org/plugins/item-printer/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "loot-snitch",
+  "name": "LootSnitch",
+  "author": "August",
+  "description": "Players with permission get messaged who/when a player is looting their corpse",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6547,
+  "latest_version": "1.0.7",
+  "created_at": "2019-07-13T11:14:53",
+  "updated_at": "2025-03-20T12:23:47",
+  "versions": [
+    {
+      "version": "1.0.7",
+      "released_at": "2025-03-23T23:49:39.551264",
+      "download_url": "https://umod.org/plugins/loot-snitch/download/latest",
+      "changelog": null
+    }
+  ]
+}

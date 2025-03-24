@@ -1,0 +1,21 @@
+{
+  "id": "cupboard-range",
+  "name": "CupboardRange",
+  "author": "",
+  "description": "Prohibits construction in the range of the cupboard",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8120,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-05T17:47:25",
+  "updated_at": "2025-03-22T11:00:33",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:30:35.672329",
+      "download_url": "https://umod.org/plugins/cupboard-range/download/latest",
+      "changelog": null
+    }
+  ]
+}

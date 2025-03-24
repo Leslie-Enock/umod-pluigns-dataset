@@ -1,0 +1,21 @@
+{
+  "id": "suicide-modifier",
+  "name": "SuicideModifier",
+  "author": "Ryan",
+  "description": "Add, change, or remove the default suicide cooldown",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16386,
+  "latest_version": "1.0.3",
+  "created_at": "2018-07-24T21:35:21",
+  "updated_at": "2025-03-19T11:04:18",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:15:05.178442",
+      "download_url": "https://umod.org/plugins/suicide-modifier/download/latest",
+      "changelog": null
+    }
+  ]
+}

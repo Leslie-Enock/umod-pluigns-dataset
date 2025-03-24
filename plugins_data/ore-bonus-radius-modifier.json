@@ -1,0 +1,21 @@
+{
+  "id": "ore-bonus-radius-modifier",
+  "name": "OreBonusRadiusModifier",
+  "author": "Ryz0r",
+  "description": "Ore Bonus Radius Modifier allows you to modify the radius of the hot spot (bonus) to make it easier.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3620,
+  "latest_version": "1.0.1",
+  "created_at": "2022-01-31T02:58:30",
+  "updated_at": "2025-03-19T23:26:24",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:59:16.231449",
+      "download_url": "https://umod.org/plugins/ore-bonus-radius-modifier/download/latest",
+      "changelog": null
+    }
+  ]
+}

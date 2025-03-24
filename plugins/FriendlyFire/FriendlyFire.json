@@ -1,0 +1,21 @@
+{
+  "id": "friendly-fire",
+  "name": "FriendlyFire",
+  "author": "collectvood",
+  "description": "Gives you the ability to enable or disable friendly fire player based",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 19549,
+  "latest_version": "1.1.2",
+  "created_at": "2019-08-07T15:22:46",
+  "updated_at": "2025-03-23T13:10:56",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-23T23:40:23.027000",
+      "download_url": "https://umod.org/plugins/friendly-fire/download/latest",
+      "changelog": null
+    }
+  ]
+}

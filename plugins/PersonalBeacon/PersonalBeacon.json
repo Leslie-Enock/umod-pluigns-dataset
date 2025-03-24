@@ -1,0 +1,21 @@
+{
+  "id": "personal-beacon",
+  "name": "PersonalBeacon",
+  "author": "",
+  "description": "Displays a beacon at a marked location for easier navigation",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9463,
+  "latest_version": "2.0.4",
+  "created_at": "2018-07-24T21:35:15",
+  "updated_at": "2025-03-18T03:10:17",
+  "versions": [
+    {
+      "version": "2.0.4",
+      "released_at": "2025-03-24T00:00:21.762717",
+      "download_url": "https://umod.org/plugins/personal-beacon/download/latest",
+      "changelog": null
+    }
+  ]
+}

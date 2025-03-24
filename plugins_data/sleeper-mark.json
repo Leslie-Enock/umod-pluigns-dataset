@@ -1,0 +1,21 @@
+{
+  "id": "sleeper-mark",
+  "name": "SleeperMark",
+  "author": "Razor",
+  "description": "Creates a event for players to kill sleepers who have been sleeping for set amount of days",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9954,
+  "latest_version": "1.0.29",
+  "created_at": "2018-12-01T11:09:11",
+  "updated_at": "2025-03-20T02:26:14",
+  "versions": [
+    {
+      "version": "1.0.29",
+      "released_at": "2025-03-24T00:12:42.604422",
+      "download_url": "https://umod.org/plugins/sleeper-mark/download/latest",
+      "changelog": null
+    }
+  ]
+}

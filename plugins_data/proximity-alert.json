@@ -1,0 +1,21 @@
+{
+  "id": "proximity-alert",
+  "name": "ProximityAlert",
+  "author": "PaiN",
+  "description": "Displays a UI warning message when players get within a set radius of the player",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10684,
+  "latest_version": "0.3.7",
+  "created_at": "2018-08-02T21:39:06",
+  "updated_at": "2025-03-19T15:41:50",
+  "versions": [
+    {
+      "version": "0.3.7",
+      "released_at": "2025-03-24T00:03:26.167496",
+      "download_url": "https://umod.org/plugins/proximity-alert/download/latest",
+      "changelog": null
+    }
+  ]
+}

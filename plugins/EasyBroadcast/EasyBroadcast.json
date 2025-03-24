@@ -1,0 +1,21 @@
+{
+  "id": "easy-broadcast",
+  "name": "EasyBroadcast",
+  "author": "LaserHydra",
+  "description": "Provides a command to broadcast a message to the chat",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12224,
+  "latest_version": "2.1.0",
+  "created_at": "2018-08-05T20:05:14",
+  "updated_at": "2025-03-23T11:19:34",
+  "versions": [
+    {
+      "version": "2.1.0",
+      "released_at": "2025-03-23T23:35:42.085202",
+      "download_url": "https://umod.org/plugins/easy-broadcast/download/latest",
+      "changelog": null
+    }
+  ]
+}

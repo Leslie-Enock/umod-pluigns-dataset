@@ -1,0 +1,21 @@
+{
+  "id": "instant-buy",
+  "name": "InstantBuy",
+  "author": "bushhy",
+  "description": "No need to wait between transactions on a vending machine",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13785,
+  "latest_version": "1.0.3",
+  "created_at": "2018-08-05T16:50:22",
+  "updated_at": "2025-03-23T16:35:33",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:45:16.725579",
+      "download_url": "https://umod.org/plugins/instant-buy/download/latest",
+      "changelog": null
+    }
+  ]
+}

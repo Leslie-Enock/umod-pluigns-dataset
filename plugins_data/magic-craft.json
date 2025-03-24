@@ -1,0 +1,21 @@
+{
+  "id": "magic-craft",
+  "name": "MagicCraft",
+  "author": "Mevent",
+  "description": "Alternative crafting system",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17387,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-05T17:40:47",
+  "updated_at": "2025-03-23T06:09:45",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:50:16.344701",
+      "download_url": "https://umod.org/plugins/magic-craft/download/latest",
+      "changelog": null
+    }
+  ]
+}

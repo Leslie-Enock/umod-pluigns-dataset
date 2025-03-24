@@ -1,0 +1,21 @@
+{
+  "id": "recycle-modifier",
+  "name": "RecycleModifier",
+  "author": "birthdates",
+  "description": "Easily change the output of the recycler",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8096,
+  "latest_version": "1.0.3",
+  "created_at": "2018-12-31T10:41:41",
+  "updated_at": "2025-03-17T13:24:03",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:06:34.808039",
+      "download_url": "https://umod.org/plugins/recycle-modifier/download/latest",
+      "changelog": null
+    }
+  ]
+}

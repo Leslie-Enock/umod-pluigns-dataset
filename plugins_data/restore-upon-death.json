@@ -1,0 +1,21 @@
+{
+  "id": "restore-upon-death",
+  "name": "RestoreUponDeath",
+  "author": "k1lly0u",
+  "description": "Restores player inventories on death and removes the items from their corpse",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 20511,
+  "latest_version": "0.6.3",
+  "created_at": "2018-08-02T21:30:28",
+  "updated_at": "2025-03-23T18:40:20",
+  "versions": [
+    {
+      "version": "0.6.3",
+      "released_at": "2025-03-24T00:07:52.949840",
+      "download_url": "https://umod.org/plugins/restore-upon-death/download/latest",
+      "changelog": null
+    }
+  ]
+}

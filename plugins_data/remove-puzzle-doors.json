@@ -1,0 +1,21 @@
+{
+  "id": "remove-puzzle-doors",
+  "name": "RemovePuzzleDoors",
+  "author": "ziptie",
+  "description": "Removes puzzle doors",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2503,
+  "latest_version": "1.1",
+  "created_at": "2022-10-17T12:42:50",
+  "updated_at": "2025-03-23T11:11:02",
+  "versions": [
+    {
+      "version": "1.1",
+      "released_at": "2025-03-24T00:06:59.384412",
+      "download_url": "https://umod.org/plugins/remove-puzzle-doors/download/latest",
+      "changelog": null
+    }
+  ]
+}

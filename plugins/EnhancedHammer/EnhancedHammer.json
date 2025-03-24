@@ -1,0 +1,21 @@
+{
+  "id": "enhanced-hammer",
+  "name": "EnhancedHammer",
+  "author": "misticos",
+  "description": "Upgrade your buildings easily with a hammer",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 33461,
+  "latest_version": "2.1.1",
+  "created_at": "2018-08-05T17:42:22",
+  "updated_at": "2025-03-23T15:01:45",
+  "versions": [
+    {
+      "version": "2.1.1",
+      "released_at": "2025-03-23T23:36:47.005894",
+      "download_url": "https://umod.org/plugins/enhanced-hammer/download/latest",
+      "changelog": null
+    }
+  ]
+}

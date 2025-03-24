@@ -1,0 +1,21 @@
+{
+  "id": "no-backpacks",
+  "name": "NoBackpacks",
+  "author": "collectvood",
+  "description": "Removes backpacks after the configured amount of time",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9064,
+  "latest_version": "1.0.4",
+  "created_at": "2018-07-24T21:35:13",
+  "updated_at": "2025-03-21T11:12:29",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:55:15.932517",
+      "download_url": "https://umod.org/plugins/no-backpacks/download/latest",
+      "changelog": null
+    }
+  ]
+}

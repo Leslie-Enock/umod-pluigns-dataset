@@ -1,0 +1,21 @@
+{
+  "id": "no-heli-flyhack",
+  "name": "NoHeliFlyhack",
+  "author": "DoobySkoo",
+  "description": "Prevents players getting kicked for flyhacking after dismounting helicopters",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10499,
+  "latest_version": "1.2.1",
+  "created_at": "2020-06-26T21:03:25",
+  "updated_at": "2025-03-20T00:43:21",
+  "versions": [
+    {
+      "version": "1.2.1",
+      "released_at": "2025-03-23T23:56:25.437023",
+      "download_url": "https://umod.org/plugins/no-heli-flyhack/download/latest",
+      "changelog": null
+    }
+  ]
+}

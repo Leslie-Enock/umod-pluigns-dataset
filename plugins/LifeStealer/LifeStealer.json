@@ -1,0 +1,21 @@
+{
+  "id": "life-stealer",
+  "name": "LifeStealer",
+  "author": "beee",
+  "description": "Gives players health when they deal damage",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9092,
+  "latest_version": "1.2.0",
+  "created_at": "2018-07-24T21:35:11",
+  "updated_at": "2025-03-17T03:22:57",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "released_at": "2025-03-23T23:48:08.324283",
+      "download_url": "https://umod.org/plugins/life-stealer/download/latest",
+      "changelog": null
+    }
+  ]
+}

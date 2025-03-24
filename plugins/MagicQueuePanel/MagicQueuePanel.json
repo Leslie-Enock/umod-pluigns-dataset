@@ -1,0 +1,21 @@
+{
+  "id": "magic-queue-panel",
+  "name": "MagicQueuePanel",
+  "author": "MJSU",
+  "description": "Displays queued players in Magic Panel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10192,
+  "latest_version": "1.0.3",
+  "created_at": "2019-11-19T17:18:27",
+  "updated_at": "2025-03-23T13:43:20",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:51:22.268933",
+      "download_url": "https://umod.org/plugins/magic-queue-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

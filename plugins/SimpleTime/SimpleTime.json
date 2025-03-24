@@ -1,0 +1,21 @@
+{
+  "id": "simple-time",
+  "name": "SimpleTime",
+  "author": "MadKingCraig",
+  "description": "Provides a chat command for the current game time.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3993,
+  "latest_version": "1.1.2",
+  "created_at": "2021-03-16T12:22:39",
+  "updated_at": "2025-03-22T02:41:11",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-24T00:11:52.888721",
+      "download_url": "https://umod.org/plugins/simple-time/download/latest",
+      "changelog": null
+    }
+  ]
+}

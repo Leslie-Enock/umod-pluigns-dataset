@@ -1,0 +1,21 @@
+{
+  "id": "better-loot",
+  "name": "BetterLoot",
+  "author": "MagicServices",
+  "description": "A complete re-implementation of the drop system",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 236495,
+  "latest_version": "3.5.9",
+  "created_at": "2018-08-05T16:57:42",
+  "updated_at": "2025-03-23T18:31:48",
+  "versions": [
+    {
+      "version": "3.5.9",
+      "released_at": "2025-03-23T23:22:39.061226",
+      "download_url": "https://umod.org/plugins/better-loot/download/latest",
+      "changelog": null
+    }
+  ]
+}

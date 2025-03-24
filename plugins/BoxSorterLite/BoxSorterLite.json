@@ -1,0 +1,21 @@
+{
+  "id": "box-sorter-lite",
+  "name": "BoxSorterLite",
+  "author": "haggbart",
+  "description": "Sorts loot in boxes using an intuitive interface",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 27073,
+  "latest_version": "1.0.9",
+  "created_at": "2019-04-27T11:50:38",
+  "updated_at": "2025-03-23T16:45:03",
+  "versions": [
+    {
+      "version": "1.0.9",
+      "released_at": "2025-03-23T23:24:14.561542",
+      "download_url": "https://umod.org/plugins/box-sorter-lite/download/latest",
+      "changelog": null
+    }
+  ]
+}

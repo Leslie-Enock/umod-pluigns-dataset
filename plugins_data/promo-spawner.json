@@ -1,0 +1,21 @@
+{
+  "id": "promo-spawner",
+  "name": "PromoSpawner",
+  "author": "",
+  "description": "Spawns boxes with a promocode",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 183,
+  "latest_version": "1.1.0",
+  "created_at": "2018-08-05T18:25:56",
+  "updated_at": "2024-10-06T05:34:09",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-24T00:03:26.166883",
+      "download_url": "https://umod.org/plugins/promo-spawner/download/latest",
+      "changelog": null
+    }
+  ]
+}

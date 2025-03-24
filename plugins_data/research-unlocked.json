@@ -1,0 +1,21 @@
+{
+  "id": "research-unlocked",
+  "name": "ResearchUnlocked",
+  "author": "MJSU",
+  "description": "Displays a UI for already unlocked items placed in a research table",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10855,
+  "latest_version": "1.0.2",
+  "created_at": "2019-11-19T18:06:30",
+  "updated_at": "2025-03-22T07:32:01",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:07:26.546856",
+      "download_url": "https://umod.org/plugins/research-unlocked/download/latest",
+      "changelog": null
+    }
+  ]
+}

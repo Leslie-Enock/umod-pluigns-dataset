@@ -1,0 +1,21 @@
+{
+  "id": "arkan",
+  "name": "Arkan",
+  "author": "Antidote",
+  "description": "Analyses player shots and determines which of them are potentially were made by cheaters/macro users",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 52639,
+  "latest_version": "1.0.21",
+  "created_at": "2019-08-09T11:39:44",
+  "updated_at": "2025-03-23T05:33:36",
+  "versions": [
+    {
+      "version": "1.0.21",
+      "released_at": "2025-03-23T23:19:00.973623",
+      "download_url": "https://umod.org/plugins/arkan/download/latest",
+      "changelog": null
+    }
+  ]
+}

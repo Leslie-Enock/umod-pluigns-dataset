@@ -1,0 +1,21 @@
+{
+  "id": "chinook-crate-to-bag",
+  "name": "ChinookCrateToBag",
+  "author": "Waggy",
+  "description": "Chinook crates drop loot in a bag a configurable amount of time after hacking finishes",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3889,
+  "latest_version": "1.0.1",
+  "created_at": "2019-07-03T17:24:19",
+  "updated_at": "2025-03-23T01:49:30",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:26:58.581433",
+      "download_url": "https://umod.org/plugins/chinook-crate-to-bag/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "no-compound",
+  "name": "NoCompound",
+  "author": "VisEntities",
+  "description": "Removes compound (outpost) and bandit camp components (turrets, bots, safe zones)",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6840,
+  "latest_version": "1.0.1",
+  "created_at": "2020-07-25T04:09:03",
+  "updated_at": "2025-03-23T12:01:19",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:55:30.153798",
+      "download_url": "https://umod.org/plugins/no-compound/download/latest",
+      "changelog": null
+    }
+  ]
+}

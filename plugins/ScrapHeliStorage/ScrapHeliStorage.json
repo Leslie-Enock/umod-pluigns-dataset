@@ -1,0 +1,21 @@
+{
+  "id": "scrap-heli-storage",
+  "name": "ScrapHeliStorage",
+  "author": "yetzt",
+  "description": "Adds storage boxes to scrap transport helicopters",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15119,
+  "latest_version": "0.0.5",
+  "created_at": "2019-09-25T09:51:20",
+  "updated_at": "2025-03-23T12:46:37",
+  "versions": [
+    {
+      "version": "0.0.5",
+      "released_at": "2025-03-24T00:10:07.906839",
+      "download_url": "https://umod.org/plugins/scrap-heli-storage/download/latest",
+      "changelog": null
+    }
+  ]
+}

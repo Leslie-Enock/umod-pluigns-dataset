@@ -1,0 +1,21 @@
+{
+  "id": "player-rankings",
+  "name": "PlayerRankings",
+  "author": "Ankawi",
+  "description": "Automatically gives players ranks based on playtime",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 25128,
+  "latest_version": "3.0.3",
+  "created_at": "2018-08-05T17:06:55",
+  "updated_at": "2025-03-23T17:56:41",
+  "versions": [
+    {
+      "version": "3.0.3",
+      "released_at": "2025-03-24T00:01:50.581873",
+      "download_url": "https://umod.org/plugins/player-rankings/download/latest",
+      "changelog": null
+    }
+  ]
+}

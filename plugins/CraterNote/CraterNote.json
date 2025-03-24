@@ -1,0 +1,21 @@
+{
+  "id": "crater-note",
+  "name": "CraterNote",
+  "author": "rostov114",
+  "description": "Returns the analysis of the wells in a note, like before",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9486,
+  "latest_version": "1.0.0",
+  "created_at": "2020-09-09T17:59:28",
+  "updated_at": "2025-03-23T10:12:59",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:29:57.206756",
+      "download_url": "https://umod.org/plugins/crater-note/download/latest",
+      "changelog": null
+    }
+  ]
+}

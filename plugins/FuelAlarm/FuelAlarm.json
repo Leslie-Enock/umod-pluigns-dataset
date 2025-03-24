@@ -1,0 +1,21 @@
+{
+  "id": "fuel-alarm",
+  "name": "FuelAlarm",
+  "author": "lunedi",
+  "description": "Triggers an alarm when fuel is below a certain level",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12898,
+  "latest_version": "1.0.3",
+  "created_at": "2020-03-08T09:00:59",
+  "updated_at": "2025-03-21T03:45:07",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:40:37.778328",
+      "download_url": "https://umod.org/plugins/fuel-alarm/download/latest",
+      "changelog": null
+    }
+  ]
+}

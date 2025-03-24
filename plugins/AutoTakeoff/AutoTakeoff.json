@@ -1,0 +1,21 @@
+{
+  "id": "auto-takeoff",
+  "name": "AutoTakeoff",
+  "author": "0x89A",
+  "description": "Allows smooth takeoff with helicopters",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10492,
+  "latest_version": "1.1.1",
+  "created_at": "2020-04-22T20:48:40",
+  "updated_at": "2025-03-22T20:47:18",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-23T23:20:17.383058",
+      "download_url": "https://umod.org/plugins/auto-takeoff/download/latest",
+      "changelog": null
+    }
+  ]
+}

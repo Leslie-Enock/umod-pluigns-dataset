@@ -1,0 +1,21 @@
+{
+  "id": "warp-system",
+  "name": "WarpSystem",
+  "author": "",
+  "description": "Creates warp points for players to easily teleport to",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 33715,
+  "latest_version": "1.9.14",
+  "created_at": "2018-08-05T17:38:36",
+  "updated_at": "2025-03-23T02:25:40",
+  "versions": [
+    {
+      "version": "1.9.14",
+      "released_at": "2025-03-24T00:21:55.024303",
+      "download_url": "https://umod.org/plugins/warp-system/download/latest",
+      "changelog": null
+    }
+  ]
+}

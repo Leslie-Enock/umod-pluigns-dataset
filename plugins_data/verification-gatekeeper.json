@@ -1,0 +1,21 @@
+{
+  "id": "verification-gatekeeper",
+  "name": "VerificationGatekeeper",
+  "author": "ThibmoRozier",
+  "description": "Prevents players from doing anything on the server until they are given the bypass permission",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17018,
+  "latest_version": "1.2.1",
+  "created_at": "2021-04-22T00:22:12",
+  "updated_at": "2025-03-22T01:38:08",
+  "versions": [
+    {
+      "version": "1.2.1",
+      "released_at": "2025-03-24T00:21:03.267180",
+      "download_url": "https://umod.org/plugins/verification-gatekeeper/download/latest",
+      "changelog": null
+    }
+  ]
+}

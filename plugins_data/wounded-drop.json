@@ -1,0 +1,21 @@
+{
+  "id": "wounded-drop",
+  "name": "WoundedDrop",
+  "author": "birthdates",
+  "description": "Players who are wounded are no longer able to drop items in their hotbar",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 29730,
+  "latest_version": "1.0.0",
+  "created_at": "2019-05-18T09:16:14",
+  "updated_at": "2025-03-22T07:10:14",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:23:43.828356",
+      "download_url": "https://umod.org/plugins/wounded-drop/download/latest",
+      "changelog": null
+    }
+  ]
+}

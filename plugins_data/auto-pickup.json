@@ -1,0 +1,21 @@
+{
+  "id": "auto-pickup",
+  "name": "AutoPickup",
+  "author": "beee",
+  "description": "Automatically pickup hemp, pumpkin, ore, pickable items, corpse, etc.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 24837,
+  "latest_version": "1.2.16",
+  "created_at": "2019-08-19T01:07:14",
+  "updated_at": "2025-03-23T16:20:54",
+  "versions": [
+    {
+      "version": "1.2.16",
+      "released_at": "2025-03-23T23:20:02.523118",
+      "download_url": "https://umod.org/plugins/auto-pickup/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kick-ban-logger",
+  "name": "KBLogger",
+  "author": "Ryan",
+  "description": "Logs kicks and bans from the server, option to send to slack",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 61,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-05T18:02:08",
+  "updated_at": "2024-10-06T05:35:49",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:47:30.750997",
+      "download_url": "https://umod.org/plugins/kick-ban-logger/download/latest",
+      "changelog": null
+    }
+  ]
+}

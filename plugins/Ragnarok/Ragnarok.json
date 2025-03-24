@@ -1,0 +1,21 @@
+{
+  "id": "ragnarok",
+  "name": "Ragnarok",
+  "author": "VisEntities",
+  "description": "Complete weather system involving meteors, tides, tornadoes, and sandstorms",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13088,
+  "latest_version": "1.0.1",
+  "created_at": "2018-08-05T18:34:00",
+  "updated_at": "2025-03-23T14:13:07",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-24T00:05:14.180458",
+      "download_url": "https://umod.org/plugins/ragnarok/download/latest",
+      "changelog": null
+    }
+  ]
+}

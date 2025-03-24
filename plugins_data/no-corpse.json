@@ -1,0 +1,21 @@
+{
+  "id": "no-corpse",
+  "name": "NoCorpse",
+  "author": "ErikAleksander",
+  "description": "Simple plugin that will allow players with set permission to not spawn their corpse when they die.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 1667,
+  "latest_version": "1.0.2",
+  "created_at": "2023-01-11T17:40:09",
+  "updated_at": "2025-03-18T06:23:22",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:55:30.153926",
+      "download_url": "https://umod.org/plugins/no-corpse/download/latest",
+      "changelog": null
+    }
+  ]
+}

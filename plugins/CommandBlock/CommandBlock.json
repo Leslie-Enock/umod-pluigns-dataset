@@ -1,0 +1,21 @@
+{
+  "id": "command-block",
+  "name": "CommandBlock",
+  "author": "MrBlue",
+  "description": "Blocks configured commands from being executed on the server",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 13371,
+  "latest_version": "0.5.3",
+  "created_at": "2018-07-24T21:35:05",
+  "updated_at": "2025-03-19T23:51:42",
+  "versions": [
+    {
+      "version": "0.5.3",
+      "released_at": "2025-03-23T23:28:26.128951",
+      "download_url": "https://umod.org/plugins/command-block/download/latest",
+      "changelog": null
+    }
+  ]
+}

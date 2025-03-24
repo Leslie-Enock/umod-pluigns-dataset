@@ -1,0 +1,21 @@
+{
+  "id": "weather-events",
+  "name": "WeatherEvents",
+  "author": "Rick6",
+  "description": "Command-based weather that realisticly rolls in and out",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18882,
+  "latest_version": "1.4.0",
+  "created_at": "2018-08-05T17:54:43",
+  "updated_at": "2025-03-23T10:28:01",
+  "versions": [
+    {
+      "version": "1.4.0",
+      "released_at": "2025-03-24T00:22:21.760995",
+      "download_url": "https://umod.org/plugins/weather-events/download/latest",
+      "changelog": null
+    }
+  ]
+}

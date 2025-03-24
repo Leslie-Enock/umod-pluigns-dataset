@@ -1,0 +1,21 @@
+{
+  "id": "terrain-blocker",
+  "name": "TerrainBlocker",
+  "author": "ctv",
+  "description": "Blocks building on specific colliders",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16883,
+  "latest_version": "2.0.0",
+  "created_at": "2018-07-24T21:35:10",
+  "updated_at": "2025-03-14T17:51:42",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-24T00:17:03.600671",
+      "download_url": "https://umod.org/plugins/terrain-blocker/download/latest",
+      "changelog": null
+    }
+  ]
+}

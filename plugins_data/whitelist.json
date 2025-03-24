@@ -1,0 +1,21 @@
+{
+  "id": "whitelist",
+  "name": "Whitelist",
+  "author": "MrBlue",
+  "description": "Restricts server access to whitelisted players with permission",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 93078,
+  "latest_version": "3.3.0",
+  "created_at": "2018-08-02T18:46:25",
+  "updated_at": "2025-03-23T19:00:03",
+  "versions": [
+    {
+      "version": "3.3.0",
+      "released_at": "2025-03-24T00:22:35.076392",
+      "download_url": "https://umod.org/plugins/whitelist/download/latest",
+      "changelog": null
+    }
+  ]
+}

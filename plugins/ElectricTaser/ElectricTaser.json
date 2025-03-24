@@ -1,0 +1,21 @@
+{
+  "id": "electric-taser",
+  "name": "ElectricTaser",
+  "author": "ZockiRR",
+  "description": "Gives players with permissions the ability to spawn a taser.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6830,
+  "latest_version": "2.0.5",
+  "created_at": "2021-04-17T12:32:20",
+  "updated_at": "2025-03-21T02:04:09",
+  "versions": [
+    {
+      "version": "2.0.5",
+      "released_at": "2025-03-23T23:36:07.315466",
+      "download_url": "https://umod.org/plugins/electric-taser/download/latest",
+      "changelog": null
+    }
+  ]
+}

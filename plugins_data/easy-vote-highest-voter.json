@@ -1,0 +1,21 @@
+{
+  "id": "easy-vote-highest-voter",
+  "name": "EasyVoteHighestvoter",
+  "author": "",
+  "description": "Monthly check for the highest voter and reward them",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9473,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-05T17:10:37",
+  "updated_at": "2025-03-20T11:04:24",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:35:53.603291",
+      "download_url": "https://umod.org/plugins/easy-vote-highest-voter/download/latest",
+      "changelog": null
+    }
+  ]
+}

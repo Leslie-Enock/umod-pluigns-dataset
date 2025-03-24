@@ -1,0 +1,21 @@
+{
+  "id": "extended-disconnect-info",
+  "name": "ExtendedDisconnectInfo",
+  "author": "Strrobez",
+  "description": "Customize reconnect/disconnect information for wrong protocols, bans & world file mismatches.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6789,
+  "latest_version": "2.0.2",
+  "created_at": "2018-08-11T10:24:49",
+  "updated_at": "2025-03-21T16:04:24",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-23T23:37:52.690311",
+      "download_url": "https://umod.org/plugins/extended-disconnect-info/download/latest",
+      "changelog": null
+    }
+  ]
+}

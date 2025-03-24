@@ -1,0 +1,21 @@
+{
+  "id": "magic-bradley-panel",
+  "name": "MagicBradleyPanel",
+  "author": "MJSU",
+  "description": "Displays when the Bradley event is active in Magic Panel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17304,
+  "latest_version": "1.0.2",
+  "created_at": "2019-11-19T17:01:49",
+  "updated_at": "2025-03-23T13:43:19",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:49:53.125524",
+      "download_url": "https://umod.org/plugins/magic-bradley-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

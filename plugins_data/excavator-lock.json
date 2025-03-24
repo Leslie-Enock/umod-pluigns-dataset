@@ -1,0 +1,21 @@
+{
+  "id": "excavator-lock",
+  "name": "ExcavatorLock",
+  "author": "Lorenzo",
+  "description": "Excavator is for PVE server, to protect looting the output piles while the excavator is running",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13132,
+  "latest_version": "0.4.37",
+  "created_at": "2021-08-18T14:57:39",
+  "updated_at": "2025-03-23T17:15:40",
+  "versions": [
+    {
+      "version": "0.4.37",
+      "released_at": "2025-03-23T23:37:26.510086",
+      "download_url": "https://umod.org/plugins/excavator-lock/download/latest",
+      "changelog": null
+    }
+  ]
+}

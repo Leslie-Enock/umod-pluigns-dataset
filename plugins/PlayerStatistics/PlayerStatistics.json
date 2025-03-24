@@ -1,0 +1,21 @@
+{
+  "id": "player-statistics",
+  "name": "PlayerStatistics",
+  "author": "",
+  "description": "Provides analytical data of each player",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 184,
+  "latest_version": "1.0",
+  "created_at": "2018-08-05T17:12:05",
+  "updated_at": "2024-10-06T05:34:19",
+  "versions": [
+    {
+      "version": "1.0",
+      "released_at": "2025-03-24T00:01:50.582260",
+      "download_url": "https://umod.org/plugins/player-statistics/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pvp-stats",
+  "name": "PVPStats",
+  "author": "VisEntities",
+  "description": "Provides PVP statistics through in-game chat and console",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12104,
+  "latest_version": "1.4.7",
+  "created_at": "2018-09-03T09:06:15",
+  "updated_at": "2025-03-22T18:58:21",
+  "versions": [
+    {
+      "version": "1.4.7",
+      "released_at": "2025-03-24T00:04:05.934423",
+      "download_url": "https://umod.org/plugins/pvp-stats/download/latest",
+      "changelog": null
+    }
+  ]
+}

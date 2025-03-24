@@ -1,0 +1,21 @@
+{
+  "id": "draggable-corpses",
+  "name": "DraggableCorpses",
+  "author": "VisEntities",
+  "description": "Bring corpses to life and take them for a walk",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12505,
+  "latest_version": "2.0.0",
+  "created_at": "2018-08-05T16:49:48",
+  "updated_at": "2025-03-23T07:16:29",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-23T23:34:36.072828",
+      "download_url": "https://umod.org/plugins/draggable-corpses/download/latest",
+      "changelog": null
+    }
+  ]
+}

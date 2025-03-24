@@ -1,0 +1,21 @@
+{
+  "id": "item-puller",
+  "name": "ItemPuller",
+  "author": "collectvood",
+  "description": "Gives players the ability to pull items from containers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8625,
+  "latest_version": "1.2.4",
+  "created_at": "2019-06-22T10:32:15",
+  "updated_at": "2025-03-23T17:48:57",
+  "versions": [
+    {
+      "version": "1.2.4",
+      "released_at": "2025-03-23T23:46:21.298375",
+      "download_url": "https://umod.org/plugins/item-puller/download/latest",
+      "changelog": null
+    }
+  ]
+}

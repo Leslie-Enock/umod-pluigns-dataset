@@ -1,0 +1,21 @@
+{
+  "id": "cornucopia",
+  "name": "Cornucopia",
+  "author": "",
+  "description": "The horn of plenty! Spawn extra crates, barrels, nodes, animals, etc. randomly on the map",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10316,
+  "latest_version": "1.1.8",
+  "created_at": "2018-08-02T18:34:42",
+  "updated_at": "2025-03-21T08:00:17",
+  "versions": [
+    {
+      "version": "1.1.8",
+      "released_at": "2025-03-23T23:29:19.224702",
+      "download_url": "https://umod.org/plugins/cornucopia/download/latest",
+      "changelog": null
+    }
+  ]
+}

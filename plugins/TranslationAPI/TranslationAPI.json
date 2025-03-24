@@ -1,0 +1,21 @@
+{
+  "id": "translation-api",
+  "name": "TranslationAPI",
+  "author": "MrBlue",
+  "description": "Plugin API for translating messages using free or paid translation services",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 21653,
+  "latest_version": "2.0.0",
+  "created_at": "2018-07-24T21:35:02",
+  "updated_at": "2025-03-23T14:52:18",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-24T00:18:27.200033",
+      "download_url": "https://umod.org/plugins/translation-api/download/latest",
+      "changelog": null
+    }
+  ]
+}

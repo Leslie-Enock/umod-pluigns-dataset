@@ -1,0 +1,21 @@
+{
+  "id": "small-shelves",
+  "name": "SmallShelves",
+  "author": "MrBlue",
+  "description": "Allows players to place smaller shelves",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11424,
+  "latest_version": "1.1.2",
+  "created_at": "2018-07-24T21:35:20",
+  "updated_at": "2025-03-14T14:32:50",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-24T00:12:54.388175",
+      "download_url": "https://umod.org/plugins/small-shelves/download/latest",
+      "changelog": null
+    }
+  ]
+}

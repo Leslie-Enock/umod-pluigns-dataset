@@ -1,0 +1,21 @@
+{
+  "id": "bearrels",
+  "name": "Bearrels",
+  "author": "ichaleynbin",
+  "description": "Random chance of bears spawning when a barrel breaks",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6197,
+  "latest_version": "2.0.0",
+  "created_at": "2018-08-02T18:31:56",
+  "updated_at": "2025-03-14T22:21:25",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-23T23:21:35.360618",
+      "download_url": "https://umod.org/plugins/bearrels/download/latest",
+      "changelog": null
+    }
+  ]
+}

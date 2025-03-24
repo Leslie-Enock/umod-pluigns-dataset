@@ -1,0 +1,21 @@
+{
+  "id": "magic-loot",
+  "name": "MagicLoot",
+  "author": "Malmo",
+  "description": "Simple components multiplier and loot system",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 124436,
+  "latest_version": "1.0.5",
+  "created_at": "2018-08-05T17:35:57",
+  "updated_at": "2025-03-23T18:02:31",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:51:09.226004",
+      "download_url": "https://umod.org/plugins/magic-loot/download/latest",
+      "changelog": null
+    }
+  ]
+}

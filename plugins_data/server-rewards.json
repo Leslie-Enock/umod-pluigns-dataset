@@ -1,0 +1,21 @@
+{
+  "id": "server-rewards",
+  "name": "ServerRewards",
+  "author": "k1lly0u",
+  "description": "Earn reward points in various ways and spend them on many different options in the GUI reward store",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 87130,
+  "latest_version": "0.4.78",
+  "created_at": "2018-08-02T21:30:48",
+  "updated_at": "2025-03-23T18:33:10",
+  "versions": [
+    {
+      "version": "0.4.78",
+      "released_at": "2025-03-24T00:10:46.050727",
+      "download_url": "https://umod.org/plugins/server-rewards/download/latest",
+      "changelog": null
+    }
+  ]
+}

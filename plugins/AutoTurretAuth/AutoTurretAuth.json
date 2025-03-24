@@ -1,0 +1,21 @@
+{
+  "id": "auto-turret-authorization",
+  "name": "AutoTurretAuth",
+  "author": "haggbart",
+  "description": "One-way synchronizing cupboard authorization with auto-turrets",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 35374,
+  "latest_version": "1.2.3",
+  "created_at": "2019-09-21T15:10:31",
+  "updated_at": "2025-03-23T16:20:36",
+  "versions": [
+    {
+      "version": "1.2.3",
+      "released_at": "2025-03-23T23:20:17.383137",
+      "download_url": "https://umod.org/plugins/auto-turret-authorization/download/latest",
+      "changelog": null
+    }
+  ]
+}

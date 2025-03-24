@@ -1,0 +1,21 @@
+{
+  "id": "global-storage",
+  "name": "GlobalStorage",
+  "author": "Imthenewguy",
+  "description": "Adds a global storage system to your server, automatically spawning chests in safe-zone monuments",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3849,
+  "latest_version": "1.0.5",
+  "created_at": "2021-12-21T23:13:02",
+  "updated_at": "2025-03-21T17:50:29",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:41:33.662789",
+      "download_url": "https://umod.org/plugins/global-storage/download/latest",
+      "changelog": null
+    }
+  ]
+}

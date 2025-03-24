@@ -1,0 +1,21 @@
+{
+  "id": "npc-target",
+  "name": "NpcTarget",
+  "author": "misticos",
+  "description": "Prevent NPCs from targeting each other",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10793,
+  "latest_version": "1.0.4",
+  "created_at": "2018-09-23T06:03:58",
+  "updated_at": "2025-03-20T22:35:15",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:58:20.873169",
+      "download_url": "https://umod.org/plugins/npc-target/download/latest",
+      "changelog": null
+    }
+  ]
+}

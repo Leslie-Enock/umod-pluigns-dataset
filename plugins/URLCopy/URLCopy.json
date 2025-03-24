@@ -1,0 +1,21 @@
+{
+  "id": "url-copy",
+  "name": "URLCopy",
+  "author": "PaiN",
+  "description": "Allow players to copy text through a note.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17393,
+  "latest_version": "0.1.0",
+  "created_at": "2021-03-15T19:08:59",
+  "updated_at": "2025-03-23T14:14:56",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "released_at": "2025-03-24T00:20:21.835080",
+      "download_url": "https://umod.org/plugins/url-copy/download/latest",
+      "changelog": null
+    }
+  ]
+}

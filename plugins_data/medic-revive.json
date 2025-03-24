@@ -1,0 +1,21 @@
+{
+  "id": "medic-revive",
+  "name": "MedicRevive",
+  "author": "k1lly0u",
+  "description": "Pick players up from being wounded by injecting them with a medical syringe",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11486,
+  "latest_version": "0.1.0",
+  "created_at": "2018-08-05T18:35:55",
+  "updated_at": "2025-03-19T14:25:52",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "released_at": "2025-03-23T23:52:39.472822",
+      "download_url": "https://umod.org/plugins/medic-revive/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "perma-map",
+  "name": "PermaMap",
+  "author": "MrBlue",
+  "description": "Allows players to always have a map to use in their inventory",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9014,
+  "latest_version": "1.0.8",
+  "created_at": "2018-07-24T21:35:15",
+  "updated_at": "2025-03-20T01:44:09",
+  "versions": [
+    {
+      "version": "1.0.8",
+      "released_at": "2025-03-24T00:00:07.634301",
+      "download_url": "https://umod.org/plugins/perma-map/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "better-health",
+  "name": "BetterHealth",
+  "author": "birthdates",
+  "description": "Ability to customize the max health",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14765,
+  "latest_version": "2.2.3",
+  "created_at": "2019-05-26T14:43:19",
+  "updated_at": "2025-03-23T13:01:05",
+  "versions": [
+    {
+      "version": "2.2.3",
+      "released_at": "2025-03-23T23:22:39.061162",
+      "download_url": "https://umod.org/plugins/better-health/download/latest",
+      "changelog": null
+    }
+  ]
+}

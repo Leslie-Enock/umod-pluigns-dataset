@@ -1,0 +1,21 @@
+{
+  "id": "sleeper-count",
+  "name": "SleeperCount",
+  "author": "Tryhard",
+  "description": "Shows the total number of sleepers on command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11095,
+  "latest_version": "1.2.1",
+  "created_at": "2019-11-30T11:16:55",
+  "updated_at": "2025-03-22T19:30:09",
+  "versions": [
+    {
+      "version": "1.2.1",
+      "released_at": "2025-03-24T00:12:42.604226",
+      "download_url": "https://umod.org/plugins/sleeper-count/download/latest",
+      "changelog": null
+    }
+  ]
+}

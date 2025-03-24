@@ -1,0 +1,21 @@
+{
+  "id": "tracker",
+  "name": "Tracker",
+  "author": "yoshi2",
+  "description": "Check the amount of an Item on the map and where it is stored",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 190,
+  "latest_version": "1.0.3",
+  "created_at": "2018-08-05T17:37:33",
+  "updated_at": "2024-10-06T05:32:42",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:18:13.247664",
+      "download_url": "https://umod.org/plugins/tracker/download/latest",
+      "changelog": null
+    }
+  ]
+}

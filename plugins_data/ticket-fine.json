@@ -1,0 +1,21 @@
+{
+  "id": "ticket-fine",
+  "name": "TicketFines",
+  "author": "McJackson164",
+  "description": "A police-like system to issue tickets and impose fines.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4823,
+  "latest_version": "1.1.4",
+  "created_at": "2021-09-15T09:41:12",
+  "updated_at": "2025-03-23T07:54:36",
+  "versions": [
+    {
+      "version": "1.1.4",
+      "released_at": "2025-03-24T00:17:17.537445",
+      "download_url": "https://umod.org/plugins/ticket-fine/download/latest",
+      "changelog": null
+    }
+  ]
+}

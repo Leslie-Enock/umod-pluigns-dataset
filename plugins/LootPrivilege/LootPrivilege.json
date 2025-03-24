@@ -1,0 +1,21 @@
+{
+  "id": "loot-privilege",
+  "name": "LootPrivilege",
+  "author": "",
+  "description": "Blocks looting of specified entities if Building Blocked",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 188,
+  "latest_version": "1.1.0",
+  "created_at": "2018-08-05T18:01:46",
+  "updated_at": "2024-10-06T05:35:35",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:49:25.798938",
+      "download_url": "https://umod.org/plugins/loot-privilege/download/latest",
+      "changelog": null
+    }
+  ]
+}

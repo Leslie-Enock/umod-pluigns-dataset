@@ -1,0 +1,21 @@
+{
+  "id": "better-attachments",
+  "name": "BetterAttachments",
+  "author": "VisEntities",
+  "description": "Allows modifying attachments attributes",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11462,
+  "latest_version": "0.0.3",
+  "created_at": "2018-08-05T18:35:09",
+  "updated_at": "2025-03-23T10:05:02",
+  "versions": [
+    {
+      "version": "0.0.3",
+      "released_at": "2025-03-23T23:22:01.351688",
+      "download_url": "https://umod.org/plugins/better-attachments/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "discord-wipe",
+  "name": "DiscordWipe",
+  "author": "MJSU",
+  "description": "Sends a notification to a Discord channel when the server wipes",
+  "categories": [
+    "rust",
+    "hurtworld"
+  ],
+  "total_downloads": 31941,
+  "latest_version": "2.4.3",
+  "created_at": "2019-11-14T09:09:00",
+  "updated_at": "2025-03-23T18:33:04",
+  "versions": [
+    {
+      "version": "2.4.3",
+      "released_at": "2025-03-23T23:34:09.959139",
+      "download_url": "https://umod.org/plugins/discord-wipe/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "npc-vending-map-marker",
+  "name": "NPCVendingMapMarker",
+  "author": "PinguinNordpol",
+  "description": "Adds in-game vending map markers to NPCs",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4946,
+  "latest_version": "0.1.0",
+  "created_at": "2020-10-17T09:59:54",
+  "updated_at": "2025-03-21T14:36:58",
+  "versions": [
+    {
+      "version": "0.1.0",
+      "released_at": "2025-03-23T23:58:20.873742",
+      "download_url": "https://umod.org/plugins/npc-vending-map-marker/download/latest",
+      "changelog": null
+    }
+  ]
+}

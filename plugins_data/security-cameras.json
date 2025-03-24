@@ -1,0 +1,21 @@
+{
+  "id": "security-cameras",
+  "name": "SecurityCameras",
+  "author": "Rick6",
+  "description": "CCTV targeting system that follows players, NPCs, and helicopters.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6941,
+  "latest_version": "0.1.1",
+  "created_at": "2021-04-09T00:33:40",
+  "updated_at": "2025-03-23T04:46:03",
+  "versions": [
+    {
+      "version": "0.1.1",
+      "released_at": "2025-03-24T00:10:20.072661",
+      "download_url": "https://umod.org/plugins/security-cameras/download/latest",
+      "changelog": null
+    }
+  ]
+}

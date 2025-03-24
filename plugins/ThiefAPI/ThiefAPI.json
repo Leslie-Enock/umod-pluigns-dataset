@@ -1,0 +1,21 @@
+{
+  "id": "thief-api",
+  "name": "ThiefAPI",
+  "author": "",
+  "description": "Adds the ability to pick locks",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18247,
+  "latest_version": "0.5.0",
+  "created_at": "2018-08-05T20:00:45",
+  "updated_at": "2025-03-14T22:46:25",
+  "versions": [
+    {
+      "version": "0.5.0",
+      "released_at": "2025-03-24T00:17:17.537205",
+      "download_url": "https://umod.org/plugins/thief-api/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "night-pvp",
+  "name": "NightPVP",
+  "author": "",
+  "description": "Allows PvP only during night",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11582,
+  "latest_version": "0.1.7",
+  "created_at": "2018-11-15T01:00:33",
+  "updated_at": "2025-03-17T13:48:36",
+  "versions": [
+    {
+      "version": "0.1.7",
+      "released_at": "2025-03-23T23:55:04.889753",
+      "download_url": "https://umod.org/plugins/night-pvp/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "instant-gather",
+  "name": "InstantGather",
+  "author": "supreme",
+  "description": "Enhances the tools in order to gather instantly",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11000,
+  "latest_version": "1.0.9",
+  "created_at": "2019-09-29T11:05:38",
+  "updated_at": "2025-03-23T05:59:16",
+  "versions": [
+    {
+      "version": "1.0.9",
+      "released_at": "2025-03-23T23:45:16.726251",
+      "download_url": "https://umod.org/plugins/instant-gather/download/latest",
+      "changelog": null
+    }
+  ]
+}

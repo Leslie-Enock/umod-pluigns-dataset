@@ -1,0 +1,21 @@
+{
+  "id": "better-no-stability",
+  "name": "BetterNoStability",
+  "author": "",
+  "description": "Disables the stability of buildings and structures for players with permission",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 22635,
+  "latest_version": "1.1.7",
+  "created_at": "2019-11-27T06:00:37",
+  "updated_at": "2025-03-23T18:34:18",
+  "versions": [
+    {
+      "version": "1.1.7",
+      "released_at": "2025-03-23T23:22:52.283968",
+      "download_url": "https://umod.org/plugins/better-no-stability/download/latest",
+      "changelog": null
+    }
+  ]
+}

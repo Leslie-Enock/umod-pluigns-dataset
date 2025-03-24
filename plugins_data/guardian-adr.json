@@ -1,0 +1,21 @@
+{
+  "id": "guardian-adr",
+  "name": "GuardianADR",
+  "author": "Rockioux",
+  "description": "Starts demo recordings on Guardian Violations.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 1475,
+  "latest_version": "1.0.2",
+  "created_at": "2022-09-21T00:18:31",
+  "updated_at": "2025-03-22T17:56:31",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:42:11.658818",
+      "download_url": "https://umod.org/plugins/guardian-adr/download/latest",
+      "changelog": null
+    }
+  ]
+}

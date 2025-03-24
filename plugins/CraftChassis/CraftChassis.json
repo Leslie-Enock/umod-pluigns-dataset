@@ -1,0 +1,21 @@
+{
+  "id": "craft-car-chassis",
+  "name": "CraftChassis",
+  "author": "WhiteThunder",
+  "description": "Allows players to craft a modular car chassis at a car lift using a UI",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12913,
+  "latest_version": "1.2.5",
+  "created_at": "2020-08-21T03:17:12",
+  "updated_at": "2025-03-23T13:45:02",
+  "versions": [
+    {
+      "version": "1.2.5",
+      "released_at": "2025-03-23T23:29:32.195881",
+      "download_url": "https://umod.org/plugins/craft-car-chassis/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "knock-knock",
+  "name": "KnockKnock",
+  "author": "MisterPixie",
+  "description": "Allows players to set a message on a door, so when someone comes knocking they will get a message",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9343,
+  "latest_version": "1.1.13",
+  "created_at": "2018-11-02T11:07:00",
+  "updated_at": "2025-03-21T21:53:18",
+  "versions": [
+    {
+      "version": "1.1.13",
+      "released_at": "2025-03-23T23:47:55.808019",
+      "download_url": "https://umod.org/plugins/knock-knock/download/latest",
+      "changelog": null
+    }
+  ]
+}

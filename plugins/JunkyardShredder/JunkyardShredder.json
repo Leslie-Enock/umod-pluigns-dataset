@@ -1,0 +1,21 @@
+{
+  "id": "junkyard-shredder",
+  "name": "JunkyardShredder",
+  "author": "Clearshot",
+  "description": "Configure the items output by the junkyard shredder",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4853,
+  "latest_version": "1.1.0",
+  "created_at": "2021-08-17T21:46:29",
+  "updated_at": "2025-03-23T10:00:42",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:47:00.997214",
+      "download_url": "https://umod.org/plugins/junkyard-shredder/download/latest",
+      "changelog": null
+    }
+  ]
+}

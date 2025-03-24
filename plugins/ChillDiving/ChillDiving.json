@@ -1,0 +1,21 @@
+{
+  "id": "chill-diving",
+  "name": "ChillDiving",
+  "author": "Thisha",
+  "description": "Audiovisual support for divers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7881,
+  "latest_version": "1.4.0",
+  "created_at": "2020-04-23T19:33:22",
+  "updated_at": "2025-03-22T06:23:56",
+  "versions": [
+    {
+      "version": "1.4.0",
+      "released_at": "2025-03-23T23:26:58.581055",
+      "download_url": "https://umod.org/plugins/chill-diving/download/latest",
+      "changelog": null
+    }
+  ]
+}

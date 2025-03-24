@@ -1,0 +1,21 @@
+{
+  "id": "drop-blocker",
+  "name": "DropBlocker",
+  "author": "",
+  "description": "Prevents dropping items on crafting",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 189,
+  "latest_version": "1.2",
+  "created_at": "2018-08-05T18:27:58",
+  "updated_at": "2024-10-06T05:37:07",
+  "versions": [
+    {
+      "version": "1.2",
+      "released_at": "2025-03-23T23:35:02.119925",
+      "download_url": "https://umod.org/plugins/drop-blocker/download/latest",
+      "changelog": null
+    }
+  ]
+}

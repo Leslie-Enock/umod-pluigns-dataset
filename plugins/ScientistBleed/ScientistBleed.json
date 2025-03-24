@@ -1,0 +1,21 @@
+{
+  "id": "scientist-bleed",
+  "name": "ScientistBleed",
+  "author": "birthdates",
+  "description": "Scientist shots now make you bleed",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9380,
+  "latest_version": "1.0.0",
+  "created_at": "2019-02-18T09:04:48",
+  "updated_at": "2025-03-22T03:39:09",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:10:07.905782",
+      "download_url": "https://umod.org/plugins/scientist-bleed/download/latest",
+      "changelog": null
+    }
+  ]
+}

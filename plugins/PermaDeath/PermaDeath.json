@@ -1,0 +1,21 @@
+{
+  "id": "perma-death",
+  "name": "PermaDeath",
+  "author": "",
+  "description": "Deletes all of a player's entities after a set amount of deaths",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6686,
+  "latest_version": "1.0.1",
+  "created_at": "2019-03-28T23:13:20",
+  "updated_at": "2025-03-14T17:16:48",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-24T00:00:07.633113",
+      "download_url": "https://umod.org/plugins/perma-death/download/latest",
+      "changelog": null
+    }
+  ]
+}

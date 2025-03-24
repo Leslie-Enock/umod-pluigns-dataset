@@ -1,0 +1,21 @@
+{
+  "id": "building-actions",
+  "name": "BuildingActions",
+  "author": "misticos",
+  "description": "Rotate and demolish buildings when you want",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 39039,
+  "latest_version": "1.1.2",
+  "created_at": "2018-12-09T02:40:35",
+  "updated_at": "2025-03-23T18:18:33",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-23T23:24:41.495439",
+      "download_url": "https://umod.org/plugins/building-actions/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "admin-deep-cover",
+  "name": "AdminDeepCover",
+  "author": "VisEntities",
+  "description": "Hides the original identity of admins by masking their steam profiles",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 32418,
+  "latest_version": "2.2.8",
+  "created_at": "2018-08-05T16:43:55",
+  "updated_at": "2025-03-23T11:36:14",
+  "versions": [
+    {
+      "version": "2.2.8",
+      "released_at": "2025-03-23T23:16:38.211110",
+      "download_url": "https://umod.org/plugins/admin-deep-cover/download/latest",
+      "changelog": null
+    }
+  ]
+}

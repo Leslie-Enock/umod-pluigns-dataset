@@ -1,0 +1,21 @@
+{
+  "id": "respawn-bradley",
+  "name": "RespawnBradley",
+  "author": "PinguinNordpol",
+  "description": "Adds the possibility to respawn Bradley via command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4629,
+  "latest_version": "0.3.2",
+  "created_at": "2021-04-28T07:31:44",
+  "updated_at": "2025-03-22T19:15:59",
+  "versions": [
+    {
+      "version": "0.3.2",
+      "released_at": "2025-03-24T00:07:52.949085",
+      "download_url": "https://umod.org/plugins/respawn-bradley/download/latest",
+      "changelog": null
+    }
+  ]
+}

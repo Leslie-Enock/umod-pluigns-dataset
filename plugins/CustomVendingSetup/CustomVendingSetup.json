@@ -1,0 +1,21 @@
+{
+  "id": "custom-vending-setup",
+  "name": "CustomVendingSetup",
+  "author": "WhiteThunder",
+  "description": "Customize monument vending machines",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 47668,
+  "latest_version": "2.14.3",
+  "created_at": "2020-04-27T16:42:52",
+  "updated_at": "2025-03-23T17:25:48",
+  "versions": [
+    {
+      "version": "2.14.3",
+      "released_at": "2025-03-23T23:31:23.880040",
+      "download_url": "https://umod.org/plugins/custom-vending-setup/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chill-fuel",
+  "name": "ChillFuel",
+  "author": "Thisha",
+  "description": "Displays the fuel quantity for minicopter, rowboat, rhib, scraptransport and modular car.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5946,
+  "latest_version": "0.3.2",
+  "created_at": "2020-08-22T14:01:37",
+  "updated_at": "2025-03-20T02:41:25",
+  "versions": [
+    {
+      "version": "0.3.2",
+      "released_at": "2025-03-23T23:26:58.581357",
+      "download_url": "https://umod.org/plugins/chill-fuel/download/latest",
+      "changelog": null
+    }
+  ]
+}

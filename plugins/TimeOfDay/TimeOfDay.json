@@ -1,0 +1,21 @@
+{
+  "id": "time-of-day",
+  "name": "TimeOfDay",
+  "author": "misticos",
+  "description": "Alters the day and night duration",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 166416,
+  "latest_version": "2.3.4",
+  "created_at": "2018-08-05T18:34:42",
+  "updated_at": "2025-03-23T19:07:04",
+  "versions": [
+    {
+      "version": "2.3.4",
+      "released_at": "2025-03-24T00:17:31.330223",
+      "download_url": "https://umod.org/plugins/time-of-day/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "heli-ride",
+  "name": "HeliRide",
+  "author": "ColonBlow",
+  "description": "Allows players with permission to fly the Patrol Helicopter",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 24864,
+  "latest_version": "1.1.17",
+  "created_at": "2018-08-05T16:56:18",
+  "updated_at": "2025-03-23T18:06:05",
+  "versions": [
+    {
+      "version": "1.1.17",
+      "released_at": "2025-03-23T23:43:04.739709",
+      "download_url": "https://umod.org/plugins/heli-ride/download/latest",
+      "changelog": null
+    }
+  ]
+}

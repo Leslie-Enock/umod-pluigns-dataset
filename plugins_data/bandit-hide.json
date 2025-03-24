@@ -1,0 +1,21 @@
+{
+  "id": "bandit-hide",
+  "name": "BanditHide",
+  "author": "haggbart",
+  "description": "Hides name when wearing specific clothes",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4988,
+  "latest_version": "1.0.6",
+  "created_at": "2018-08-05T17:57:28",
+  "updated_at": "2025-03-14T16:41:05",
+  "versions": [
+    {
+      "version": "1.0.6",
+      "released_at": "2025-03-23T23:21:09.697944",
+      "download_url": "https://umod.org/plugins/bandit-hide/download/latest",
+      "changelog": null
+    }
+  ]
+}

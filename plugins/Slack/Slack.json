@@ -1,0 +1,21 @@
+{
+  "id": "slack",
+  "name": "Slack",
+  "author": "MrBlue",
+  "description": "Plugin API for sending messages and notifications to Slack",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 10260,
+  "latest_version": "0.1.7",
+  "created_at": "2018-08-02T18:45:10",
+  "updated_at": "2025-03-14T08:17:13",
+  "versions": [
+    {
+      "version": "0.1.7",
+      "released_at": "2025-03-24T00:12:19.401086",
+      "download_url": "https://umod.org/plugins/slack/download/latest",
+      "changelog": null
+    }
+  ]
+}

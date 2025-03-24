@@ -1,0 +1,21 @@
+{
+  "id": "sa-combat-log-info",
+  "name": "CombatLogInfo",
+  "author": "Pho3niX90",
+  "description": "All your servers combatlogs are streamed realtime to a simplistic screen",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 483,
+  "latest_version": "1.0.13",
+  "created_at": "2024-04-03T06:45:47",
+  "updated_at": "2025-03-23T15:53:51",
+  "versions": [
+    {
+      "version": "1.0.13",
+      "released_at": "2025-03-24T00:09:27.613991",
+      "download_url": "https://umod.org/plugins/sa-combat-log-info/download/latest",
+      "changelog": null
+    }
+  ]
+}

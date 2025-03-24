@@ -1,0 +1,21 @@
+{
+  "id": "workshop-skin-viewer",
+  "name": "WorkshopSkinViewer",
+  "author": "DezLife",
+  "description": "Allows players to check how item skins looks",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 38205,
+  "latest_version": "1.0.0",
+  "created_at": "2019-06-28T01:10:10",
+  "updated_at": "2025-03-23T15:55:10",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:23:29.813948",
+      "download_url": "https://umod.org/plugins/workshop-skin-viewer/download/latest",
+      "changelog": null
+    }
+  ]
+}

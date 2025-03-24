@@ -1,0 +1,21 @@
+{
+  "id": "explosion-tracker",
+  "name": "ExplosionTracker",
+  "author": "",
+  "description": "Tracks and logs every explosion that happens on the server",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8702,
+  "latest_version": "1.0.2",
+  "created_at": "2018-07-24T21:35:07",
+  "updated_at": "2025-03-19T20:36:49",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:37:39.518299",
+      "download_url": "https://umod.org/plugins/explosion-tracker/download/latest",
+      "changelog": null
+    }
+  ]
+}

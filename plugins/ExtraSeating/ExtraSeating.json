@@ -1,0 +1,21 @@
+{
+  "id": "extra-seating",
+  "name": "ExtraSeating",
+  "author": "Pho3niX90",
+  "description": "Allows extra seats on mini-copters and horses",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12732,
+  "latest_version": "1.1.2",
+  "created_at": "2020-02-14T20:34:11",
+  "updated_at": "2025-03-23T01:29:07",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-23T23:38:06.685591",
+      "download_url": "https://umod.org/plugins/extra-seating/download/latest",
+      "changelog": null
+    }
+  ]
+}

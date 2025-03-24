@@ -1,0 +1,21 @@
+{
+  "id": "spawn-modular-car",
+  "name": "SpawnModularCar",
+  "author": "WhiteThunder",
+  "description": "Allows players to spawn modular cars, also supports presets",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 21057,
+  "latest_version": "5.3.0",
+  "created_at": "2020-07-14T04:45:14",
+  "updated_at": "2025-03-23T14:57:08",
+  "versions": [
+    {
+      "version": "5.3.0",
+      "released_at": "2025-03-24T00:13:21.120592",
+      "download_url": "https://umod.org/plugins/spawn-modular-car/download/latest",
+      "changelog": null
+    }
+  ]
+}

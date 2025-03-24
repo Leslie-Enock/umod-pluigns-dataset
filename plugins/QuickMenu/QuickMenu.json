@@ -1,0 +1,21 @@
+{
+  "id": "quick-menu",
+  "name": "QuickMenu",
+  "author": "",
+  "description": "An easily accessible menu that contains configurable buttons",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 60,
+  "latest_version": "0.0.7",
+  "created_at": "2018-08-05T18:03:16",
+  "updated_at": "2024-10-06T05:34:00",
+  "versions": [
+    {
+      "version": "0.0.7",
+      "released_at": "2025-03-24T00:04:44.463994",
+      "download_url": "https://umod.org/plugins/quick-menu/download/latest",
+      "changelog": null
+    }
+  ]
+}

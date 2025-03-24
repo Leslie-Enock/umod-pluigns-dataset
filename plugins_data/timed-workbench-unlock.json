@@ -1,0 +1,21 @@
+{
+  "id": "timed-workbench-unlock",
+  "name": "TimedWorkbenchUnlock",
+  "author": "HunterZ",
+  "description": "Provides timed/manual/disabled unlocking of workbenches",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 296,
+  "latest_version": "2.3.0",
+  "created_at": "2023-12-10T20:59:22",
+  "updated_at": "2025-03-23T01:17:08",
+  "versions": [
+    {
+      "version": "2.3.0",
+      "released_at": "2025-03-24T00:17:45.232249",
+      "download_url": "https://umod.org/plugins/timed-workbench-unlock/download/latest",
+      "changelog": null
+    }
+  ]
+}

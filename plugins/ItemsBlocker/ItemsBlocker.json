@@ -1,0 +1,21 @@
+{
+  "id": "items-blocker",
+  "name": "ItemsBlocker",
+  "author": "",
+  "description": "Prevents some items from being used for a limited period of time",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9763,
+  "latest_version": "3.1.2",
+  "created_at": "2018-08-05T16:58:42",
+  "updated_at": "2025-03-22T23:26:31",
+  "versions": [
+    {
+      "version": "3.1.2",
+      "released_at": "2025-03-23T23:46:48.594838",
+      "download_url": "https://umod.org/plugins/items-blocker/download/latest",
+      "changelog": null
+    }
+  ]
+}

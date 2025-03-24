@@ -1,0 +1,21 @@
+{
+  "id": "auto-demo-record-lite",
+  "name": "AutoDemoRecordLite",
+  "author": "Pho3niX90",
+  "description": "Records demos automatically of players that have been reported/F7 X amount of times",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9583,
+  "latest_version": "1.0.82",
+  "created_at": "2020-10-07T14:11:41",
+  "updated_at": "2025-03-21T20:56:10",
+  "versions": [
+    {
+      "version": "1.0.82",
+      "released_at": "2025-03-23T23:19:38.408010",
+      "download_url": "https://umod.org/plugins/auto-demo-record-lite/download/latest",
+      "changelog": null
+    }
+  ]
+}

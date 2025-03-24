@@ -1,0 +1,21 @@
+{
+  "id": "tc-manager",
+  "name": "TCManager",
+  "author": "S0N0FBISCUIT",
+  "description": "Remote management of tool cupboard",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17758,
+  "latest_version": "1.0.4",
+  "created_at": "2018-08-05T17:05:50",
+  "updated_at": "2025-03-21T01:03:03",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:15:41.954008",
+      "download_url": "https://umod.org/plugins/tc-manager/download/latest",
+      "changelog": null
+    }
+  ]
+}

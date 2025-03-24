@@ -1,0 +1,21 @@
+{
+  "id": "slack-mutes",
+  "name": "SlackMutes",
+  "author": "",
+  "description": "Sends information on server mutes to a Slack channel",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 7450,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-05T07:28:58",
+  "updated_at": "2025-03-14T20:06:14",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:12:19.400798",
+      "download_url": "https://umod.org/plugins/slack-mutes/download/latest",
+      "changelog": null
+    }
+  ]
+}

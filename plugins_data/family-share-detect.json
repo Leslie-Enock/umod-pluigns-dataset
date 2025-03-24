@@ -1,0 +1,21 @@
+{
+  "id": "family-share-detect",
+  "name": "FamilyShareDetect",
+  "author": "AVOCoder",
+  "description": "Checks players if using Family Sharing",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8870,
+  "latest_version": "1.2.0",
+  "created_at": "2019-12-17T15:07:00",
+  "updated_at": "2025-03-19T09:08:02",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "released_at": "2025-03-23T23:38:18.490393",
+      "download_url": "https://umod.org/plugins/family-share-detect/download/latest",
+      "changelog": null
+    }
+  ]
+}

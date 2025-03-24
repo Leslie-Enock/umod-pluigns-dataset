@@ -1,0 +1,21 @@
+{
+  "id": "death-chat",
+  "name": "DeathChat",
+  "author": "",
+  "description": "Provides ability to customize prefix for someone who has just died",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13971,
+  "latest_version": "1.1.2",
+  "created_at": "2019-02-27T16:15:37",
+  "updated_at": "2025-03-20T01:05:36",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-23T23:32:03.627313",
+      "download_url": "https://umod.org/plugins/death-chat/download/latest",
+      "changelog": null
+    }
+  ]
+}

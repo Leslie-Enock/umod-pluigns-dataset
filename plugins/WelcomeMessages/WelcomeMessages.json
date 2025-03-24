@@ -1,0 +1,21 @@
+{
+  "id": "welcome-messages",
+  "name": "WelcomeMessages",
+  "author": "Ankawi",
+  "description": "Sends players welcome messages once they connect to the server",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 39956,
+  "latest_version": "1.0.7",
+  "created_at": "2018-08-05T07:18:12",
+  "updated_at": "2025-03-23T19:06:52",
+  "versions": [
+    {
+      "version": "1.0.7",
+      "released_at": "2025-03-24T00:22:21.761347",
+      "download_url": "https://umod.org/plugins/welcome-messages/download/latest",
+      "changelog": null
+    }
+  ]
+}

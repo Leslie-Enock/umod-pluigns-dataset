@@ -1,0 +1,21 @@
+{
+  "id": "underwater-vehicles",
+  "name": "UnderwaterVehicles",
+  "author": "WhiteThunder",
+  "description": "Allows vehicles to function underwater",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 23386,
+  "latest_version": "1.6.0",
+  "created_at": "2020-08-10T01:28:33",
+  "updated_at": "2025-03-23T19:05:36",
+  "versions": [
+    {
+      "version": "1.6.0",
+      "released_at": "2025-03-24T00:19:42.072109",
+      "download_url": "https://umod.org/plugins/underwater-vehicles/download/latest",
+      "changelog": null
+    }
+  ]
+}

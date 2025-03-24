@@ -1,0 +1,21 @@
+{
+  "id": "free-cctv",
+  "name": "FreeCCTV",
+  "author": "alibali",
+  "description": "CCTV require no power connection to run",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9876,
+  "latest_version": "0.1.2",
+  "created_at": "2020-03-07T06:16:59",
+  "updated_at": "2025-03-23T00:06:35",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "released_at": "2025-03-23T23:39:57.958598",
+      "download_url": "https://umod.org/plugins/free-cctv/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "door-limiter",
+  "name": "DoorLimiter",
+  "author": "",
+  "description": "Limits the usage of doors to a certain number of players.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13538,
+  "latest_version": "1.0.6",
+  "created_at": "2018-07-24T21:35:06",
+  "updated_at": "2025-03-20T06:06:29",
+  "versions": [
+    {
+      "version": "1.0.6",
+      "released_at": "2025-03-23T23:34:36.072105",
+      "download_url": "https://umod.org/plugins/door-limiter/download/latest",
+      "changelog": null
+    }
+  ]
+}

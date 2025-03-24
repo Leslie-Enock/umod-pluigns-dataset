@@ -1,0 +1,21 @@
+{
+  "id": "crate-fix",
+  "name": "CrateFix",
+  "author": "birthdates",
+  "description": "A fix for players being able to swap items in crates thus not letting them despawn",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5402,
+  "latest_version": "1.0.2",
+  "created_at": "2019-04-27T07:51:23",
+  "updated_at": "2025-03-14T23:05:02",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:29:45.483053",
+      "download_url": "https://umod.org/plugins/crate-fix/download/latest",
+      "changelog": null
+    }
+  ]
+}

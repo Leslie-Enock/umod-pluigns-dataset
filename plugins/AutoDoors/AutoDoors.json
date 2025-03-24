@@ -1,0 +1,21 @@
+{
+  "id": "auto-doors",
+  "name": "AutoDoors",
+  "author": "bushhy",
+  "description": "Automatically closes doors behind players after X seconds",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 122386,
+  "latest_version": "3.3.10",
+  "created_at": "2018-08-02T18:49:42",
+  "updated_at": "2025-03-23T17:51:20",
+  "versions": [
+    {
+      "version": "3.3.10",
+      "released_at": "2025-03-23T23:19:38.407780",
+      "download_url": "https://umod.org/plugins/auto-doors/download/latest",
+      "changelog": null
+    }
+  ]
+}

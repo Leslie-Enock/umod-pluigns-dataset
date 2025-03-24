@@ -1,0 +1,21 @@
+{
+  "id": "better-chinook-patrol",
+  "name": "BetterChinookPatrol",
+  "author": "WhiteThunder",
+  "description": "Allows customizing which monuments the NPC CH47 visits",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5251,
+  "latest_version": "0.2.0",
+  "created_at": "2023-02-09T09:51:08",
+  "updated_at": "2025-03-22T19:55:30",
+  "versions": [
+    {
+      "version": "0.2.0",
+      "released_at": "2025-03-23T23:22:27.114747",
+      "download_url": "https://umod.org/plugins/better-chinook-patrol/download/latest",
+      "changelog": null
+    }
+  ]
+}

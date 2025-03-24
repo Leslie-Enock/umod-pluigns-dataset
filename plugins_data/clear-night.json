@@ -1,0 +1,21 @@
+{
+  "id": "clear-night",
+  "name": "ClearNight",
+  "author": "Clearshot",
+  "description": "Always bright nights",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 53418,
+  "latest_version": "2.3.6",
+  "created_at": "2020-03-04T03:03:15",
+  "updated_at": "2025-03-23T17:04:52",
+  "versions": [
+    {
+      "version": "2.3.6",
+      "released_at": "2025-03-23T23:27:37.739352",
+      "download_url": "https://umod.org/plugins/clear-night/download/latest",
+      "changelog": null
+    }
+  ]
+}

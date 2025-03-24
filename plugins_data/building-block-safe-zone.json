@@ -1,0 +1,21 @@
+{
+  "id": "building-block-safe-zone",
+  "name": "BuildingBlockSafeZone",
+  "author": "Ryz0r",
+  "description": "Completely disables the hot bar while a user is inside of a building blocked zone.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4687,
+  "latest_version": "1.0.3",
+  "created_at": "2020-10-10T20:08:25",
+  "updated_at": "2025-03-22T22:25:46",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:24:41.496334",
+      "download_url": "https://umod.org/plugins/building-block-safe-zone/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bradley-cctv",
+  "name": "BradleyCCTV",
+  "author": "VisEntities",
+  "description": "Never walk into danger blindly at the launch site",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5268,
+  "latest_version": "2.0.1",
+  "created_at": "2020-10-24T01:16:20",
+  "updated_at": "2025-03-21T17:48:45",
+  "versions": [
+    {
+      "version": "2.0.1",
+      "released_at": "2025-03-23T23:24:14.561897",
+      "download_url": "https://umod.org/plugins/bradley-cctv/download/latest",
+      "changelog": null
+    }
+  ]
+}

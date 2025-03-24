@@ -1,0 +1,21 @@
+{
+  "id": "safe-recycler",
+  "name": "SafeRecycler",
+  "author": "Hovmodet",
+  "description": "Prevents players from getting pushed away from recyclers in safezones",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2079,
+  "latest_version": "1.0.1",
+  "created_at": "2022-06-08T07:24:25",
+  "updated_at": "2025-03-20T23:56:19",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-24T00:09:27.614415",
+      "download_url": "https://umod.org/plugins/safe-recycler/download/latest",
+      "changelog": null
+    }
+  ]
+}

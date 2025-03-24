@@ -1,0 +1,21 @@
+{
+  "id": "performance-ui",
+  "name": "PerformanceUI",
+  "author": "2CHEVSKII",
+  "description": "Displays server FPS and tickrate in real-time via GUI",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11116,
+  "latest_version": "1.0.7",
+  "created_at": "2019-02-09T11:12:54",
+  "updated_at": "2025-03-21T20:05:48",
+  "versions": [
+    {
+      "version": "1.0.7",
+      "released_at": "2025-03-23T23:59:54.565397",
+      "download_url": "https://umod.org/plugins/performance-ui/download/latest",
+      "changelog": null
+    }
+  ]
+}

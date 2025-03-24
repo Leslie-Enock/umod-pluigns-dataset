@@ -1,0 +1,21 @@
+{
+  "id": "supply-alert",
+  "name": "SupplyAlert",
+  "author": "",
+  "description": "Sound and visual (chat and GUI) alert for all active players when a supply has been dropped",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12641,
+  "latest_version": "1.1.2",
+  "created_at": "2019-08-24T17:18:50",
+  "updated_at": "2025-03-18T04:59:33",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-24T00:15:05.179189",
+      "download_url": "https://umod.org/plugins/supply-alert/download/latest",
+      "changelog": null
+    }
+  ]
+}

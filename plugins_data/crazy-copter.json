@@ -1,0 +1,21 @@
+{
+  "id": "crazy-copter",
+  "name": "CrazyCopter",
+  "author": "ColonBlow",
+  "description": "Interference from monuments causes mini and scrap helicopters to have throttle glitches to 100%",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11938,
+  "latest_version": "1.0.2",
+  "created_at": "2020-03-15T01:36:54",
+  "updated_at": "2025-03-20T03:17:11",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:29:57.206984",
+      "download_url": "https://umod.org/plugins/crazy-copter/download/latest",
+      "changelog": null
+    }
+  ]
+}

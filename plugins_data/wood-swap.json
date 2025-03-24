@@ -1,0 +1,21 @@
+{
+  "id": "wood-swap",
+  "name": "WoodSwap",
+  "author": "TheFriendlyChap",
+  "description": "Swaps wood for charcoal with one command, default command `/char` can be changed in the config file.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 30550,
+  "latest_version": "1.0.4",
+  "created_at": "2018-08-02T18:39:05",
+  "updated_at": "2025-03-17T08:43:34",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:23:16.781897",
+      "download_url": "https://umod.org/plugins/wood-swap/download/latest",
+      "changelog": null
+    }
+  ]
+}

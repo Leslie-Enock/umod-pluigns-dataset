@@ -1,0 +1,21 @@
+{
+  "id": "survey-info",
+  "name": "SurveyInfo",
+  "author": "VisEntities",
+  "description": "Displays results from Survey Charges.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 20942,
+  "latest_version": "1.0.6",
+  "created_at": "2018-08-05T16:45:23",
+  "updated_at": "2025-03-23T11:51:26",
+  "versions": [
+    {
+      "version": "1.0.6",
+      "released_at": "2025-03-24T00:15:18.871036",
+      "download_url": "https://umod.org/plugins/survey-info/download/latest",
+      "changelog": null
+    }
+  ]
+}

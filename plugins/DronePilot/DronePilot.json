@@ -1,0 +1,21 @@
+{
+  "id": "drone-pilot",
+  "name": "DronePilot",
+  "author": "k1lly0u",
+  "description": "Allows players to fly drones",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13892,
+  "latest_version": "1.0.7",
+  "created_at": "2021-02-05T03:11:18",
+  "updated_at": "2025-03-20T14:36:58",
+  "versions": [
+    {
+      "version": "1.0.7",
+      "released_at": "2025-03-23T23:34:49.253366",
+      "download_url": "https://umod.org/plugins/drone-pilot/download/latest",
+      "changelog": null
+    }
+  ]
+}

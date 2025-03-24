@@ -1,0 +1,21 @@
+{
+  "id": "offline-ladder-block",
+  "name": "OfflineLadderBlock",
+  "author": "Chepzz",
+  "description": "Blocks players from placing ladders on your base if your offline",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3562,
+  "latest_version": "1.0.1",
+  "created_at": "2021-02-15T04:14:38",
+  "updated_at": "2025-03-20T13:34:22",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:58:50.126688",
+      "download_url": "https://umod.org/plugins/offline-ladder-block/download/latest",
+      "changelog": null
+    }
+  ]
+}

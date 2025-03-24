@@ -1,0 +1,21 @@
+{
+  "id": "spectate",
+  "name": "Spectate",
+  "author": "MrBlue",
+  "description": "Allows only players with permission to spectate",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 32589,
+  "latest_version": "0.4.3",
+  "created_at": "2018-07-24T21:35:20",
+  "updated_at": "2025-03-23T16:48:14",
+  "versions": [
+    {
+      "version": "0.4.3",
+      "released_at": "2025-03-24T00:13:35.990732",
+      "download_url": "https://umod.org/plugins/spectate/download/latest",
+      "changelog": null
+    }
+  ]
+}

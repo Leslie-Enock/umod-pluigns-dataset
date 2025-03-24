@@ -1,0 +1,21 @@
+{
+  "id": "raid-protection",
+  "name": "RaidProtection",
+  "author": "mr01sam",
+  "description": "Configurable online and/or offline raid protection at the cost of a resource",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16527,
+  "latest_version": "2.1.10",
+  "created_at": "2021-01-22T02:10:58",
+  "updated_at": "2025-03-23T18:46:47",
+  "versions": [
+    {
+      "version": "2.1.10",
+      "released_at": "2025-03-24T00:05:26.448214",
+      "download_url": "https://umod.org/plugins/raid-protection/download/latest",
+      "changelog": null
+    }
+  ]
+}

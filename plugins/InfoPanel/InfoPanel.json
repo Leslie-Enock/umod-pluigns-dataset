@@ -1,0 +1,21 @@
+{
+  "id": "info-panel",
+  "name": "InfoPanel",
+  "author": "DevGonzi",
+  "description": "GUI panel with in-game clock, online players, sleepers and custom messages, etc.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 185550,
+  "latest_version": "1.0.9",
+  "created_at": "2018-08-05T16:58:26",
+  "updated_at": "2025-03-23T18:09:19",
+  "versions": [
+    {
+      "version": "1.0.9",
+      "released_at": "2025-03-23T23:45:04.006278",
+      "download_url": "https://umod.org/plugins/info-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "never-wear",
+  "name": "NeverWear",
+  "author": "rostov114",
+  "description": "Stops all items from losing condition",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13868,
+  "latest_version": "0.2.0",
+  "created_at": "2018-08-02T21:41:16",
+  "updated_at": "2025-03-23T16:51:53",
+  "versions": [
+    {
+      "version": "0.2.0",
+      "released_at": "2025-03-23T23:54:51.462657",
+      "download_url": "https://umod.org/plugins/never-wear/download/latest",
+      "changelog": null
+    }
+  ]
+}

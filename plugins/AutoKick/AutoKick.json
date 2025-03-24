@@ -1,0 +1,21 @@
+{
+  "id": "auto-kick",
+  "name": "AutoKick",
+  "author": "",
+  "description": "Automatically kicks connecting players when enabled",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 1256,
+  "latest_version": "1.2.0",
+  "created_at": "2018-08-05T07:20:58",
+  "updated_at": "2024-10-06T05:38:39",
+  "versions": [
+    {
+      "version": "1.2.0",
+      "released_at": "2025-03-23T23:19:51.495374",
+      "download_url": "https://umod.org/plugins/auto-kick/download/latest",
+      "changelog": null
+    }
+  ]
+}

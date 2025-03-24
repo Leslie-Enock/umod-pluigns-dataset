@@ -1,0 +1,21 @@
+{
+  "id": "fishing-multiplier",
+  "name": "FishingMultiplier",
+  "author": "Malmo",
+  "description": "Multiplies the amount of fish caught with rod or traps",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3668,
+  "latest_version": "1.0.3",
+  "created_at": "2022-03-15T18:26:30",
+  "updated_at": "2025-03-22T06:05:11",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:39:06.815975",
+      "download_url": "https://umod.org/plugins/fishing-multiplier/download/latest",
+      "changelog": null
+    }
+  ]
+}

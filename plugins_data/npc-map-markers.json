@@ -1,0 +1,21 @@
+{
+  "id": "npc-map-markers",
+  "name": "NPCMapMarkers",
+  "author": "1AK1",
+  "description": "Shows custom map markers for NPCs and animals on the server",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6086,
+  "latest_version": "1.0.0",
+  "created_at": "2020-10-19T16:59:11",
+  "updated_at": "2025-03-23T16:30:25",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:58:08.259557",
+      "download_url": "https://umod.org/plugins/npc-map-markers/download/latest",
+      "changelog": null
+    }
+  ]
+}

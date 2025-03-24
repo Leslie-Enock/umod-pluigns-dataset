@@ -1,0 +1,21 @@
+{
+  "id": "explosion-damage-reducer",
+  "name": "ExplosionDamageReducer",
+  "author": "Paulsimik",
+  "description": "Set damage value for Basic Rockets, High Velocity Rockets and HE Grenades only to players",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4434,
+  "latest_version": "1.0.0",
+  "created_at": "2022-01-27T21:52:55",
+  "updated_at": "2025-03-23T11:42:30",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:37:39.517869",
+      "download_url": "https://umod.org/plugins/explosion-damage-reducer/download/latest",
+      "changelog": null
+    }
+  ]
+}

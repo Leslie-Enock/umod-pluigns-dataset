@@ -1,0 +1,21 @@
+{
+  "id": "elevator-speed",
+  "name": "ElevatorSpeed",
+  "author": "Lincoln",
+  "description": "Modify the speed of elevators per player",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7173,
+  "latest_version": "1.0.6",
+  "created_at": "2020-10-28T05:30:45",
+  "updated_at": "2025-03-23T11:02:07",
+  "versions": [
+    {
+      "version": "1.0.6",
+      "released_at": "2025-03-23T23:36:07.315991",
+      "download_url": "https://umod.org/plugins/elevator-speed/download/latest",
+      "changelog": null
+    }
+  ]
+}

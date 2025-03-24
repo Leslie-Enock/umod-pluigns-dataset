@@ -1,0 +1,21 @@
+{
+  "id": "hackable-lock",
+  "name": "HackableLock",
+  "author": "Ryz0r",
+  "description": "Locks looting a hackable crate to the person who started the hack, if enabled with configuration",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15149,
+  "latest_version": "2.3.0",
+  "created_at": "2020-06-09T20:16:09",
+  "updated_at": "2025-03-23T05:56:05",
+  "versions": [
+    {
+      "version": "2.3.0",
+      "released_at": "2025-03-23T23:42:37.621202",
+      "download_url": "https://umod.org/plugins/hackable-lock/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "death-history",
+  "name": "DeathHistory",
+  "author": "MadKingCraig",
+  "description": "Get the locations of previous deaths in the form of Grid or Coordinates.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11294,
+  "latest_version": "1.2.1",
+  "created_at": "2021-03-01T14:43:27",
+  "updated_at": "2025-03-21T09:18:31",
+  "versions": [
+    {
+      "version": "1.2.1",
+      "released_at": "2025-03-23T23:32:16.406982",
+      "download_url": "https://umod.org/plugins/death-history/download/latest",
+      "changelog": null
+    }
+  ]
+}

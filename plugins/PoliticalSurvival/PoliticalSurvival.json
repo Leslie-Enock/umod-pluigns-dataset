@@ -1,0 +1,21 @@
+{
+  "id": "political-survival",
+  "name": "PoliticalSurvival",
+  "author": "Pho3niX90",
+  "description": "Become the ruler, tax the server, and subjugate everyone",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12521,
+  "latest_version": "0.9.15",
+  "created_at": "2018-08-05T16:45:15",
+  "updated_at": "2025-03-21T23:09:23",
+  "versions": [
+    {
+      "version": "0.9.15",
+      "released_at": "2025-03-24T00:02:05.037837",
+      "download_url": "https://umod.org/plugins/political-survival/download/latest",
+      "changelog": null
+    }
+  ]
+}

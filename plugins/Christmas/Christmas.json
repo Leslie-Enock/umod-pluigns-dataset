@@ -1,0 +1,21 @@
+{
+  "id": "christmas",
+  "name": "Christmas",
+  "author": "FastBurst",
+  "description": "Christmas regardless of the month!",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17236,
+  "latest_version": "2.0.6",
+  "created_at": "2018-08-05T18:02:00",
+  "updated_at": "2025-03-17T10:12:14",
+  "versions": [
+    {
+      "version": "2.0.6",
+      "released_at": "2025-03-23T23:27:12.753456",
+      "download_url": "https://umod.org/plugins/christmas/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "code-sync",
+  "name": "CodeSync",
+  "author": "0x89A",
+  "description": "Automatically allows players access to code locks based on tool cupboard lock/auth",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15919,
+  "latest_version": "2.0.4",
+  "created_at": "2018-08-05T17:08:30",
+  "updated_at": "2025-03-22T19:16:53",
+  "versions": [
+    {
+      "version": "2.0.4",
+      "released_at": "2025-03-23T23:28:02.278162",
+      "download_url": "https://umod.org/plugins/code-sync/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "quarry-manager",
+  "name": "QuarryManager",
+  "author": "",
+  "description": "Manage the quarry that has been has placed",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6997,
+  "latest_version": "2.0.3",
+  "created_at": "2021-03-24T19:48:37",
+  "updated_at": "2025-03-16T00:49:32",
+  "versions": [
+    {
+      "version": "2.0.3",
+      "released_at": "2025-03-24T00:04:33.074195",
+      "download_url": "https://umod.org/plugins/quarry-manager/download/latest",
+      "changelog": null
+    }
+  ]
+}

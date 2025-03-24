@@ -1,0 +1,21 @@
+{
+  "id": "elevator-counters",
+  "name": "ElevatorCounters",
+  "author": "WhiteThunder",
+  "description": "Allows wiring counters into elevators to display the current floor and function as a call button",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6834,
+  "latest_version": "1.0.2",
+  "created_at": "2020-12-14T05:56:05",
+  "updated_at": "2025-03-22T16:19:37",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:36:07.315720",
+      "download_url": "https://umod.org/plugins/elevator-counters/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tank-commander",
+  "name": "TankCommander",
+  "author": "k1lly0u",
+  "description": "Drive tanks, shoot stuff",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 36641,
+  "latest_version": "0.2.3",
+  "created_at": "2018-08-02T21:31:17",
+  "updated_at": "2025-03-23T18:16:54",
+  "versions": [
+    {
+      "version": "0.2.3",
+      "released_at": "2025-03-24T00:15:30.234944",
+      "download_url": "https://umod.org/plugins/tank-commander/download/latest",
+      "changelog": null
+    }
+  ]
+}

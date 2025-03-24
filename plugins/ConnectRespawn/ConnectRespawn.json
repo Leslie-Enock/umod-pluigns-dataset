@@ -1,0 +1,21 @@
+{
+  "id": "connect-respawn",
+  "name": "ConnectRespawn",
+  "author": "Tryhard",
+  "description": "Automatically respawns dead players upon connection",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6012,
+  "latest_version": "1.0.2",
+  "created_at": "2021-06-04T17:01:16",
+  "updated_at": "2025-03-23T12:10:46",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:28:53.176025",
+      "download_url": "https://umod.org/plugins/connect-respawn/download/latest",
+      "changelog": null
+    }
+  ]
+}

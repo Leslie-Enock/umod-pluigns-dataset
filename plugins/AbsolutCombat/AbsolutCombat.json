@@ -1,0 +1,21 @@
+{
+  "id": "absolut-combat",
+  "name": "AbsolutCombat",
+  "author": "",
+  "description": "Fully customizable combat mod. Create gear and weapon sets that can be unlocked",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 221,
+  "latest_version": "3.0.0",
+  "created_at": "2018-08-05T18:01:24",
+  "updated_at": "2024-10-06T05:32:03",
+  "versions": [
+    {
+      "version": "3.0.0",
+      "released_at": "2025-03-23T23:16:12.316900",
+      "download_url": "https://umod.org/plugins/absolut-combat/download/latest",
+      "changelog": null
+    }
+  ]
+}

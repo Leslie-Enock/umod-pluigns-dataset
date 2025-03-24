@@ -1,0 +1,21 @@
+{
+  "id": "chat-prefix",
+  "name": "ChatPrefix",
+  "author": "DevGonzi",
+  "description": "Chat Prefix allows adding a colored name and a prefix/tag in front of the name using a permission.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9562,
+  "latest_version": "1.2.1",
+  "created_at": "2021-04-13T21:44:50",
+  "updated_at": "2025-03-23T17:51:34",
+  "versions": [
+    {
+      "version": "1.2.1",
+      "released_at": "2025-03-23T23:26:30.016960",
+      "download_url": "https://umod.org/plugins/chat-prefix/download/latest",
+      "changelog": null
+    }
+  ]
+}

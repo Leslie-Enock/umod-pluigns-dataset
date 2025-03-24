@@ -1,0 +1,21 @@
+{
+  "id": "voter-rewards",
+  "name": "Voter",
+  "author": "k1lly0u",
+  "description": "Rewards players who vote for your server on rust-servers.net",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 37309,
+  "latest_version": "2.1.1",
+  "created_at": "2018-08-02T21:37:24",
+  "updated_at": "2025-03-23T14:30:56",
+  "versions": [
+    {
+      "version": "2.1.1",
+      "released_at": "2025-03-24T00:21:43.869002",
+      "download_url": "https://umod.org/plugins/voter-rewards/download/latest",
+      "changelog": null
+    }
+  ]
+}

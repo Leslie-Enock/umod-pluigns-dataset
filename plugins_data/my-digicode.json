@@ -1,0 +1,21 @@
+{
+  "id": "my-digicode",
+  "name": "MyDigicode",
+  "author": "",
+  "description": "Set a unique code for all codelocks, with autolock and remote options",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9227,
+  "latest_version": "1.0.1",
+  "created_at": "2019-01-02T23:57:00",
+  "updated_at": "2025-03-14T16:18:48",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:54:24.538800",
+      "download_url": "https://umod.org/plugins/my-digicode/download/latest",
+      "changelog": null
+    }
+  ]
+}

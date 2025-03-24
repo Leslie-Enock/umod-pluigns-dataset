@@ -1,0 +1,21 @@
+{
+  "id": "note-logger",
+  "name": "NoteLogger",
+  "author": "unboxingman",
+  "description": "Tracks the who, when, what of note edit is, and logs to file",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8470,
+  "latest_version": "2.0.2",
+  "created_at": "2018-08-05T17:35:40",
+  "updated_at": "2025-03-23T15:52:45",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-23T23:57:55.894212",
+      "download_url": "https://umod.org/plugins/note-logger/download/latest",
+      "changelog": null
+    }
+  ]
+}

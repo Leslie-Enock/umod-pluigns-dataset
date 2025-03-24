@@ -1,0 +1,21 @@
+{
+  "id": "magic-economics-panel",
+  "name": "MagicEconomicsPanel",
+  "author": "MJSU",
+  "description": "Displays player economics data in Magic Panel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16631,
+  "latest_version": "1.0.8",
+  "created_at": "2019-11-19T17:07:22",
+  "updated_at": "2025-03-22T23:11:04",
+  "versions": [
+    {
+      "version": "1.0.8",
+      "released_at": "2025-03-23T23:50:30.402234",
+      "download_url": "https://umod.org/plugins/magic-economics-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "monument-plus-lite",
+  "name": "MonumentPlus",
+  "author": "Razor",
+  "description": "Auto spawn prefabs at monuments",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4395,
+  "latest_version": "1.1.0",
+  "created_at": "2021-04-08T22:24:32",
+  "updated_at": "2025-03-19T14:47:58",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:53:46.531411",
+      "download_url": "https://umod.org/plugins/monument-plus-lite/download/latest",
+      "changelog": null
+    }
+  ]
+}

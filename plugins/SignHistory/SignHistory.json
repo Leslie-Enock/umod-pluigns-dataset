@@ -1,0 +1,21 @@
+{
+  "id": "sign-history",
+  "name": "SignHistory",
+  "author": "collectvood",
+  "description": "Track changes to signs to record malicious edits",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14202,
+  "latest_version": "1.1.4",
+  "created_at": "2018-08-05T18:03:33",
+  "updated_at": "2025-03-22T18:39:33",
+  "versions": [
+    {
+      "version": "1.1.4",
+      "released_at": "2025-03-24T00:11:12.824160",
+      "download_url": "https://umod.org/plugins/sign-history/download/latest",
+      "changelog": null
+    }
+  ]
+}

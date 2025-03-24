@@ -1,0 +1,21 @@
+{
+  "id": "parented-entity-render-fix",
+  "name": "ParentedEntityRenderFix",
+  "author": "WhiteThunder",
+  "description": "Fixes issue where some parented entities do not render except near map origin",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5509,
+  "latest_version": "0.1.2",
+  "created_at": "2021-04-09T02:45:38",
+  "updated_at": "2025-03-17T17:27:34",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "released_at": "2025-03-23T23:59:41.851950",
+      "download_url": "https://umod.org/plugins/parented-entity-render-fix/download/latest",
+      "changelog": null
+    }
+  ]
+}

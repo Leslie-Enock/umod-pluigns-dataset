@@ -1,0 +1,21 @@
+{
+  "id": "sign-checker",
+  "name": "SignChecker",
+  "author": "",
+  "description": "Provides a way to check the last editor of signs",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6957,
+  "latest_version": "1.1.5",
+  "created_at": "2018-08-11T11:42:13",
+  "updated_at": "2025-03-21T13:10:55",
+  "versions": [
+    {
+      "version": "1.1.5",
+      "released_at": "2025-03-24T00:11:12.824498",
+      "download_url": "https://umod.org/plugins/sign-checker/download/latest",
+      "changelog": null
+    }
+  ]
+}

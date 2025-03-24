@@ -1,0 +1,21 @@
+{
+  "id": "group-migrate",
+  "name": "GroupMigrate",
+  "author": "MrBlue",
+  "description": "Migrate players and permissions between groups",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 6635,
+  "latest_version": "1.0.0",
+  "created_at": "2019-12-19T18:53:07",
+  "updated_at": "2025-03-14T10:15:59",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:41:57.863560",
+      "download_url": "https://umod.org/plugins/group-migrate/download/latest",
+      "changelog": null
+    }
+  ]
+}

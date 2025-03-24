@@ -1,0 +1,21 @@
+{
+  "id": "timed-execute",
+  "name": "TimedExecute",
+  "author": "misticos",
+  "description": "Executes commands every (x) seconds",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 50500,
+  "latest_version": "0.7.4",
+  "created_at": "2018-08-05T07:24:17",
+  "updated_at": "2025-03-23T06:23:20",
+  "versions": [
+    {
+      "version": "0.7.4",
+      "released_at": "2025-03-24T00:17:31.330805",
+      "download_url": "https://umod.org/plugins/timed-execute/download/latest",
+      "changelog": null
+    }
+  ]
+}

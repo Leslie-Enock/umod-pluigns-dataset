@@ -1,0 +1,21 @@
+{
+  "id": "real-time",
+  "name": "RealTime",
+  "author": "haggbart",
+  "description": "Syncs ingame time with real time",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8617,
+  "latest_version": "1.0.0",
+  "created_at": "2019-06-09T10:54:55",
+  "updated_at": "2025-03-22T10:25:14",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:06:06.932345",
+      "download_url": "https://umod.org/plugins/real-time/download/latest",
+      "changelog": null
+    }
+  ]
+}

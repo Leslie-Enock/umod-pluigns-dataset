@@ -1,0 +1,21 @@
+{
+  "id": "group-bans",
+  "name": "GroupBans",
+  "author": "zeeuss",
+  "description": "Plugin that allows you to temporarily or permamently ban/unban players from certain oxide groups.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2746,
+  "latest_version": "0.1.4",
+  "created_at": "2022-11-11T14:04:38",
+  "updated_at": "2025-03-14T20:40:14",
+  "versions": [
+    {
+      "version": "0.1.4",
+      "released_at": "2025-03-23T23:41:45.202064",
+      "download_url": "https://umod.org/plugins/group-bans/download/latest",
+      "changelog": null
+    }
+  ]
+}

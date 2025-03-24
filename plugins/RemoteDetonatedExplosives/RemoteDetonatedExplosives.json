@@ -1,0 +1,21 @@
+{
+  "id": "remote-detonated-explosives",
+  "name": "RemoteDetonatedExplosives",
+  "author": "birthdates",
+  "description": "Allows players to detonate explosives remotely with a RF Transmitter",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8791,
+  "latest_version": "2.0.2",
+  "created_at": "2019-09-19T15:11:29",
+  "updated_at": "2025-03-21T01:57:43",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-24T00:06:47.716421",
+      "download_url": "https://umod.org/plugins/remote-detonated-explosives/download/latest",
+      "changelog": null
+    }
+  ]
+}

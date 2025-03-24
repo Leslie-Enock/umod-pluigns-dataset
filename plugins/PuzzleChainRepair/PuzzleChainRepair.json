@@ -1,0 +1,21 @@
+{
+  "id": "puzzle-chain-repair",
+  "name": "PuzzleChainRepair",
+  "author": "",
+  "description": "Provide puzzle chain repair with detail log and not allow players to destroy IO entities",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8722,
+  "latest_version": "1.1.0",
+  "created_at": "2018-08-05T16:28:50",
+  "updated_at": "2025-03-14T19:42:14",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-24T00:03:52.352387",
+      "download_url": "https://umod.org/plugins/puzzle-chain-repair/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "daynight-gather",
+  "name": "DayNightGather",
+  "author": "klauz24",
+  "description": "Sets different gather rates for day and night.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17070,
+  "latest_version": "1.1.1",
+  "created_at": "2018-08-05T18:34:53",
+  "updated_at": "2025-03-23T10:47:29",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-23T23:32:03.626758",
+      "download_url": "https://umod.org/plugins/daynight-gather/download/latest",
+      "changelog": null
+    }
+  ]
+}

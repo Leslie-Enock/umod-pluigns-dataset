@@ -1,0 +1,21 @@
+{
+  "id": "slack-chat",
+  "name": "SlackChat",
+  "author": "MrBlue",
+  "description": "Sends all chat messages or keyword-based chat to Slack channel",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 8412,
+  "latest_version": "0.1.2",
+  "created_at": "2018-08-02T18:50:43",
+  "updated_at": "2025-03-14T20:51:42",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "released_at": "2025-03-24T00:12:19.400325",
+      "download_url": "https://umod.org/plugins/slack-chat/download/latest",
+      "changelog": null
+    }
+  ]
+}

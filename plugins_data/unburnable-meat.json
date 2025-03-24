@@ -1,0 +1,21 @@
+{
+  "id": "unburnable-meat",
+  "name": "UnburnableMeat",
+  "author": "S642667",
+  "description": "Prevents meat from burning",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 59417,
+  "latest_version": "1.0.1",
+  "created_at": "2019-04-14T11:20:30",
+  "updated_at": "2025-03-23T17:04:26",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-24T00:19:42.071707",
+      "download_url": "https://umod.org/plugins/unburnable-meat/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "no-crash-flying-vehicles",
+  "name": "NoCrashFlyingVehicles",
+  "author": "MONaH",
+  "description": "Prevents flying vehicles from crashing",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7947,
+  "latest_version": "2.0.0",
+  "created_at": "2020-09-30T21:53:08",
+  "updated_at": "2025-03-21T21:57:11",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-23T23:55:30.154359",
+      "download_url": "https://umod.org/plugins/no-crash-flying-vehicles/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "real-bear-traps",
+  "name": "RealBearTraps",
+  "author": "ArtiIOMI",
+  "description": "Makes bear traps actually trap bears, and other animals",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10339,
+  "latest_version": "0.0.8",
+  "created_at": "2019-10-04T17:31:08",
+  "updated_at": "2025-03-17T20:53:01",
+  "versions": [
+    {
+      "version": "0.0.8",
+      "released_at": "2025-03-24T00:06:06.933390",
+      "download_url": "https://umod.org/plugins/real-bear-traps/download/latest",
+      "changelog": null
+    }
+  ]
+}

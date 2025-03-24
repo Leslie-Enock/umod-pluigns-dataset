@@ -1,0 +1,21 @@
+{
+  "id": "knock-open",
+  "name": "KnockOpen",
+  "author": "OfficerJAKE",
+  "description": "Opens security doors when knocked on by players holding the correct keycards",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5343,
+  "latest_version": "2.5.8",
+  "created_at": "2021-10-21T07:23:05",
+  "updated_at": "2025-03-20T20:12:03",
+  "versions": [
+    {
+      "version": "2.5.8",
+      "released_at": "2025-03-23T23:47:55.808295",
+      "download_url": "https://umod.org/plugins/knock-open/download/latest",
+      "changelog": null
+    }
+  ]
+}

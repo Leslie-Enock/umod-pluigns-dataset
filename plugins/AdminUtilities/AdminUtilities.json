@@ -1,0 +1,21 @@
+{
+  "id": "admin-utilities",
+  "name": "AdminUtilities",
+  "author": "dFxPhoeniX",
+  "description": "Admin Utilities is a plugin who have some functionalities like noclip. under terrain and more.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17086,
+  "latest_version": "2.1.4",
+  "created_at": "2021-08-14T06:57:55",
+  "updated_at": "2025-03-23T16:29:35",
+  "versions": [
+    {
+      "version": "2.1.4",
+      "released_at": "2025-03-23T23:17:03.043521",
+      "download_url": "https://umod.org/plugins/admin-utilities/download/latest",
+      "changelog": null
+    }
+  ]
+}

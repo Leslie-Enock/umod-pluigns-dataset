@@ -1,0 +1,21 @@
+{
+  "id": "free-light-string",
+  "name": "FreeLightString",
+  "author": "",
+  "description": "Allows light strings to operate without electricity",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10496,
+  "latest_version": "0.1.2",
+  "created_at": "2019-12-24T14:51:58",
+  "updated_at": "2025-03-22T20:40:31",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "released_at": "2025-03-23T23:39:57.959261",
+      "download_url": "https://umod.org/plugins/free-light-string/download/latest",
+      "changelog": null
+    }
+  ]
+}

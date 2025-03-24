@@ -1,0 +1,21 @@
+{
+  "id": "home-protection",
+  "name": "HomeProtection",
+  "author": "VisEntities",
+  "description": "Protects players and their homes from intruders",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10578,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-02T18:52:03",
+  "updated_at": "2025-03-22T14:44:05",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:43:56.791319",
+      "download_url": "https://umod.org/plugins/home-protection/download/latest",
+      "changelog": null
+    }
+  ]
+}

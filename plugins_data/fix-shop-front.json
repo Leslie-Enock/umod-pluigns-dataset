@@ -1,0 +1,21 @@
+{
+  "id": "fix-shop-front",
+  "name": "FixShopFront",
+  "author": "Mevent",
+  "description": "Fixes a bug with managing other people's weapon modifications when exchanging",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5121,
+  "latest_version": "1.0.2",
+  "created_at": "2021-11-14T08:08:44",
+  "updated_at": "2025-03-21T19:55:38",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:39:06.816611",
+      "download_url": "https://umod.org/plugins/fix-shop-front/download/latest",
+      "changelog": null
+    }
+  ]
+}

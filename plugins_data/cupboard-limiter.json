@@ -1,0 +1,21 @@
+{
+  "id": "cupboard-limiter",
+  "name": "CupboardLimiter",
+  "author": "Spiikesan",
+  "description": "Set a max on cupboard placements for player(s) with permissions",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14885,
+  "latest_version": "1.7.6",
+  "created_at": "2018-12-26T06:12:12",
+  "updated_at": "2025-03-23T15:15:44",
+  "versions": [
+    {
+      "version": "1.7.6",
+      "released_at": "2025-03-23T23:30:11.573377",
+      "download_url": "https://umod.org/plugins/cupboard-limiter/download/latest",
+      "changelog": null
+    }
+  ]
+}

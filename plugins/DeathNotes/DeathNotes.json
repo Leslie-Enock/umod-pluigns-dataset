@@ -1,0 +1,21 @@
+{
+  "id": "death-notes",
+  "name": "DeathNotes",
+  "author": "MrBlue",
+  "description": "Broadcasts deaths to chat along with detailed information.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 189626,
+  "latest_version": "6.4.3",
+  "created_at": "2018-07-24T21:35:05",
+  "updated_at": "2025-03-23T18:22:50",
+  "versions": [
+    {
+      "version": "6.4.3",
+      "released_at": "2025-03-23T23:32:16.407938",
+      "download_url": "https://umod.org/plugins/death-notes/download/latest",
+      "changelog": null
+    }
+  ]
+}

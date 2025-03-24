@@ -1,0 +1,21 @@
+{
+  "id": "gst-ban-ctrl",
+  "name": "GSTBanCtrl",
+  "author": "mrcameron999",
+  "description": "BanCtrl is a centralised ban list for your servers. Easily manage your bans, across all servers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 1272,
+  "latest_version": "1.0.4",
+  "created_at": "2022-04-19T15:46:18",
+  "updated_at": "2025-03-19T13:49:04",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:41:57.864242",
+      "download_url": "https://umod.org/plugins/gst-ban-ctrl/download/latest",
+      "changelog": null
+    }
+  ]
+}

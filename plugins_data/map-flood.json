@@ -1,0 +1,21 @@
+{
+  "id": "map-flood",
+  "name": "MapFlood",
+  "author": "ziptie",
+  "description": "Flood the map on command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8401,
+  "latest_version": "0.4.3",
+  "created_at": "2020-10-18T17:05:46",
+  "updated_at": "2024-11-30T14:05:39",
+  "versions": [
+    {
+      "version": "0.4.3",
+      "released_at": "2025-03-23T23:52:00.459123",
+      "download_url": "https://umod.org/plugins/map-flood/download/latest",
+      "changelog": null
+    }
+  ]
+}

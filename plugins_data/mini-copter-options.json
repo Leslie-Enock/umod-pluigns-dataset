@@ -1,0 +1,21 @@
+{
+  "id": "mini-copter-options",
+  "name": "MiniCopterOptions",
+  "author": "Pho3niX90",
+  "description": "Options like fuel consumption, movement speed, storage, turrets, land on cargo & fix flyhack",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 37632,
+  "latest_version": "2.5.1",
+  "created_at": "2019-02-18T16:59:35",
+  "updated_at": "2025-03-23T18:39:37",
+  "versions": [
+    {
+      "version": "2.5.1",
+      "released_at": "2025-03-23T23:53:05.546553",
+      "download_url": "https://umod.org/plugins/mini-copter-options/download/latest",
+      "changelog": null
+    }
+  ]
+}

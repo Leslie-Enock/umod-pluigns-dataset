@@ -1,0 +1,21 @@
+{
+  "id": "gyrocopter",
+  "name": "Gyrocopter",
+  "author": "ColonBlow",
+  "description": "Allows players to fly there very own scrap build gyrocopter",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18794,
+  "latest_version": "1.2.11",
+  "created_at": "2018-08-05T16:28:25",
+  "updated_at": "2025-03-23T03:27:36",
+  "versions": [
+    {
+      "version": "1.2.11",
+      "released_at": "2025-03-23T23:42:24.545404",
+      "download_url": "https://umod.org/plugins/gyrocopter/download/latest",
+      "changelog": null
+    }
+  ]
+}

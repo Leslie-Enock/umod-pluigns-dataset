@@ -1,0 +1,21 @@
+{
+  "id": "factions-core",
+  "name": "FactionsCore",
+  "author": "",
+  "description": "A revamped faction/team system",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8233,
+  "latest_version": "1.0.5",
+  "created_at": "2018-08-05T17:55:50",
+  "updated_at": "2025-03-15T03:26:17",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:38:18.489399",
+      "download_url": "https://umod.org/plugins/factions-core/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "kd-gui",
+  "name": "KDGUI",
+  "author": "JoeSheep",
+  "description": "Displays your kills and deaths as an extension to player's hotbar",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 188,
+  "latest_version": "1.0.5",
+  "created_at": "2018-08-05T18:00:15",
+  "updated_at": "2024-10-06T05:35:49",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:47:15.946842",
+      "download_url": "https://umod.org/plugins/kd-gui/download/latest",
+      "changelog": null
+    }
+  ]
+}

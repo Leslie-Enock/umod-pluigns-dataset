@@ -1,0 +1,21 @@
+{
+  "id": "bgrade",
+  "name": "BGrade",
+  "author": "Ryan",
+  "description": "Auto update building blocks when placed",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 116713,
+  "latest_version": "1.1.6",
+  "created_at": "2018-07-24T21:35:01",
+  "updated_at": "2025-03-23T15:52:14",
+  "versions": [
+    {
+      "version": "1.1.6",
+      "released_at": "2025-03-23T23:23:05.735909",
+      "download_url": "https://umod.org/plugins/bgrade/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "freeze",
+  "name": "Freeze",
+  "author": "MrBlue",
+  "description": "Prevents players from moving, and optionally prevents chat, commands, and damage",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 33677,
+  "latest_version": "3.0.3",
+  "created_at": "2018-07-24T21:35:08",
+  "updated_at": "2025-03-23T13:07:41",
+  "versions": [
+    {
+      "version": "3.0.3",
+      "released_at": "2025-03-23T23:40:09.080475",
+      "download_url": "https://umod.org/plugins/freeze/download/latest",
+      "changelog": null
+    }
+  ]
+}

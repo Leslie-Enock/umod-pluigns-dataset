@@ -1,0 +1,21 @@
+{
+  "id": "pickup-lines",
+  "name": "PickupLines",
+  "author": "",
+  "description": "Sends lovely pickup lines to yourself or other players",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 6819,
+  "latest_version": "1.0.2",
+  "created_at": "2018-08-05T07:35:35",
+  "updated_at": "2025-03-14T15:55:03",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:00:36.723837",
+      "download_url": "https://umod.org/plugins/pickup-lines/download/latest",
+      "changelog": null
+    }
+  ]
+}

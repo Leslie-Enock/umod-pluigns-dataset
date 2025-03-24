@@ -1,0 +1,21 @@
+{
+  "id": "no-fuel-requirements",
+  "name": "NoFuelRequirements",
+  "author": "k1lly0u",
+  "description": "Allows players to choose which deployables do not use fuel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 22717,
+  "latest_version": "1.8.0",
+  "created_at": "2018-08-05T17:12:37",
+  "updated_at": "2025-03-23T15:23:09",
+  "versions": [
+    {
+      "version": "1.8.0",
+      "released_at": "2025-03-23T23:56:10.826766",
+      "download_url": "https://umod.org/plugins/no-fuel-requirements/download/latest",
+      "changelog": null
+    }
+  ]
+}

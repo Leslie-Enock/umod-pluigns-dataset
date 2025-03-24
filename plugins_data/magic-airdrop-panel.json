@@ -1,0 +1,21 @@
+{
+  "id": "magic-airdrop-panel",
+  "name": "MagicAirdropPanel",
+  "author": "MJSU",
+  "description": "Displays if the airdrop event is active",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 21222,
+  "latest_version": "1.0.2",
+  "created_at": "2019-11-19T16:58:37",
+  "updated_at": "2025-03-23T09:57:40",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:49:53.126027",
+      "download_url": "https://umod.org/plugins/magic-airdrop-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

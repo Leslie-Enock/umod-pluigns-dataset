@@ -1,0 +1,21 @@
+{
+  "id": "ignore",
+  "name": "Ignore",
+  "author": "MisterPixie",
+  "description": "An API for managing ignore lists",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 11807,
+  "latest_version": "2.1.03",
+  "created_at": "2019-02-15T19:29:45",
+  "updated_at": "2025-03-23T04:55:33",
+  "versions": [
+    {
+      "version": "2.1.03",
+      "released_at": "2025-03-23T23:44:23.264913",
+      "download_url": "https://umod.org/plugins/ignore/download/latest",
+      "changelog": null
+    }
+  ]
+}

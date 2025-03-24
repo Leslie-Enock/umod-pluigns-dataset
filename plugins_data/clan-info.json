@@ -1,0 +1,21 @@
+{
+  "id": "clan-info",
+  "name": "ClanInfo",
+  "author": "Bazz3l",
+  "description": "List clan members in a given clan",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 6463,
+  "latest_version": "1.0.5",
+  "created_at": "2019-07-12T01:33:03",
+  "updated_at": "2025-03-19T21:57:17",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:27:25.132654",
+      "download_url": "https://umod.org/plugins/clan-info/download/latest",
+      "changelog": null
+    }
+  ]
+}

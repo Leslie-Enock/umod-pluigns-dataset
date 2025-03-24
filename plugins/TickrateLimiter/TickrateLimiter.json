@@ -1,0 +1,21 @@
+{
+  "id": "tickrate-limiter",
+  "name": "TickrateLimiter",
+  "author": "2CHEVSKII",
+  "description": "Limits current maximum tickrate based on player count to improve overall server performance",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 17821,
+  "latest_version": "0.1.2",
+  "created_at": "2019-07-17T07:41:43",
+  "updated_at": "2025-03-23T18:25:51",
+  "versions": [
+    {
+      "version": "0.1.2",
+      "released_at": "2025-03-24T00:17:17.537948",
+      "download_url": "https://umod.org/plugins/tickrate-limiter/download/latest",
+      "changelog": null
+    }
+  ]
+}

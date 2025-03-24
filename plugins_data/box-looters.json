@@ -1,0 +1,21 @@
+{
+  "id": "box-looters",
+  "name": "BoxLooters",
+  "author": "k1lly0u",
+  "description": "Logs looters for a containers to help prevent cheating",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 23214,
+  "latest_version": "0.3.6",
+  "created_at": "2018-08-02T21:37:12",
+  "updated_at": "2025-03-23T13:02:03",
+  "versions": [
+    {
+      "version": "0.3.6",
+      "released_at": "2025-03-23T23:24:00.070989",
+      "download_url": "https://umod.org/plugins/box-looters/download/latest",
+      "changelog": null
+    }
+  ]
+}

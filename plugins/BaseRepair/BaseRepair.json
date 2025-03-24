@@ -1,0 +1,21 @@
+{
+  "id": "base-repair",
+  "name": "BaseRepair",
+  "author": "MJSU",
+  "description": "Allows players to repair their entire base",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 47996,
+  "latest_version": "1.0.27",
+  "created_at": "2019-11-14T09:12:55",
+  "updated_at": "2025-03-23T18:32:59",
+  "versions": [
+    {
+      "version": "1.0.27",
+      "released_at": "2025-03-23T23:21:23.983177",
+      "download_url": "https://umod.org/plugins/base-repair/download/latest",
+      "changelog": null
+    }
+  ]
+}

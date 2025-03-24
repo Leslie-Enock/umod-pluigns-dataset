@@ -1,0 +1,21 @@
+{
+  "id": "vending-loot-drop",
+  "name": "VendingLootDrop",
+  "author": "Bazz3l",
+  "description": "Drops vending machines contents when destroyed.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 28412,
+  "latest_version": "1.0.6",
+  "created_at": "2020-05-07T09:13:45",
+  "updated_at": "2025-03-15T20:10:15",
+  "versions": [
+    {
+      "version": "1.0.6",
+      "released_at": "2025-03-24T00:20:51.139582",
+      "download_url": "https://umod.org/plugins/vending-loot-drop/download/latest",
+      "changelog": null
+    }
+  ]
+}

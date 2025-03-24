@@ -1,0 +1,21 @@
+{
+  "id": "foundation-limit",
+  "name": "FoundationLimit",
+  "author": "noname",
+  "description": "Limits the number of foundations that players can place in each building",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10132,
+  "latest_version": "1.4.2",
+  "created_at": "2019-12-02T03:42:25",
+  "updated_at": "2025-03-23T18:14:03",
+  "versions": [
+    {
+      "version": "1.4.2",
+      "released_at": "2025-03-23T23:39:45.080758",
+      "download_url": "https://umod.org/plugins/foundation-limit/download/latest",
+      "changelog": null
+    }
+  ]
+}

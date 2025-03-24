@@ -1,0 +1,21 @@
+{
+  "id": "realistic-igniter",
+  "name": "RealisticIgniter",
+  "author": "ArtiIOMI",
+  "description": "Use a flamethrower or torch to set fire to a bonfire",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4711,
+  "latest_version": "1.1.4",
+  "created_at": "2020-03-20T15:03:38",
+  "updated_at": "2025-03-17T07:22:08",
+  "versions": [
+    {
+      "version": "1.1.4",
+      "released_at": "2025-03-24T00:06:20.612305",
+      "download_url": "https://umod.org/plugins/realistic-igniter/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chat-to-console",
+  "name": "ChatToConsole",
+  "author": "aristocratos",
+  "description": "Copies the in-game chat to the console",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4108,
+  "latest_version": "1.1.1",
+  "created_at": "2020-12-02T15:11:01",
+  "updated_at": "2025-03-21T19:03:50",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-23T23:26:43.891362",
+      "download_url": "https://umod.org/plugins/chat-to-console/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "stack-multiplier",
+  "name": "StackMultiplier",
+  "author": "Ryz0r",
+  "description": "Set a multiplier for all item stack sizes in the game, and block items some from be multiplied",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 24393,
+  "latest_version": "1.0.4",
+  "created_at": "2020-05-22T23:53:28",
+  "updated_at": "2025-03-23T14:53:09",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:13:49.664665",
+      "download_url": "https://umod.org/plugins/stack-multiplier/download/latest",
+      "changelog": null
+    }
+  ]
+}

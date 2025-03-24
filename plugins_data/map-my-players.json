@@ -1,0 +1,21 @@
+{
+  "id": "map-my-players",
+  "name": "MapMyPlayers",
+  "author": "1AK1",
+  "description": "Displays all players positions with colored/texted markers on in-game map",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 37235,
+  "latest_version": "1.1.1",
+  "created_at": "2018-09-05T22:01:55",
+  "updated_at": "2025-03-23T18:02:36",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-23T23:52:14.674002",
+      "download_url": "https://umod.org/plugins/map-my-players/download/latest",
+      "changelog": null
+    }
+  ]
+}

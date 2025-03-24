@@ -1,0 +1,21 @@
+{
+  "id": "inv-foundation",
+  "name": "InvFoundation",
+  "author": "",
+  "description": "Invulnerable foundation",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6828,
+  "latest_version": "1.2.6",
+  "created_at": "2018-08-05T16:57:16",
+  "updated_at": "2025-03-14T11:44:53",
+  "versions": [
+    {
+      "version": "1.2.6",
+      "released_at": "2025-03-23T23:45:43.623710",
+      "download_url": "https://umod.org/plugins/inv-foundation/download/latest",
+      "changelog": null
+    }
+  ]
+}

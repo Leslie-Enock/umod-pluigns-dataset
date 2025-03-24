@@ -1,0 +1,21 @@
+{
+  "id": "mass-genocide",
+  "name": "MassGenocide",
+  "author": "Ryz0r",
+  "description": "Mass Genocide is a plugin that allows users with permission to kill every player on the server.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4145,
+  "latest_version": "1.0.2",
+  "created_at": "2021-07-06T01:53:06",
+  "updated_at": "2025-03-23T17:37:48",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:52:27.541633",
+      "download_url": "https://umod.org/plugins/mass-genocide/download/latest",
+      "changelog": null
+    }
+  ]
+}

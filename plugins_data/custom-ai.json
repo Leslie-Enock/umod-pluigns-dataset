@@ -1,0 +1,21 @@
+{
+  "id": "custom-ai",
+  "name": "CustomAI",
+  "author": "VisEntities",
+  "description": "Customize and adjust modifiers of animals",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7080,
+  "latest_version": "1.2.2",
+  "created_at": "2018-08-05T16:30:53",
+  "updated_at": "2024-10-06T05:37:35",
+  "versions": [
+    {
+      "version": "1.2.2",
+      "released_at": "2025-03-23T23:30:35.672609",
+      "download_url": "https://umod.org/plugins/custom-ai/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "crafting-store",
+  "name": "CraftingStore",
+  "author": "CraftingStore",
+  "description": "CraftingStore is a donation platform that allows you process donations automatically.",
+  "categories": [
+    "rust",
+    "hurtworld",
+    "7-days-to-die"
+  ],
+  "total_downloads": 9086,
+  "latest_version": "0.1.5",
+  "created_at": "2019-12-23T12:44:25",
+  "updated_at": "2025-03-23T06:23:06",
+  "versions": [
+    {
+      "version": "0.1.5",
+      "released_at": "2025-03-23T23:29:45.482730",
+      "download_url": "https://umod.org/plugins/crafting-store/download/latest",
+      "changelog": null
+    }
+  ]
+}

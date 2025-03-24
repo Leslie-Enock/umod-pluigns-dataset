@@ -1,0 +1,21 @@
+{
+  "id": "better-chat-flood",
+  "name": "BetterChatFlood",
+  "author": "Ryan",
+  "description": "Adds a cooldown to chat to prevent flooding",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 10012,
+  "latest_version": "1.0.5",
+  "created_at": "2018-07-24T21:35:03",
+  "updated_at": "2025-03-21T03:15:43",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:22:01.352212",
+      "download_url": "https://umod.org/plugins/better-chat-flood/download/latest",
+      "changelog": null
+    }
+  ]
+}

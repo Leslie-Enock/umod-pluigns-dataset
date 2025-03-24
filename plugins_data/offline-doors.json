@@ -1,0 +1,21 @@
+{
+  "id": "offline-doors",
+  "name": "OfflineDoors",
+  "author": "Slydelix",
+  "description": "Automagically closes all doors owned by player when he disconnects",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13317,
+  "latest_version": "1.1.2",
+  "created_at": "2018-08-05T16:46:57",
+  "updated_at": "2025-03-23T16:58:31",
+  "versions": [
+    {
+      "version": "1.1.2",
+      "released_at": "2025-03-23T23:58:50.126285",
+      "download_url": "https://umod.org/plugins/offline-doors/download/latest",
+      "changelog": null
+    }
+  ]
+}

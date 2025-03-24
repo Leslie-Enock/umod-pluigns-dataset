@@ -1,0 +1,21 @@
+{
+  "id": "target-practice",
+  "name": "TargetPractice",
+  "author": "k1lly0u",
+  "description": "Score hits to reactive targets relative to hit position with popup GUI and leader boards",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15556,
+  "latest_version": "0.2.2",
+  "created_at": "2018-08-02T21:42:09",
+  "updated_at": "2025-03-14T08:14:04",
+  "versions": [
+    {
+      "version": "0.2.2",
+      "released_at": "2025-03-24T00:15:30.235118",
+      "download_url": "https://umod.org/plugins/target-practice/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "jail",
+  "name": "Jail",
+  "author": "k1lly0u",
+  "description": "Create a jail system where all the naughty players go",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15000,
+  "latest_version": "4.0.6",
+  "created_at": "2018-08-02T21:35:04",
+  "updated_at": "2025-03-23T02:48:22",
+  "versions": [
+    {
+      "version": "4.0.6",
+      "released_at": "2025-03-23T23:46:48.595459",
+      "download_url": "https://umod.org/plugins/jail/download/latest",
+      "changelog": null
+    }
+  ]
+}

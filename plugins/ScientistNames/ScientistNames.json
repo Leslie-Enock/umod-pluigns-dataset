@@ -1,0 +1,21 @@
+{
+  "id": "scientist-names",
+  "name": "ScientistNames",
+  "author": "",
+  "description": "Gives real names to scientists, bandits, tunnel dwellers etc. (instead of numbers)",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 18553,
+  "latest_version": "1.2.2",
+  "created_at": "2019-08-27T17:17:10",
+  "updated_at": "2025-03-23T08:59:43",
+  "versions": [
+    {
+      "version": "1.2.2",
+      "released_at": "2025-03-24T00:10:07.906008",
+      "download_url": "https://umod.org/plugins/scientist-names/download/latest",
+      "changelog": null
+    }
+  ]
+}

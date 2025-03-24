@@ -1,0 +1,21 @@
+{
+  "id": "auto-lights-out",
+  "name": "AutoLightsOut",
+  "author": "misticos",
+  "description": "Turns all lights out at night then allows user to turn them back on again.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 24764,
+  "latest_version": "1.0.3",
+  "created_at": "2018-08-05T16:52:08",
+  "updated_at": "2025-03-22T19:52:04",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:19:51.495716",
+      "download_url": "https://umod.org/plugins/auto-lights-out/download/latest",
+      "changelog": null
+    }
+  ]
+}

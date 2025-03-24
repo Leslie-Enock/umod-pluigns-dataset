@@ -1,0 +1,21 @@
+{
+  "id": "stack-item-storage",
+  "name": "StackItemStorage",
+  "author": "",
+  "description": "Changes specific stack capacity on specific storage and change max stack size of item",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12684,
+  "latest_version": "1.0.8",
+  "created_at": "2021-02-05T12:27:32",
+  "updated_at": "2025-03-23T15:34:05",
+  "versions": [
+    {
+      "version": "1.0.8",
+      "released_at": "2025-03-24T00:13:49.663924",
+      "download_url": "https://umod.org/plugins/stack-item-storage/download/latest",
+      "changelog": null
+    }
+  ]
+}

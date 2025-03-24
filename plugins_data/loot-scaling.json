@@ -1,0 +1,21 @@
+{
+  "id": "loot-scaling",
+  "name": "LootScaling",
+  "author": "",
+  "description": "Scale loot spawn rate/density by player count",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8451,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-05T20:09:29",
+  "updated_at": "2025-03-22T18:58:23",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:49:25.799238",
+      "download_url": "https://umod.org/plugins/loot-scaling/download/latest",
+      "changelog": null
+    }
+  ]
+}

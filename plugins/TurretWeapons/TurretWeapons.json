@@ -1,0 +1,21 @@
+{
+  "id": "turret-weapons",
+  "name": "TurretWeapons",
+  "author": "misticos",
+  "description": "Control weapons placement in turrets",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 24232,
+  "latest_version": "1.0.1",
+  "created_at": "2020-02-07T15:59:03",
+  "updated_at": "2025-03-23T18:39:25",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-24T00:19:02.795643",
+      "download_url": "https://umod.org/plugins/turret-weapons/download/latest",
+      "changelog": null
+    }
+  ]
+}

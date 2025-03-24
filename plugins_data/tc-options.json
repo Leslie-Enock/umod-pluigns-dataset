@@ -1,0 +1,21 @@
+{
+  "id": "tc-options",
+  "name": "TcOptions",
+  "author": "SapnuPuas",
+  "description": "Adds a codelock and optional loot to tool cupboards when placed by a player with permission",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 1347,
+  "latest_version": "1.0.4",
+  "created_at": "2022-10-23T19:26:23",
+  "updated_at": "2025-03-19T16:54:53",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:15:41.953876",
+      "download_url": "https://umod.org/plugins/tc-options/download/latest",
+      "changelog": null
+    }
+  ]
+}

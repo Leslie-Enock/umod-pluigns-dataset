@@ -1,0 +1,21 @@
+{
+  "id": "better-drone-collision",
+  "name": "BetterDroneCollision",
+  "author": "WhiteThunder",
+  "description": "Overhauls RC drone collision damage so it's more intuitive",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 3917,
+  "latest_version": "1.1.0",
+  "created_at": "2021-07-04T08:44:33",
+  "updated_at": "2025-03-23T00:52:30",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:22:27.115060",
+      "download_url": "https://umod.org/plugins/better-drone-collision/download/latest",
+      "changelog": null
+    }
+  ]
+}

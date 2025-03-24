@@ -1,0 +1,21 @@
+{
+  "id": "barrelless",
+  "name": "Barrelless",
+  "author": "KrunghCrow",
+  "description": "various events after barrel kills",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 19143,
+  "latest_version": "3.1.2",
+  "created_at": "2018-12-21T10:02:09",
+  "updated_at": "2025-03-23T18:20:24",
+  "versions": [
+    {
+      "version": "3.1.2",
+      "released_at": "2025-03-23T23:21:23.982470",
+      "download_url": "https://umod.org/plugins/barrelless/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "pets",
+  "name": "Pets",
+  "author": "k1lly0u",
+  "description": "Gives players the ability to tame and have pets",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16011,
+  "latest_version": "0.6.5",
+  "created_at": "2018-08-02T21:30:38",
+  "updated_at": "2025-03-23T18:19:58",
+  "versions": [
+    {
+      "version": "0.6.5",
+      "released_at": "2025-03-24T00:00:21.762909",
+      "download_url": "https://umod.org/plugins/pets/download/latest",
+      "changelog": null
+    }
+  ]
+}

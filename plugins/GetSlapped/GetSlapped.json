@@ -1,0 +1,21 @@
+{
+  "id": "get-slapped",
+  "name": "GetSlapped",
+  "author": "klauz24",
+  "description": "Slaps players when they try to act tough in chat",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 6756,
+  "latest_version": "1.0.3",
+  "created_at": "2020-10-22T21:18:46",
+  "updated_at": "2025-03-19T17:01:50",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-23T23:41:19.527043",
+      "download_url": "https://umod.org/plugins/get-slapped/download/latest",
+      "changelog": null
+    }
+  ]
+}

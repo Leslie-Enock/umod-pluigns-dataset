@@ -1,0 +1,21 @@
+{
+  "id": "auto-deposit",
+  "name": "AutoDeposit",
+  "author": "dcheal",
+  "description": "Very lightweight plugin that allows quick depositing of items to matching containers.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4755,
+  "latest_version": "1.0.1",
+  "created_at": "2022-01-21T00:44:52",
+  "updated_at": "2025-03-23T05:30:14",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:19:38.407661",
+      "download_url": "https://umod.org/plugins/auto-deposit/download/latest",
+      "changelog": null
+    }
+  ]
+}

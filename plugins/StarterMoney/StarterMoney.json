@@ -1,0 +1,21 @@
+{
+  "id": "starter-money",
+  "name": "StarterMoney",
+  "author": "",
+  "description": "Customizes the starting balance of players with permissions",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 12343,
+  "latest_version": "1.1.0",
+  "created_at": "2019-06-14T07:24:38",
+  "updated_at": "2025-03-20T00:58:26",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-24T00:14:02.514714",
+      "download_url": "https://umod.org/plugins/starter-money/download/latest",
+      "changelog": null
+    }
+  ]
+}

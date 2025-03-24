@@ -1,0 +1,21 @@
+{
+  "id": "guess-the-word",
+  "name": "GuessTheWord",
+  "author": "Bazz3l",
+  "description": "Guess the scrambled word and receive a reward",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 8827,
+  "latest_version": "1.0.7",
+  "created_at": "2020-01-21T11:05:51",
+  "updated_at": "2025-03-20T10:23:51",
+  "versions": [
+    {
+      "version": "1.0.7",
+      "released_at": "2025-03-23T23:42:11.659053",
+      "download_url": "https://umod.org/plugins/guess-the-word/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "automatic-plugin-updater",
+  "name": "AutomaticPluginUpdater",
+  "author": "birthdates",
+  "description": "Automatically update Oxide plugins",
+  "categories": [
+    "rust",
+    "7-days-to-die"
+  ],
+  "total_downloads": 15689,
+  "latest_version": "1.5.5",
+  "created_at": "2021-04-04T01:53:53",
+  "updated_at": "2025-03-23T16:35:11",
+  "versions": [
+    {
+      "version": "1.5.5",
+      "released_at": "2025-03-23T23:20:29.949252",
+      "download_url": "https://umod.org/plugins/automatic-plugin-updater/download/latest",
+      "changelog": null
+    }
+  ]
+}

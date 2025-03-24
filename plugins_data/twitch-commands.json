@@ -1,0 +1,21 @@
+{
+  "id": "twitch-commands",
+  "name": "TwitchCommands",
+  "author": "MrBlue",
+  "description": "Runs commands when a player follows/unfollows on Twitch",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 21860,
+  "latest_version": "1.0.0",
+  "created_at": "2020-03-01T01:04:11",
+  "updated_at": "2025-03-14T13:49:55",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:19:16.577301",
+      "download_url": "https://umod.org/plugins/twitch-commands/download/latest",
+      "changelog": null
+    }
+  ]
+}

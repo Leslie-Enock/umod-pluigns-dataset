@@ -1,0 +1,21 @@
+{
+  "id": "twitch-auth",
+  "name": "TwitchAuth",
+  "author": "MrBlue",
+  "description": "Allows players to authorize themselves as a Twitch follower",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 21502,
+  "latest_version": "1.0.0",
+  "created_at": "2018-07-24T21:35:23",
+  "updated_at": "2025-03-22T11:38:54",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-24T00:19:16.577770",
+      "download_url": "https://umod.org/plugins/twitch-auth/download/latest",
+      "changelog": null
+    }
+  ]
+}

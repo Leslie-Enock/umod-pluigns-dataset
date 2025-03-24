@@ -1,0 +1,21 @@
+{
+  "id": "online-players",
+  "name": "OnlinePlayers",
+  "author": "MACHIN3",
+  "description": "Shows list of online players and sleepers in separate UIs",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10966,
+  "latest_version": "1.1.8",
+  "created_at": "2021-12-25T02:22:21",
+  "updated_at": "2025-03-23T11:09:38",
+  "versions": [
+    {
+      "version": "1.1.8",
+      "released_at": "2025-03-23T23:59:16.230619",
+      "download_url": "https://umod.org/plugins/online-players/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "drone-storage",
+  "name": "DroneStorage",
+  "author": "WhiteThunder",
+  "description": "Allows players to deploy a small stash to RC drones",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7879,
+  "latest_version": "1.3.1",
+  "created_at": "2021-03-07T22:45:50",
+  "updated_at": "2025-03-20T19:18:52",
+  "versions": [
+    {
+      "version": "1.3.1",
+      "released_at": "2025-03-23T23:35:02.119644",
+      "download_url": "https://umod.org/plugins/drone-storage/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "cupboard-auto-lock",
+  "name": "CupboardAutoLock",
+  "author": "",
+  "description": "Automatically add a codelock on cupboards, with option to lock access to all cupboards inventories",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8541,
+  "latest_version": "0.0.6",
+  "created_at": "2018-12-14T20:20:51",
+  "updated_at": "2025-03-20T05:23:46",
+  "versions": [
+    {
+      "version": "0.0.6",
+      "released_at": "2025-03-23T23:30:11.572795",
+      "download_url": "https://umod.org/plugins/cupboard-auto-lock/download/latest",
+      "changelog": null
+    }
+  ]
+}

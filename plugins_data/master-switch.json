@@ -1,0 +1,21 @@
+{
+  "id": "master-switch",
+  "name": "MasterSwitch",
+  "author": "Lincoln",
+  "description": "Toggle stuff with a single command",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 5827,
+  "latest_version": "1.1.0",
+  "created_at": "2018-08-05T16:44:45",
+  "updated_at": "2025-03-16T13:44:27",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:52:27.542169",
+      "download_url": "https://umod.org/plugins/master-switch/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rust-lottery",
+  "name": "Lottery",
+  "author": "sami37",
+  "description": "Allows players to roll number to win more money or points",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11545,
+  "latest_version": "1.2.5",
+  "created_at": "2018-08-05T16:28:35",
+  "updated_at": "2025-03-21T05:56:28",
+  "versions": [
+    {
+      "version": "1.2.5",
+      "released_at": "2025-03-24T00:08:45.607905",
+      "download_url": "https://umod.org/plugins/rust-lottery/download/latest",
+      "changelog": null
+    }
+  ]
+}

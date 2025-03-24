@@ -1,0 +1,21 @@
+{
+  "id": "online-quarries",
+  "name": "OnlineQuarries",
+  "author": "",
+  "description": "Automatically disable players' quarries when offline",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7120,
+  "latest_version": "1.2.8",
+  "created_at": "2018-08-02T18:34:24",
+  "updated_at": "2025-03-15T01:15:44",
+  "versions": [
+    {
+      "version": "1.2.8",
+      "released_at": "2025-03-23T23:59:16.231271",
+      "download_url": "https://umod.org/plugins/online-quarries/download/latest",
+      "changelog": null
+    }
+  ]
+}

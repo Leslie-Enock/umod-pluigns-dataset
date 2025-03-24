@@ -1,0 +1,21 @@
+{
+  "id": "sign-map",
+  "name": "SignMap",
+  "author": "MJSU",
+  "description": "Allows placing the rust map on a signs",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 14161,
+  "latest_version": "1.0.4",
+  "created_at": "2020-05-15T15:56:24",
+  "updated_at": "2025-03-22T12:54:13",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:11:12.824264",
+      "download_url": "https://umod.org/plugins/sign-map/download/latest",
+      "changelog": null
+    }
+  ]
+}

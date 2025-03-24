@@ -1,0 +1,21 @@
+{
+  "id": "no-safe-zone-sleepers",
+  "name": "NoSafeZoneSleepers",
+  "author": "NooBlet",
+  "description": "Automatically creates a zone to remove sleeping players from Outpost and Bandit Camp",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10458,
+  "latest_version": "1.9",
+  "created_at": "2020-01-22T03:11:28",
+  "updated_at": "2025-03-22T03:26:22",
+  "versions": [
+    {
+      "version": "1.9",
+      "released_at": "2025-03-23T23:57:06.498306",
+      "download_url": "https://umod.org/plugins/no-safe-zone-sleepers/download/latest",
+      "changelog": null
+    }
+  ]
+}

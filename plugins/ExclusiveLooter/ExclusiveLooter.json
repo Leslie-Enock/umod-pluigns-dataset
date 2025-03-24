@@ -1,0 +1,21 @@
+{
+  "id": "exclusive-looter",
+  "name": "ExclusiveLooter",
+  "author": "redBDGR",
+  "description": "Allows only one player to loot an entity at a time",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9108,
+  "latest_version": "1.0.0",
+  "created_at": "2018-07-24T21:35:07",
+  "updated_at": "2025-03-22T14:11:28",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:37:26.510237",
+      "download_url": "https://umod.org/plugins/exclusive-looter/download/latest",
+      "changelog": null
+    }
+  ]
+}

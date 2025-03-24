@@ -1,0 +1,21 @@
+{
+  "id": "zone-manager",
+  "name": "ZoneManager",
+  "author": "k1lly0u",
+  "description": "Advanced zone manager for creating in-game zones",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 144501,
+  "latest_version": "3.1.7",
+  "created_at": "2018-08-02T21:30:57",
+  "updated_at": "2025-03-23T19:00:07",
+  "versions": [
+    {
+      "version": "3.1.7",
+      "released_at": "2025-03-24T00:24:09.586401",
+      "download_url": "https://umod.org/plugins/zone-manager/download/latest",
+      "changelog": null
+    }
+  ]
+}

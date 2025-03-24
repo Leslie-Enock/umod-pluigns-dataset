@@ -1,0 +1,21 @@
+{
+  "id": "admin-inventory-cleaner",
+  "name": "InventoryCleaner",
+  "author": "JoaoPster",
+  "description": "Cleans your inventory on command or on exit",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 20262,
+  "latest_version": "2.1.1",
+  "created_at": "2018-08-05T16:57:58",
+  "updated_at": "2025-03-23T11:00:04",
+  "versions": [
+    {
+      "version": "2.1.1",
+      "released_at": "2025-03-23T23:16:38.211696",
+      "download_url": "https://umod.org/plugins/admin-inventory-cleaner/download/latest",
+      "changelog": null
+    }
+  ]
+}

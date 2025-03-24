@@ -1,0 +1,21 @@
+{
+  "id": "light-control",
+  "name": "LightControl",
+  "author": "Hovmodet",
+  "description": "Toggle players lights separately\nChanges the behavior of \"lighttoggle\"",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 1397,
+  "latest_version": "1.0.4",
+  "created_at": "2022-12-08T11:53:46",
+  "updated_at": "2025-03-22T21:54:49",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:48:19.340621",
+      "download_url": "https://umod.org/plugins/light-control/download/latest",
+      "changelog": null
+    }
+  ]
+}

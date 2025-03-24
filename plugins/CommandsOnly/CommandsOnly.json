@@ -1,0 +1,21 @@
+{
+  "id": "commands-only",
+  "name": "CommandsOnly",
+  "author": "varygoode",
+  "description": "Only allow chat messages that are commands",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 490,
+  "latest_version": "1.0.2",
+  "created_at": "2022-01-16T16:02:41",
+  "updated_at": "2025-03-19T19:37:32",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:28:26.130041",
+      "download_url": "https://umod.org/plugins/commands-only/download/latest",
+      "changelog": null
+    }
+  ]
+}

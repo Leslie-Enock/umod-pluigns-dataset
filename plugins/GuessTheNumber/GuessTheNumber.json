@@ -1,0 +1,21 @@
+{
+  "id": "guess-the-number",
+  "name": "GuessTheNumber",
+  "author": "Mabel",
+  "description": "An event that requires player to guess the correct number",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15002,
+  "latest_version": "2.2.3",
+  "created_at": "2018-07-24T21:35:09",
+  "updated_at": "2025-03-23T16:46:24",
+  "versions": [
+    {
+      "version": "2.2.3",
+      "released_at": "2025-03-23T23:42:11.659438",
+      "download_url": "https://umod.org/plugins/guess-the-number/download/latest",
+      "changelog": null
+    }
+  ]
+}

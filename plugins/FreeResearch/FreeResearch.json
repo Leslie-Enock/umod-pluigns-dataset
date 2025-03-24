@@ -1,0 +1,21 @@
+{
+  "id": "free-research",
+  "name": "FreeResearch",
+  "author": "Zugzwang",
+  "description": "Makes blueprint research and workbench experiments free and instantaneous.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 10619,
+  "latest_version": "1.0.11",
+  "created_at": "2018-08-05T16:33:04",
+  "updated_at": "2025-03-23T11:20:29",
+  "versions": [
+    {
+      "version": "1.0.11",
+      "released_at": "2025-03-23T23:40:09.079808",
+      "download_url": "https://umod.org/plugins/free-research/download/latest",
+      "changelog": null
+    }
+  ]
+}

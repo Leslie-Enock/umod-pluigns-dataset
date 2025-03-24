@@ -1,0 +1,21 @@
+{
+  "id": "bouncy-c4",
+  "name": "BouncyC4",
+  "author": "VisEntities",
+  "description": "Throw non-sticking bouncy explosives",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2751,
+  "latest_version": "1.1.0",
+  "created_at": "2023-07-10T11:04:34",
+  "updated_at": "2025-03-23T15:10:27",
+  "versions": [
+    {
+      "version": "1.1.0",
+      "released_at": "2025-03-23T23:24:00.070919",
+      "download_url": "https://umod.org/plugins/bouncy-c4/download/latest",
+      "changelog": null
+    }
+  ]
+}

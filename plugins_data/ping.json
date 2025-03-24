@@ -1,0 +1,21 @@
+{
+  "id": "ping",
+  "name": "Ping",
+  "author": "MrBlue",
+  "description": "Ping checking on command and automatic kicking of players with high pings",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 9155,
+  "latest_version": "1.8.0",
+  "created_at": "2018-08-02T18:44:39",
+  "updated_at": "2025-03-22T10:19:18",
+  "versions": [
+    {
+      "version": "1.8.0",
+      "released_at": "2025-03-24T00:00:50.569176",
+      "download_url": "https://umod.org/plugins/ping/download/latest",
+      "changelog": null
+    }
+  ]
+}

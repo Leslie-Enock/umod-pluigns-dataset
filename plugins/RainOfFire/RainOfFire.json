@@ -1,0 +1,21 @@
+{
+  "id": "rain-of-fire",
+  "name": "RainOfFire",
+  "author": "k1lly0u",
+  "description": "Custom event that adds meteor showers to the game",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15361,
+  "latest_version": "0.2.52",
+  "created_at": "2018-08-05T18:26:29",
+  "updated_at": "2025-03-23T03:02:04",
+  "versions": [
+    {
+      "version": "0.2.52",
+      "released_at": "2025-03-24T00:05:38.406489",
+      "download_url": "https://umod.org/plugins/rain-of-fire/download/latest",
+      "changelog": null
+    }
+  ]
+}

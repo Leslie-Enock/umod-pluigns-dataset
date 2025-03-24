@@ -1,0 +1,21 @@
+{
+  "id": "all-bags-cooldown",
+  "name": "AllBagsCooldown",
+  "author": "Flashtim",
+  "description": "This plugin synchronizes the unlock time of all sleeping bags / beds of a player.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 29468,
+  "latest_version": "1.0.4",
+  "created_at": "2021-06-24T23:10:52",
+  "updated_at": "2025-03-23T01:33:28",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:17:40.934512",
+      "download_url": "https://umod.org/plugins/all-bags-cooldown/download/latest",
+      "changelog": null
+    }
+  ]
+}

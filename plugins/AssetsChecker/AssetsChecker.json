@@ -1,0 +1,21 @@
+{
+  "id": "assets-checker",
+  "name": "AssetsChecker",
+  "author": "SettLe",
+  "description": "Extracts changes from the game’s assets and writes them to sorted lists.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 19616,
+  "latest_version": "1.0.5",
+  "created_at": "2021-11-29T16:25:44",
+  "updated_at": "2025-03-22T15:17:34",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:19:12.914978",
+      "download_url": "https://umod.org/plugins/assets-checker/download/latest",
+      "changelog": null
+    }
+  ]
+}

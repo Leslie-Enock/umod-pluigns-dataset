@@ -1,0 +1,21 @@
+{
+  "id": "zone-manager-auto-zones",
+  "name": "ZoneManagerAutoZones",
+  "author": "FastBurst",
+  "description": "Adds zones and domes to monuments automatically",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 43827,
+  "latest_version": "1.4.0",
+  "created_at": "2019-12-20T04:43:12",
+  "updated_at": "2025-03-23T14:00:35",
+  "versions": [
+    {
+      "version": "1.4.0",
+      "released_at": "2025-03-24T00:24:09.586507",
+      "download_url": "https://umod.org/plugins/zone-manager-auto-zones/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "no-give-notices",
+  "name": "NoGiveNotices",
+  "author": "MrBlue",
+  "description": "Prevents F1 item giving notices from showing in the chat",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 280776,
+  "latest_version": "0.3.0",
+  "created_at": "2018-08-02T18:40:24",
+  "updated_at": "2025-03-23T18:47:29",
+  "versions": [
+    {
+      "version": "0.3.0",
+      "released_at": "2025-03-23T23:56:25.436261",
+      "download_url": "https://umod.org/plugins/no-give-notices/download/latest",
+      "changelog": null
+    }
+  ]
+}

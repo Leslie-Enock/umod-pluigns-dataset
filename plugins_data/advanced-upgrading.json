@@ -1,0 +1,21 @@
+{
+  "id": "advanced-upgrading",
+  "name": "AdvancedUpgrading",
+  "author": "Ryan",
+  "description": "Advanced upgrading that disallows players from upgrading building blocks quickly",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 25481,
+  "latest_version": "1.0.0",
+  "created_at": "2018-07-24T21:35:00",
+  "updated_at": "2025-03-23T12:55:27",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:17:15.222768",
+      "download_url": "https://umod.org/plugins/advanced-upgrading/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "raid-limit",
+  "name": "RaidLimit",
+  "author": "",
+  "description": "Limits the number of raids on buildings",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12605,
+  "latest_version": "2.2.3",
+  "created_at": "2019-12-04T09:50:07",
+  "updated_at": "2025-03-22T16:19:41",
+  "versions": [
+    {
+      "version": "2.2.3",
+      "released_at": "2025-03-24T00:05:26.447651",
+      "download_url": "https://umod.org/plugins/raid-limit/download/latest",
+      "changelog": null
+    }
+  ]
+}

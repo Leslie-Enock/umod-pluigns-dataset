@@ -1,0 +1,21 @@
+{
+  "id": "auto-lock",
+  "name": "AutoLock",
+  "author": "birthdates",
+  "description": "Automatically adds a codelock to a lockable entity with a set pin",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 51541,
+  "latest_version": "2.4.5",
+  "created_at": "2018-12-24T16:23:30",
+  "updated_at": "2025-03-23T11:37:20",
+  "versions": [
+    {
+      "version": "2.4.5",
+      "released_at": "2025-03-23T23:20:02.522077",
+      "download_url": "https://umod.org/plugins/auto-lock/download/latest",
+      "changelog": null
+    }
+  ]
+}

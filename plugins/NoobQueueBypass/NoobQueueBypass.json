@@ -1,0 +1,21 @@
+{
+  "id": "noob-queue-bypass",
+  "name": "NoobQueueBypass",
+  "author": "Ryan",
+  "description": "Allows new players to skip the queue",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8589,
+  "latest_version": "1.0.01",
+  "created_at": "2018-07-24T21:35:14",
+  "updated_at": "2025-03-14T14:03:05",
+  "versions": [
+    {
+      "version": "1.0.01",
+      "released_at": "2025-03-23T23:57:55.894146",
+      "download_url": "https://umod.org/plugins/noob-queue-bypass/download/latest",
+      "changelog": null
+    }
+  ]
+}

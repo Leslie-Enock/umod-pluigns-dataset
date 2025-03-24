@@ -1,0 +1,21 @@
+{
+  "id": "zlevels-remastered",
+  "name": "ZLevelsRemastered",
+  "author": "nivex",
+  "description": "Allows player to level up 5 different skills (Mining, Woodcutting, Crafting, Skinning, Aquire)",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 160354,
+  "latest_version": "3.2.2",
+  "created_at": "2018-08-05T16:29:40",
+  "updated_at": "2025-03-23T18:33:14",
+  "versions": [
+    {
+      "version": "3.2.2",
+      "released_at": "2025-03-24T00:23:56.127822",
+      "download_url": "https://umod.org/plugins/zlevels-remastered/download/latest",
+      "changelog": null
+    }
+  ]
+}

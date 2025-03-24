@@ -1,0 +1,21 @@
+{
+  "id": "vehicle-decay-protection",
+  "name": "VehicleDecayProtection",
+  "author": "WhiteThunder",
+  "description": "Protects vehicles from decay when inside, near TCs, when recently used, or using owner permissions",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 65578,
+  "latest_version": "2.7.1",
+  "created_at": "2020-08-24T01:41:21",
+  "updated_at": "2025-03-23T17:27:28",
+  "versions": [
+    {
+      "version": "2.7.1",
+      "released_at": "2025-03-24T00:20:36.133419",
+      "download_url": "https://umod.org/plugins/vehicle-decay-protection/download/latest",
+      "changelog": null
+    }
+  ]
+}

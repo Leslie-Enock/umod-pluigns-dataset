@@ -1,0 +1,21 @@
+{
+  "id": "heli-vote",
+  "name": "HeliVote",
+  "author": "k1lly0u",
+  "description": "Allows players to open a vote to call helicopters",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 11192,
+  "latest_version": "0.1.32",
+  "created_at": "2018-08-02T21:40:20",
+  "updated_at": "2025-03-23T06:23:18",
+  "versions": [
+    {
+      "version": "0.1.32",
+      "released_at": "2025-03-23T23:43:15.847455",
+      "download_url": "https://umod.org/plugins/heli-vote/download/latest",
+      "changelog": null
+    }
+  ]
+}

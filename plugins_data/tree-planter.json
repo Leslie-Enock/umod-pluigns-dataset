@@ -1,0 +1,21 @@
+{
+  "id": "tree-planter",
+  "name": "TreePlanter",
+  "author": "Bazz3l",
+  "description": "Buy and plant trees in building authed areas using in-game currency",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 27612,
+  "latest_version": "1.2.2",
+  "created_at": "2019-11-08T18:09:01",
+  "updated_at": "2025-03-23T08:32:56",
+  "versions": [
+    {
+      "version": "1.2.2",
+      "released_at": "2025-03-24T00:18:27.200850",
+      "download_url": "https://umod.org/plugins/tree-planter/download/latest",
+      "changelog": null
+    }
+  ]
+}

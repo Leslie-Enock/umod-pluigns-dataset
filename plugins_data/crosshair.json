@@ -1,0 +1,21 @@
+{
+  "id": "crosshair",
+  "name": "Crosshair",
+  "author": "MisterPixie",
+  "description": "Adds a customizable crosshair to your screen",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 19163,
+  "latest_version": "3.1.0",
+  "created_at": "2018-08-05T17:54:11",
+  "updated_at": "2025-03-22T18:11:46",
+  "versions": [
+    {
+      "version": "3.1.0",
+      "released_at": "2025-03-23T23:29:57.207195",
+      "download_url": "https://umod.org/plugins/crosshair/download/latest",
+      "changelog": null
+    }
+  ]
+}

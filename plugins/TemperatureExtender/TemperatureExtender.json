@@ -1,0 +1,21 @@
+{
+  "id": "temperature-extender",
+  "name": "TemperatureExtender",
+  "author": "MJSU",
+  "description": "Extends the range of temperature and comfort",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13388,
+  "latest_version": "1.0.2",
+  "created_at": "2020-07-22T13:36:08",
+  "updated_at": "2025-03-14T10:45:27",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-24T00:16:51.062722",
+      "download_url": "https://umod.org/plugins/temperature-extender/download/latest",
+      "changelog": null
+    }
+  ]
+}

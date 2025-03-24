@@ -1,0 +1,21 @@
+{
+  "id": "ch47-and-mini-copter-spawner",
+  "name": "CH47AndMiniCopterSpawner",
+  "author": "austinv900",
+  "description": "Spawn Mini Helicopter and/or CH47 at saved point(s)",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9520,
+  "latest_version": "1.0.4",
+  "created_at": "2019-02-10T02:45:35",
+  "updated_at": "2025-03-23T13:25:52",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:26:15.630995",
+      "download_url": "https://umod.org/plugins/ch47-and-mini-copter-spawner/download/latest",
+      "changelog": null
+    }
+  ]
+}

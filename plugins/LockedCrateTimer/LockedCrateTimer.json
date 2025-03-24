@@ -1,0 +1,21 @@
+{
+  "id": "hackable-crate-time-editor",
+  "name": "LockedCrateTimer",
+  "author": "Cltdj",
+  "description": "Allows you to edit the amount time it takes to unlock hackable crates.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 7925,
+  "latest_version": "0.2.8",
+  "created_at": "2023-04-25T22:43:38",
+  "updated_at": "2025-03-23T15:23:24",
+  "versions": [
+    {
+      "version": "0.2.8",
+      "released_at": "2025-03-23T23:42:24.545302",
+      "download_url": "https://umod.org/plugins/hackable-crate-time-editor/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "upgrade-timer",
+  "name": "UpgradeTimer",
+  "author": "",
+  "description": "Online raiding buffed as walls keep their health when upgraded",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 27163,
+  "latest_version": "2.0.0",
+  "created_at": "2018-08-05T17:08:13",
+  "updated_at": "2025-03-14T11:46:31",
+  "versions": [
+    {
+      "version": "2.0.0",
+      "released_at": "2025-03-24T00:20:10.329824",
+      "download_url": "https://umod.org/plugins/upgrade-timer/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "magic-cargo-ship-panel",
+  "name": "MagicCargoShipPanel",
+  "author": "MJSU",
+  "description": "Displays when the cargo ship event is active in Magic Panel",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 19088,
+  "latest_version": "1.0.2",
+  "created_at": "2019-11-19T17:02:36",
+  "updated_at": "2025-03-23T02:04:17",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:49:53.125819",
+      "download_url": "https://umod.org/plugins/magic-cargo-ship-panel/download/latest",
+      "changelog": null
+    }
+  ]
+}

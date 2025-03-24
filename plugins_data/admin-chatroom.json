@@ -1,0 +1,21 @@
+{
+  "id": "admin-chatroom",
+  "name": "AdminChatroom",
+  "author": "",
+  "description": "Allows admins to chat privately with each other in-game",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 11047,
+  "latest_version": "1.0.2",
+  "created_at": "2018-07-24T21:35:00",
+  "updated_at": "2025-03-23T07:36:07",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:16:25.330547",
+      "download_url": "https://umod.org/plugins/admin-chatroom/download/latest",
+      "changelog": null
+    }
+  ]
+}

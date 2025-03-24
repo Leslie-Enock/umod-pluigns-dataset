@@ -1,0 +1,21 @@
+{
+  "id": "zone-domes",
+  "name": "ZoneDomes",
+  "author": "k1lly0u",
+  "description": "Assign shaded sphere entities to physically see the border of zones",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 44435,
+  "latest_version": "2.0.2",
+  "created_at": "2018-08-02T21:37:34",
+  "updated_at": "2025-03-23T18:55:18",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-24T00:23:56.128257",
+      "download_url": "https://umod.org/plugins/zone-domes/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "item-skin-randomizer",
+  "name": "ItemSkinRandomizer",
+  "author": "Mevent",
+  "description": "Randomizes item skins on item creation/in hands/in house",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 71247,
+  "latest_version": "1.6.3",
+  "created_at": "2018-08-05T16:55:47",
+  "updated_at": "2025-03-23T12:23:33",
+  "versions": [
+    {
+      "version": "1.6.3",
+      "released_at": "2025-03-23T23:46:34.519680",
+      "download_url": "https://umod.org/plugins/item-skin-randomizer/download/latest",
+      "changelog": null
+    }
+  ]
+}

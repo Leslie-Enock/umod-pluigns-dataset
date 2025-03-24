@@ -1,0 +1,21 @@
+{
+  "id": "discord-players",
+  "name": "DiscordPlayers",
+  "author": "MJSU",
+  "description": "Adds a /players chat command to Discord with the currently connected players",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 16377,
+  "latest_version": "3.0.0",
+  "created_at": "2018-08-24T14:43:08",
+  "updated_at": "2025-03-22T21:04:49",
+  "versions": [
+    {
+      "version": "3.0.0",
+      "released_at": "2025-03-23T23:33:30.734442",
+      "download_url": "https://umod.org/plugins/discord-players/download/latest",
+      "changelog": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "auto-fuel",
+  "name": "AutoFuel",
+  "author": "0x89A",
+  "description": "Automatically fuels lights using fuel from the tool cupboard's inventory",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 21283,
+  "latest_version": "2.1.1",
+  "created_at": "2018-07-24T21:35:01",
+  "updated_at": "2025-03-23T11:55:23",
+  "versions": [
+    {
+      "version": "2.1.1",
+      "released_at": "2025-03-23T23:19:51.495278",
+      "download_url": "https://umod.org/plugins/auto-fuel/download/latest",
+      "changelog": null
+    }
+  ]
+}

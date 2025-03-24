@@ -1,0 +1,21 @@
+{
+  "id": "power-spawn",
+  "name": "PowerSpawn",
+  "author": "misticos",
+  "description": "Powerful position generation tool with API",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 15806,
+  "latest_version": "1.4.0",
+  "created_at": "2019-01-04T04:18:56",
+  "updated_at": "2025-03-23T13:07:42",
+  "versions": [
+    {
+      "version": "1.4.0",
+      "released_at": "2025-03-24T00:02:44.111714",
+      "download_url": "https://umod.org/plugins/power-spawn/download/latest",
+      "changelog": null
+    }
+  ]
+}

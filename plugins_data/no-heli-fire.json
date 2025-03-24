@@ -1,0 +1,21 @@
+{
+  "id": "no-heli-fire",
+  "name": "NoHeliFire",
+  "author": "Tryhard",
+  "description": "Removes the explosion sound, gibs and fire effect from mini-, attack- and scrap helicopters",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6712,
+  "latest_version": "1.2.6",
+  "created_at": "2021-10-11T11:39:38",
+  "updated_at": "2025-03-19T21:55:48",
+  "versions": [
+    {
+      "version": "1.2.6",
+      "released_at": "2025-03-23T23:56:25.436808",
+      "download_url": "https://umod.org/plugins/no-heli-fire/download/latest",
+      "changelog": null
+    }
+  ]
+}

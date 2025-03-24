@@ -1,0 +1,21 @@
+{
+  "id": "playtime-tracker",
+  "name": "PlaytimeTracker",
+  "author": "k1lly0u",
+  "description": "Tracks playtime and AFK time of players with optional rewards",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 54407,
+  "latest_version": "0.2.2",
+  "created_at": "2018-08-02T21:34:12",
+  "updated_at": "2025-03-23T18:43:07",
+  "versions": [
+    {
+      "version": "0.2.2",
+      "released_at": "2025-03-24T00:02:05.037679",
+      "download_url": "https://umod.org/plugins/playtime-tracker/download/latest",
+      "changelog": null
+    }
+  ]
+}

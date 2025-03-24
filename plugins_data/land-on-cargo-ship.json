@@ -1,0 +1,21 @@
+{
+  "id": "land-on-cargo-ship",
+  "name": "LandOnCargoShip",
+  "author": "",
+  "description": "Allows the MiniCopter/ScrapHelicopter to land on the cargo ship.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8523,
+  "latest_version": "1.0.0",
+  "created_at": "2020-10-05T19:12:00",
+  "updated_at": "2025-03-22T10:57:37",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:47:55.808368",
+      "download_url": "https://umod.org/plugins/land-on-cargo-ship/download/latest",
+      "changelog": null
+    }
+  ]
+}

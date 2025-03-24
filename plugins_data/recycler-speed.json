@@ -1,0 +1,21 @@
+{
+  "id": "recycler-speed",
+  "name": "RecyclerSpeed",
+  "author": "yetzt",
+  "description": "Change the Speed of Recyclers",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 67917,
+  "latest_version": "2.0.2",
+  "created_at": "2019-09-09T21:51:49",
+  "updated_at": "2025-03-23T18:17:11",
+  "versions": [
+    {
+      "version": "2.0.2",
+      "released_at": "2025-03-24T00:06:34.808498",
+      "download_url": "https://umod.org/plugins/recycler-speed/download/latest",
+      "changelog": null
+    }
+  ]
+}

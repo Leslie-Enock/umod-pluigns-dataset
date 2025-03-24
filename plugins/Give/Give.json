@@ -1,0 +1,24 @@
+{
+  "id": "give",
+  "name": "Give",
+  "author": "MrBlue",
+  "description": "Allows players with permission to give items or kits",
+  "categories": [
+    "rust",
+    "hurtworld",
+    "7-days-to-die",
+    "reign-of-kings"
+  ],
+  "total_downloads": 39420,
+  "latest_version": "3.4.1",
+  "created_at": "2018-07-24T21:35:09",
+  "updated_at": "2025-03-23T17:05:46",
+  "versions": [
+    {
+      "version": "3.4.1",
+      "released_at": "2025-03-23T23:41:19.527228",
+      "download_url": "https://umod.org/plugins/give/download/latest",
+      "changelog": null
+    }
+  ]
+}

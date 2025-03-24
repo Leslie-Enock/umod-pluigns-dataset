@@ -1,0 +1,21 @@
+{
+  "id": "player-activity",
+  "name": "PlayerActivity",
+  "author": "RayMods",
+  "description": "API for player's total and session play time, AFK time, and connection times",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 4970,
+  "latest_version": "0.3.2",
+  "created_at": "2021-01-16T17:21:28",
+  "updated_at": "2025-03-19T10:46:42",
+  "versions": [
+    {
+      "version": "0.3.2",
+      "released_at": "2025-03-24T00:01:14.057595",
+      "download_url": "https://umod.org/plugins/player-activity/download/latest",
+      "changelog": null
+    }
+  ]
+}

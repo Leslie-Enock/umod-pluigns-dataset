@@ -1,0 +1,21 @@
+{
+  "id": "player-administration",
+  "name": "PlayerAdministration",
+  "author": "ThibmoRozier",
+  "description": "Allows server admins to moderate users using a GUI from within the game",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 125003,
+  "latest_version": "1.6.9",
+  "created_at": "2018-07-24T21:35:16",
+  "updated_at": "2025-03-23T18:43:20",
+  "versions": [
+    {
+      "version": "1.6.9",
+      "released_at": "2025-03-24T00:01:14.057823",
+      "download_url": "https://umod.org/plugins/player-administration/download/latest",
+      "changelog": null
+    }
+  ]
+}

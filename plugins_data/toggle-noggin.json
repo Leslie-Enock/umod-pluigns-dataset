@@ -1,0 +1,21 @@
+{
+  "id": "toggle-noggin",
+  "name": "ToggleNoggin",
+  "author": "CARNY666",
+  "description": "Bindable console command to spawn, equip and ignite a candle hat or miners hat.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 16954,
+  "latest_version": "1.0.4",
+  "created_at": "2018-08-05T17:11:57",
+  "updated_at": "2025-03-15T15:22:30",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-24T00:17:59.334186",
+      "download_url": "https://umod.org/plugins/toggle-noggin/download/latest",
+      "changelog": null
+    }
+  ]
+}

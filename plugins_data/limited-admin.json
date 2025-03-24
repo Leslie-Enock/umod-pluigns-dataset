@@ -1,0 +1,21 @@
+{
+  "id": "limited-admin",
+  "name": "LimitedAdmin",
+  "author": "misticos",
+  "description": "Prevents admin abuse by blocking actions and commands",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8697,
+  "latest_version": "1.0.8",
+  "created_at": "2019-03-20T10:59:32",
+  "updated_at": "2025-03-23T11:44:46",
+  "versions": [
+    {
+      "version": "1.0.8",
+      "released_at": "2025-03-23T23:48:33.348328",
+      "download_url": "https://umod.org/plugins/limited-admin/download/latest",
+      "changelog": null
+    }
+  ]
+}

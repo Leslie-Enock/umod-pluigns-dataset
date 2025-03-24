@@ -1,0 +1,21 @@
+{
+  "id": "backpack-swap",
+  "name": "BackpackSwap",
+  "author": "Whispers88",
+  "description": "Allows you to swap backpacks without having to empty them.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 394,
+  "latest_version": "1.0.1",
+  "created_at": "2024-02-02T13:26:41",
+  "updated_at": "2025-03-23T13:43:25",
+  "versions": [
+    {
+      "version": "1.0.1",
+      "released_at": "2025-03-23T23:20:44.879941",
+      "download_url": "https://umod.org/plugins/backpack-swap/download/latest",
+      "changelog": null
+    }
+  ]
+}

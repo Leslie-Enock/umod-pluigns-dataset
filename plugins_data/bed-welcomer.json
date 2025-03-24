@@ -1,0 +1,21 @@
+{
+  "id": "bed-welcomer",
+  "name": "BedWelcomer",
+  "author": "KrunghCrow",
+  "description": "Changes the text of sleeping bags and beds on placement",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 2911,
+  "latest_version": "1.0.4",
+  "created_at": "2021-02-07T18:03:15",
+  "updated_at": "2025-03-22T11:23:07",
+  "versions": [
+    {
+      "version": "1.0.4",
+      "released_at": "2025-03-23T23:21:49.840165",
+      "download_url": "https://umod.org/plugins/bed-welcomer/download/latest",
+      "changelog": null
+    }
+  ]
+}

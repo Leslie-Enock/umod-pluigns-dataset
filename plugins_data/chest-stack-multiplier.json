@@ -1,0 +1,21 @@
+{
+  "id": "chest-stack-multiplier",
+  "name": "ChestStackMultiplier",
+  "author": "MONaH",
+  "description": "Higher stack sizes in storage containers, keeping normal stack sizes your inventory.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 39775,
+  "latest_version": "1.6.1",
+  "created_at": "2018-08-05T16:47:44",
+  "updated_at": "2025-03-23T18:35:52",
+  "versions": [
+    {
+      "version": "1.6.1",
+      "released_at": "2025-03-23T23:26:43.892414",
+      "download_url": "https://umod.org/plugins/chest-stack-multiplier/download/latest",
+      "changelog": null
+    }
+  ]
+}

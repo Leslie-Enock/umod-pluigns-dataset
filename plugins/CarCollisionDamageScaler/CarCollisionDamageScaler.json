@@ -1,0 +1,21 @@
+{
+  "id": "car-collision-damage-scaler",
+  "name": "CarCollisionDamageScaler",
+  "author": "Zugzwang",
+  "description": "Scales collision damage on the new modular vehicles.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 6708,
+  "latest_version": "1.0.2",
+  "created_at": "2020-07-05T16:34:27",
+  "updated_at": "2025-03-15T22:17:56",
+  "versions": [
+    {
+      "version": "1.0.2",
+      "released_at": "2025-03-23T23:25:34.253055",
+      "download_url": "https://umod.org/plugins/car-collision-damage-scaler/download/latest",
+      "changelog": null
+    }
+  ]
+}

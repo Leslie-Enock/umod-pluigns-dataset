@@ -1,0 +1,21 @@
+{
+  "id": "random-wrapped-gift",
+  "name": "RandomWrappedGift",
+  "author": "Ryz0r",
+  "description": "Receive a randomly wrapped gift in a configured interval",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 8547,
+  "latest_version": "1.1.1",
+  "created_at": "2020-12-30T04:24:19",
+  "updated_at": "2025-03-22T17:36:32",
+  "versions": [
+    {
+      "version": "1.1.1",
+      "released_at": "2025-03-24T00:05:53.362331",
+      "download_url": "https://umod.org/plugins/random-wrapped-gift/download/latest",
+      "changelog": null
+    }
+  ]
+}

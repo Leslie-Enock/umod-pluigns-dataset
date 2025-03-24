@@ -1,0 +1,21 @@
+{
+  "id": "file-indexer",
+  "name": "FileIndexer",
+  "author": "",
+  "description": "Keep track of your plugin data files",
+  "categories": [
+    "universal"
+  ],
+  "total_downloads": 7816,
+  "latest_version": "1.0.0",
+  "created_at": "2018-08-05T07:31:47",
+  "updated_at": "2025-03-16T10:20:05",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "released_at": "2025-03-23T23:38:55.198181",
+      "download_url": "https://umod.org/plugins/file-indexer/download/latest",
+      "changelog": null
+    }
+  ]
+}

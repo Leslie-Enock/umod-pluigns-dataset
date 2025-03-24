@@ -1,0 +1,21 @@
+{
+  "id": "no-coil-drain",
+  "name": "NoCoilDrain",
+  "author": "Lincoln",
+  "description": "Prevents the Tesla coil from damaging itself while in use",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 9926,
+  "latest_version": "1.0.5",
+  "created_at": "2019-10-23T17:29:09",
+  "updated_at": "2025-03-21T08:24:21",
+  "versions": [
+    {
+      "version": "1.0.5",
+      "released_at": "2025-03-23T23:55:15.933279",
+      "download_url": "https://umod.org/plugins/no-coil-drain/download/latest",
+      "changelog": null
+    }
+  ]
+}

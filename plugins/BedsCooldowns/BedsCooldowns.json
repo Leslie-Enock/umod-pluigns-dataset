@@ -1,0 +1,21 @@
+{
+  "id": "beds-cooldowns",
+  "name": "BedsCooldowns",
+  "author": "Mabel",
+  "description": "Allows changing cooldowns for respawns on bags and beds",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 33202,
+  "latest_version": "1.1.4",
+  "created_at": "2018-12-09T04:44:35",
+  "updated_at": "2025-03-23T10:59:32",
+  "versions": [
+    {
+      "version": "1.1.4",
+      "released_at": "2025-03-23T23:21:49.840407",
+      "download_url": "https://umod.org/plugins/beds-cooldowns/download/latest",
+      "changelog": null
+    }
+  ]
+}

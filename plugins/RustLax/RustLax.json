@@ -1,0 +1,21 @@
+{
+  "id": "rust-lax",
+  "name": "RustLax",
+  "author": "ColonBlow",
+  "description": "Control when horses drop dung in minutes",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 12099,
+  "latest_version": "1.0.3",
+  "created_at": "2020-06-06T21:18:43",
+  "updated_at": "2025-03-23T14:24:15",
+  "versions": [
+    {
+      "version": "1.0.3",
+      "released_at": "2025-03-24T00:08:45.607737",
+      "download_url": "https://umod.org/plugins/rust-lax/download/latest",
+      "changelog": null
+    }
+  ]
+}

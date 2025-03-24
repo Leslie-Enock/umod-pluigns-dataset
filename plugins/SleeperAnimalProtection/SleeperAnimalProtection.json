@@ -1,0 +1,21 @@
+{
+  "id": "sleeper-animal-protection",
+  "name": "SleeperAnimalProtection",
+  "author": "Lorenzo",
+  "description": "Protects sleeping players from being killed by animals, scarecrow and murderer.",
+  "categories": [
+    "rust"
+  ],
+  "total_downloads": 13064,
+  "latest_version": "1.0.10",
+  "created_at": "2018-08-05T17:52:19",
+  "updated_at": "2025-03-22T19:44:41",
+  "versions": [
+    {
+      "version": "1.0.10",
+      "released_at": "2025-03-24T00:12:42.603999",
+      "download_url": "https://umod.org/plugins/sleeper-animal-protection/download/latest",
+      "changelog": null
+    }
+  ]
+}
