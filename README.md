@@ -1,35 +1,35 @@
 # uMod Parser
 
-Парсер для сбора информации о плагинах с платформы uMod.org.
+A parser for collecting information about plugins from the uMod.org platform.
 
-## Возможности
+## Features
 
-- Сбор информации о всех доступных плагинах
-- Получение всех версий каждого плагина
-- Сохранение данных в JSON формате
-- Обработка ошибок и логирование
-- Защита от блокировки с помощью задержек между запросами
+- Collection of information about all available plugins
+- Retrieval of all versions for each plugin
+- Saving data in JSON format
+- Error handling and logging
+- Protection against blocking with request delays
 
-## Установка
+## Installation
 
-1. Клонируйте репозиторий
-2. Установите зависимости:
+1. Clone the repository
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Использование
+## Usage
 
-Запустите скрипт:
+Run the script:
 ```bash
 python umod_parser.py
 ```
 
-Данные будут сохранены в директории `plugins_data` в формате JSON файлов, по одному файлу на каждый плагин.
+Data will be saved in the `plugins_data` directory in JSON format, one file per plugin.
 
-## Структура данных
+## Data Structure
 
-Каждый JSON файл содержит следующую информацию о плагине:
+Each JSON file contains the following information about a plugin:
 
 ```json
 {
@@ -53,10 +53,10 @@ python umod_parser.py
 }
 ```
 
-## Логирование
+## Logging
 
-Логи выводятся в консоль и содержат информацию о:
-- Процессе парсинга (текущая страница)
-- Ошибках при запросах
-- Ошибках при парсинге данных
-- Общем количестве обработанных плагинов 
+Logs are output to the console and contain information about:
+- Parsing process (current page)
+- Request errors
+- Data parsing errors
+- Total number of processed plugins 
